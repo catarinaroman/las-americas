@@ -1,0 +1,4281 @@
+---
+title: "Codebook"
+author: "Brazil, the Americas and the World Project"
+fontfamily: libertine
+fontawesome: yes
+fontsize: 12pt
+monospace-url: yes
+spacing: double
+papersize: a4paper
+bibliography: references.bib
+biblio-style: apalike
+output:
+  pdf_document:
+    citation_package: natbib
+    fig_caption: false
+    number_sections: false
+    toc: true
+    keep_tex: no
+    template: article-template.latex
+---
+
+\newpage
+
+# Introduction | Introdução
+
+This is a codebook for the 2019 wave of survey questionnaires applied to Brazilians by the Brazilian branch of the Las Américas project. 
+
+This data was acquired through a national survey conducted by XXXX in 2019, with a sample comprising XXXX people in XX municipalities across the nation. The error rate is XXX.
+
+This document is organized in seven sections according to the dimension of foreign policy perception. They are: Interest, Trust and Security, XXXXXX
+
+***
+
+Livro de códigos (codebook) da base de dados do projeto Las Américas, Brasil e o Mundo. 
+
+Os dados foram obtidos por meio de survey nacional realizado pela empresa/instituto XXXX no ano de 2019. Trata-se de amostra nacional e foram entrevistadas XXXX pessoas em XXXX cidades. A margem de erro é XXXX.
+
+O questionário do survey de 2019 conta com XXXX perguntas específicas sobre o tema política internacional. A base de dados está disponível no formado .csv no link: XXXX.
+
+Esse documento está organizado da seguinte forma: Interesse, Confiança e segurança, XXXX.
+
+
+
+## Supervision | Supervisão
+Flávio Pinheiro
+
+
+## Coordination | Coordenação 
+Paloma  Moraes 
+
+## Assistance | Assistência 
+Priscila    
+Ingrid Meirelles    
+Catarina Roman     
+
+
+\newpage
+
+# Interest | Interesse
+
+## Q1
+
+Answer to the question:   
+
+*When you watch the news, how interested are you in Brazil's relations with other countries?*
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Answer & Code in Dataset  \\ 
+  \hline
+  Very Interested & 1 \\ 
+  Interested & 2 \\
+  Slightly Interested & 3 \\ 
+  Uninterested  & 4 \\ 
+  I do not keep up with the news (spontaneous) & 5 \\ 
+  Indifferent (spontaneous) & 6 \\ 
+  DK & 7 \\ 
+  NA & 8 
+  
+\end{tabular}
+\end{table}
+
+
+Resposta para a questão: 
+
+*Quando assiste às notícias, quão interessado você está quanto às relações do Brasil com outros países?*
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Resposta & Código na Base de Dados  \\ 
+  \hline
+  Muito interessado & 1 \\ 
+  Interessado & 2 \\
+  Pouco interessado & 3 \\ 
+  Nada interessado  & 4 \\ 
+  Não sigo as notícias (espontânea) & 5 \\ 
+  Indiferente (espontânea) & 6 \\ 
+  NS & 7 \\ 
+  NR & 8 
+  
+\end{tabular}
+\end{table}
+
+
+## T_Q2_1
+
+Answer to the question:
+
+*Generally speaking, how interested are you in national affairs?*
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Answer & Code in Dataset  \\ 
+  \hline
+  Very Interested & 1 \\ 
+  Interested & 2 \\
+  Slightly Interested & 3 \\ 
+  Uninterested  & 4 \\ 
+  DK & 5 \\ 
+  NA & 6 \\ 
+  Indifferent (spontaneous) & 7
+  
+\end{tabular}
+\end{table}
+
+Resposta para a questão:  
+
+*Em geral, quanto o interessam os assuntos nacionais?*
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Resposta & Código na Base de Dados  \\ 
+  \hline
+  Muito interessado & 1 \\ 
+  Interessado & 2 \\
+  Pouco interessado & 3 \\ 
+  Nada interessado  & 4 \\ 
+  NS & 5 \\ 
+  NR & 6 \\ 
+  Indiferente (espontânea) & 7
+  
+\end{tabular}
+\end{table}
+
+
+## T_Q2_2
+
+Answer to the question:
+
+*Generally speaking, how interested are you in international affairs?*
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Answer & Code in Dataset  \\ 
+  \hline
+  Very Interested & 1 \\ 
+  Interested & 2 \\
+  Slightly Interested & 3 \\ 
+  Uninterested  & 4 \\ 
+  DK & 5 \\ 
+  NA & 6 \\ 
+  Indifferent (spontaneous) & 7
+  
+\end{tabular}
+\end{table}
+
+Resposta para a questão:
+
+*Em geral, quanto o interessam os assuntos internacionais?*
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Resposta & Código na Base de Dados  \\ 
+  \hline
+  Muito interessado & 1 \\ 
+  Interessado & 2 \\
+  Pouco interessado & 3 \\ 
+  Nada interessado  & 4 \\ 
+  NS & 5 \\ 
+  NR & 6 \\ 
+  Indiferente (espontânea) & 7
+  
+\end{tabular}
+\end{table}
+
+\newpage
+
+# Trust and Security | Confiança e Segurança
+
+## T_Q3_1
+
+Answer to the question:
+
+*To you, what is the influence of events that take place abroad in your daily life?*
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Answer & Code in Dataset  \\ 
+  \hline
+  Very Influential & 1 \\ 
+  Influential & 2 \\
+  Slightly Influential & 3 \\ 
+  Not influential  & 4 \\ 
+  DK & 5 \\ 
+  NA & 6 \\ 
+  Indifferent (spontaneous) & 7
+  
+\end{tabular}
+\end{table}
+
+
+Resposta para a questão:
+
+*Para o senhor/senhora, qual a influência do que acontece no exterior em sua vida diária?*
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Resposta & Código na Base de Dados  \\ 
+  \hline
+  Muito Influente & 1 \\ 
+  Influente & 2 \\
+  Pouco Influente & 3 \\ 
+  Nada Influente  & 4 \\ 
+  NS & 5 \\ 
+  NR & 6 \\ 
+  Indiferente (espontânea) & 7
+  
+\end{tabular}
+\end{table}
+
+
+## T_Q3_2
+
+Answer to the question:
+
+*To you, what is the influence of events that take place abroad on Brazil?*
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Answer & Code in Dataset  \\ 
+  \hline
+  Very Influential & 1 \\ 
+  Influential & 2 \\
+  Slightly Influential & 3 \\ 
+  Not influential  & 4 \\ 
+  DK & 5 \\ 
+  NA & 6 \\ 
+  Indifferent (spontaneous) & 7
+  
+\end{tabular}
+\end{table}
+
+Resposta para a questão:
+
+*Para o senhor/senhora, qual a influência do que acontece no exterior no Brasil?*
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Resposta & Código na Base de Dados  \\ 
+  \hline
+  Muito Influente & 1 \\ 
+  Influente & 2 \\
+  Pouco Influente & 3 \\ 
+  Nada Influente  & 4 \\ 
+  NS & 5 \\ 
+  NR & 6 \\ 
+  Indiferente (espontânea) & 7
+  
+\end{tabular}
+\end{table}
+
+
+
+## T_Q4_1
+
+Answer to the question: 
+
+*The Security Council is one of the most important institutions in the UN and, in certain cases, authorizes the use of force, Do you believe the Security Coundil should or should not have the right to authorize the use of military force* **to avoid serious human rights violations, such as mass killings**?
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Answer & Code in Dataset  \\ 
+  \hline
+  It Should & 1 \\ 
+  It Should Not  & 2 \\
+  DK & 3 \\ 
+  NA  & 4 \\ 
+  It Depends (SPONTANEOUS) & 5
+  
+\end{tabular}
+\end{table}
+
+Resposta para a questão:
+
+*O Conselho de Segurança é um dos órgãos mais importantes da ONU e, em certos casos, autoriza o uso da força. O senhor/senhora acredita que o Conselho deveria ou não ter o direito de autorizar o uso da força militar,* **para evitar violações graves dos Direitos Humanos, como assassinatos em massa**?
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Resposta & Código na Base de Dados  \\ 
+  \hline
+  Deveria & 1 \\ 
+  Não deveria  & 2 \\
+  NS & 3 \\ 
+  NR  & 4 \\ 
+  Depende (ESPONTÂNEA) & 5
+  
+\end{tabular}
+\end{table}
+
+
+## T_Q4_2
+
+Answer to the question: 
+
+*The Security Council is one of the most important institutions in the UN and, in certain cases, authorizes the use of force, Do you believe the Security Coundil should or should not have the right to authorize the use of military force* **to reestablish a democratic government that has been overthrown**?
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Answer & Code in Dataset  \\ 
+  \hline
+  It Should & 1 \\ 
+  It Should Not  & 2 \\
+  DK & 3 \\ 
+  NA  & 4 \\ 
+  It Depends (SPONTANEOUS) & 5
+  
+\end{tabular}
+\end{table}
+
+Resposta para a questão:
+
+*O Conselho de Segurança é um dos órgãos mais importantes da ONU e, em certos casos, autoriza o uso da força. O senhor/senhora acredita que o Conselho deveria ou não ter o direito de autorizar o uso da força militar*, **para restabelecer um governo democrático que tivesse sido derrubado**?
+
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Resposta & Código na Base de Dados  \\ 
+  \hline
+  Deveria & 1 \\ 
+  Não deveria  & 2 \\
+  NS & 3 \\ 
+  NR  & 4 \\ 
+  Depende (ESPONTÂNEA) & 5
+  
+\end{tabular}
+\end{table}
+
+
+## T_Q5_1
+
+Answer to the question:
+
+*Regarding the subjects that may affect Brazil's interests in the next 10 years, do you believe that* **the rise of China as a world superpower** *is a serious threat, an important but not serious threat, or a rather important threat to Brazil?*
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Answer & Code in Dataset  \\ 
+  \hline
+  Serious Threat & 1 \\ 
+  Important, but not Serious Threat  & 2 \\
+  Rather Important Threat & 3 \\ 
+  Not a Threat (SPONTANEOUS)  & 4 \\ 
+  DK & 5 \\
+  NA & 6
+  
+\end{tabular}
+\end{table}
+
+
+Resposta para a pergunta:
+
+*Sobre os assuntos que podem afetar os interesses do Brasil nos próximos 10 anos, o senhor considera* **o surgimento da China como potência mundial** *uma ameaça grave, uma ameaça importante mas não grave ou uma ameaça pouco importante para o Brasil?*
+
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Resposta & Código na Base de Dados \\ 
+  \hline
+  Ameaça grave & 1 \\ 
+  Ameaça importante, mas não grave  & 2 \\
+  Ameaça pouco importante  & 3 \\ 
+  Não é uma ameaça (ESPONTÂNEA)  & 4 \\ 
+  NS & 5 \\
+  NR & 6
+  
+\end{tabular}
+\end{table}
+
+
+## T_Q5_2
+
+Answer to the question:
+
+*Regarding the subjects that may affect Brazil's interests in the next 10 years, do you believe that* **international terrorism** *is a serious threat, an important but not serious threat, or a rather important threat to Brazil?*
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Answer & Code in Dataset  \\ 
+  \hline
+  Serious Threat & 1 \\ 
+  Important, but not Serious Threat  & 2 \\
+  Rather Important Threat & 3 \\ 
+  Not a Threat (SPONTANEOUS)  & 4 \\ 
+  DK & 5 \\
+  NA & 6
+  
+\end{tabular}
+\end{table}
+
+
+Resposta para a pergunta:
+
+*Sobre os assuntos que podem afetar os interesses do Brasil nos próximos 10 anos, o senhor considera* **o terrorismo internacional** *uma ameaça grave, uma ameaça importante mas não grave ou uma ameaça pouco importante para o Brasil?*
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Resposta & Código na Base de Dados \\ 
+  \hline
+  Ameaça grave & 1 \\ 
+  Ameaça importante, mas não grave  & 2 \\
+  Ameaça pouco importante  & 3 \\ 
+  Não é uma ameaça (ESPONTÂNEA)  & 4 \\ 
+  NS & 5 \\
+  NR & 6
+  
+\end{tabular}
+\end{table}
+
+
+## T_Q5_3
+
+Answer to the question:
+
+*Regarding the subjects that may affect Brazil's interests in the next 10 years, do you believe that* **global warming** *is a serious threat, an important but not serious threat, or a rather important threat to Brazil?*
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Answer & Code in Dataset  \\ 
+  \hline
+  Serious Threat & 1 \\ 
+  Important, but not Serious Threat  & 2 \\
+  Rather Important Threat & 3 \\ 
+  Not a Threat (SPONTANEOUS)  & 4 \\ 
+  DK & 5 \\
+  NA & 6
+  
+\end{tabular}
+\end{table}
+
+Resposta para a questão:
+
+*Sobre os assuntos que podem afetar os interesses do Brasil nos próximos 10 anos, o senhor considera* **o aquecimento global** *uma ameaça grave, uma ameaça importante mas não grave ou uma ameaça pouco importante para o Brasil?*
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Resposta & Código na Base de Dados \\ 
+  \hline
+  Ameaça grave & 1 \\ 
+  Ameaça importante, mas não grave  & 2 \\
+  Ameaça pouco importante  & 3 \\ 
+  Não é uma ameaça (ESPONTÂNEA)  & 4 \\ 
+  NS & 5 \\
+  NR & 6
+  
+\end{tabular}
+\end{table}
+
+
+## T_Q5_4
+
+Answer to the question:
+
+*Regarding the subjects that may affect Brazil's interests in the next 10 years, do you believe that* **drug trafficking and organized crime** *are a serious threat, an important but not serious threat, or a rather important threat to Brazil?*
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Answer & Code in Dataset  \\ 
+  \hline
+  Serious Threat & 1 \\ 
+  Important, but not Serious Threat  & 2 \\
+  Rather Important Threat & 3 \\ 
+  Not a Threat (SPONTANEOUS)  & 4 \\ 
+  DK & 5 \\
+  NA & 6
+  
+\end{tabular}
+\end{table}
+
+\newpage
+
+Resposta para a questão: 
+
+*Sobre os assuntos que podem afetar os interesses do Brasil nos próximos 10 anos, o senhor considera* **o narcotráfico e crime organizado** *uma ameaça grave, uma ameaça importante mas não grave ou uma ameaça pouco importante para o Brasil?*
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Resposta & Código na Base de Dados \\ 
+  \hline
+  Ameaça grave & 1 \\ 
+  Ameaça importante, mas não grave  & 2 \\
+  Ameaça pouco importante  & 3 \\ 
+  Não é uma ameaça (ESPONTÂNEA)  & 4 \\ 
+  NS & 5 \\
+  NR & 6
+  
+\end{tabular}
+\end{table}
+
+
+## T_Q5_5
+
+Answer to the question:
+
+*Regarding the subjects that may affect Brazil's interests in the next 10 years, do you believe that* **epidemics, such as that of H1N1,** *are a serious threat, an important but not serious threat, or a rather important threat to Brazil?*
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Answer & Code in Dataset  \\ 
+  \hline
+  Serious Threat & 1 \\ 
+  Important, but not Serious Threat  & 2 \\
+  Rather Important Threat & 3 \\ 
+  Not a Threat (SPONTANEOUS)  & 4 \\ 
+  DK & 5 \\
+  NA & 6
+  
+\end{tabular}
+\end{table}
+
+
+Resposta para a questão: 
+
+*Sobre os assuntos que podem afetar os interesses do Brasil nos próximos 10 anos, o senhor considera* **as epidemias, como a da H1N1,** *uma ameaça grave, uma ameaça importante mas não grave ou uma ameaça pouco importante para o Brasil?*
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Resposta & Código na Base de Dados \\ 
+  \hline
+  Ameaça grave & 1 \\ 
+  Ameaça importante, mas não grave  & 2 \\
+  Ameaça pouco importante  & 3 \\ 
+  Não é uma ameaça (ESPONTÂNEA)  & 4 \\ 
+  NS & 5 \\
+  NR & 6
+  
+\end{tabular}
+\end{table}
+
+
+## T_Q5_6
+
+Answer to the question:
+
+*Regarding the subjects that may affect Brazil's interests in the next 10 years, do you believe that* **epidemics, such as that of H1N1,** *are a serious threat, an important but not serious threat, or a rather important threat to Brazil?*
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Answer & Code in Dataset  \\ 
+  \hline
+  Serious Threat & 1 \\ 
+  Important, but not Serious Threat  & 2 \\
+  Rather Important Threat & 3 \\ 
+  Not a Threat (SPONTANEOUS)  & 4 \\ 
+  DK & 5 \\
+  NA & 6
+  
+\end{tabular}
+\end{table}
+
+
+Resposta para a questão: 
+
+*Sobre os assuntos que podem afetar os interesses do Brasil nos próximos 10 anos, o senhor considera* **as armas nucleares** *uma ameaça grave, uma ameaça importante mas não grave ou uma ameaça pouco importante para o Brasil?*
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Resposta & Código na Base de Dados \\ 
+  \hline
+  Ameaça grave & 1 \\ 
+  Ameaça importante, mas não grave  & 2 \\
+  Ameaça pouco importante  & 3 \\ 
+  Não é uma ameaça (ESPONTÂNEA)  & 4 \\ 
+  NS & 5 \\
+  NR & 6
+  
+\end{tabular}
+\end{table}
+
+
+## T_Q5_7
+
+Answer to the question:
+
+*Regarding the subjects that may affect Brazil's interests in the next 10 years, do you believe that* **guerrillas** *are a serious threat, an important but not serious threat, or a rather important threat to Brazil?*
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Answer & Code in Dataset  \\ 
+  \hline
+  Serious Threat & 1 \\ 
+  Important, but not Serious Threat  & 2 \\
+  Rather Important Threat & 3 \\ 
+  Not a Threat (SPONTANEOUS)  & 4 \\ 
+  DK & 5 \\
+  NA & 6
+  
+\end{tabular}
+\end{table}
+
+
+Resposta para a questão: 
+
+*Sobre os assuntos que podem afetar os interesses do Brasil nos próximos 10 anos, o senhor considera* **as guerrilhas** *uma ameaça grave, uma ameaça importante mas não grave ou uma ameaça pouco importante para o Brasil?*
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Resposta & Código na Base de Dados \\ 
+  \hline
+  Ameaça grave & 1 \\ 
+  Ameaça importante, mas não grave  & 2 \\
+  Ameaça pouco importante  & 3 \\ 
+  Não é uma ameaça (ESPONTÂNEA)  & 4 \\ 
+  NS & 5 \\
+  NR & 6
+  
+\end{tabular}
+\end{table}
+
+## T_Q5_8
+
+Answer to the question:
+
+*Regarding the subjects that may affect Brazil's interests in the next 10 years, do you believe that* **cuts in energy supply and blackouts** *are a serious threat, an important but not serious threat, or a rather important threat to Brazil?*
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Answer & Code in Dataset  \\ 
+  \hline
+  Serious Threat & 1 \\ 
+  Important, but not Serious Threat  & 2 \\
+  Rather Important Threat & 3 \\ 
+  Not a Threat (SPONTANEOUS)  & 4 \\ 
+  DK & 5 \\
+  NA & 6
+  
+\end{tabular}
+\end{table}
+
+
+Resposta para a questão: 
+
+*Sobre os assuntos que podem afetar os interesses do Brasil nos próximos 10 anos, o senhor considera* **os cortes no suprimento de energia/apagões** *uma ameaça grave, uma ameaça importante mas não grave ou uma ameaça pouco importante para o Brasil?*
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Resposta & Código na Base de Dados \\ 
+  \hline
+  Ameaça grave & 1 \\ 
+  Ameaça importante, mas não grave  & 2 \\
+  Ameaça pouco importante  & 3 \\ 
+  Não é uma ameaça (ESPONTÂNEA)  & 4 \\ 
+  NS & 5 \\
+  NR & 6
+  
+\end{tabular}
+\end{table}
+
+
+## T_Q5_9
+
+Answer to the question:
+
+*Regarding the subjects that may affect Brazil's interests in the next 10 years, do you believe that* **poverty and world hunger** *are a serious threat, an important but not serious threat, or a rather important threat to Brazil?*
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Answer & Code in Dataset  \\ 
+  \hline
+  Serious Threat & 1 \\ 
+  Important, but not Serious Threat  & 2 \\
+  Rather Important Threat & 3 \\ 
+  Not a Threat (SPONTANEOUS)  & 4 \\ 
+  DK & 5 \\
+  NA & 6
+  
+\end{tabular}
+\end{table}
+
+
+Resposta para a questão: 
+
+*Sobre os assuntos que podem afetar os interesses do Brasil nos próximos 10 anos, o senhor considera* **a pobreza e a fome no mundo** *uma ameaça grave, uma ameaça importante mas não grave ou uma ameaça pouco importante para o Brasil?*
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Resposta & Código na Base de Dados \\ 
+  \hline
+  Ameaça grave & 1 \\ 
+  Ameaça importante, mas não grave  & 2 \\
+  Ameaça pouco importante  & 3 \\ 
+  Não é uma ameaça (ESPONTÂNEA)  & 4 \\ 
+  NS & 5 \\
+  NR & 6
+  
+\end{tabular}
+\end{table}
+
+
+## T_Q5_10
+
+Answer to the question:
+
+*Regarding the subjects that may affect Brazil's interests in the next 10 years, do you believe that* **border conflicts and territorial disputes** *are a serious threat, an important but not serious threat, or a rather important threat to Brazil?*
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Answer & Code in Dataset  \\ 
+  \hline
+  Serious Threat & 1 \\ 
+  Important, but not Serious Threat  & 2 \\
+  Rather Important Threat & 3 \\ 
+  Not a Threat (SPONTANEOUS)  & 4 \\ 
+  DK & 5 \\
+  NA & 6
+  
+\end{tabular}
+\end{table}
+
+
+Resposta para a questão: 
+
+*Sobre os assuntos que podem afetar os interesses do Brasil nos próximos 10 anos, o senhor considera* **conflitos fronteiriços e disputas territoriais** *uma ameaça grave, uma ameaça importante mas não grave ou uma ameaça pouco importante para o Brasil?*
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Resposta & Código na Base de Dados \\ 
+  \hline
+  Ameaça grave & 1 \\ 
+  Ameaça importante, mas não grave  & 2 \\
+  Ameaça pouco importante  & 3 \\ 
+  Não é uma ameaça (ESPONTÂNEA)  & 4 \\ 
+  NS & 5 \\
+  NR & 6
+  
+\end{tabular}
+\end{table}
+
+
+## T_Q5_11
+
+Answer to the question:
+
+*Regarding the subjects that may affect Brazil's interests in the next 10 years, do you believe that* **populist leaders** *are a serious threat, an important but not serious threat, or a rather important threat to Brazil?*
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Answer & Code in Dataset  \\ 
+  \hline
+  Serious Threat & 1 \\ 
+  Important, but not Serious Threat  & 2 \\
+  Rather Important Threat & 3 \\ 
+  Not a Threat (SPONTANEOUS)  & 4 \\ 
+  DK & 5 \\
+  NA & 6
+  
+\end{tabular}
+\end{table}
+
+
+Resposta para a questão: 
+
+*Sobre os assuntos que podem afetar os interesses do Brasil nos próximos 10 anos, o senhor considera* **as lideranças populistas** *uma ameaça grave, uma ameaça importante mas não grave ou uma ameaça pouco importante para o Brasil?*
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Resposta & Código na Base de Dados \\ 
+  \hline
+  Ameaça grave & 1 \\ 
+  Ameaça importante, mas não grave  & 2 \\
+  Ameaça pouco importante  & 3 \\ 
+  Não é uma ameaça (ESPONTÂNEA)  & 4 \\ 
+  NS & 5 \\
+  NR & 6
+  
+\end{tabular}
+\end{table}
+
+
+## T_Q5_12
+
+Answer to the question:
+
+*Regarding the subjects that may affect Brazil's interests in the next 10 years, do you believe that* **scarcity and lack of food supply** *are a serious threat, an important but not serious threat, or a rather important threat to Brazil?*
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Answer & Code in Dataset  \\ 
+  \hline
+  Serious Threat & 1 \\ 
+  Important, but not Serious Threat  & 2 \\
+  Rather Important Threat & 3 \\ 
+  Not a Threat (SPONTANEOUS)  & 4 \\ 
+  DK & 5 \\
+  NA & 6
+  
+\end{tabular}
+\end{table}
+
+
+Resposta para a questão: 
+
+*Sobre os assuntos que podem afetar os interesses do Brasil nos próximos 10 anos, o senhor considera* **a escassez e a falta de alimentos** *uma ameaça grave, uma ameaça importante mas não grave ou uma ameaça pouco importante para o Brasil?*
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Resposta & Código na Base de Dados \\ 
+  \hline
+  Ameaça grave & 1 \\ 
+  Ameaça importante, mas não grave  & 2 \\
+  Ameaça pouco importante  & 3 \\ 
+  Não é uma ameaça (ESPONTÂNEA)  & 4 \\ 
+  NS & 5 \\
+  NR & 6
+  
+\end{tabular}
+\end{table}
+
+\newpage
+
+# Identity | Identidade
+
+## Q6
+
+Answer to the question:
+
+*Do you believe the influx of foreign ideas and traditions into Brazil is a positive or a negative factor?*
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Answer & Code in Dataset  \\ 
+  \hline
+  Very Positive & 1 \\ 
+  Positive & 2 \\
+  Negative & 3 \\ 
+  Very Negative  & 4 \\ 
+  Indifferent (spontaneous) & 5 \\ 
+  DK & 6 \\ 
+  NA & 7
+  
+\end{tabular}
+\end{table}
+
+
+Resposta para a questão: 
+
+*O senhor/senhora considera a entrada de ideias e costumes de outros países no Brasil, um fator positivo ou negativo?*
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Resposta & Código na Base de Dados  \\ 
+  \hline
+  Muito Positivo & 1 \\ 
+  Positivo & 2 \\
+  Negativo & 3 \\ 
+  Muito Negativo  & 4 \\ 
+  Indiferente (espontânea) & 5 \\ 
+  NS & 6 \\ 
+  NR & 7
+  
+\end{tabular}
+\end{table}
+
+
+## Q7
+
+Answer to the question:
+
+*Generally speaking, what is your opinion on the foreigners who live in Brazil?*
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Answer & Code in Dataset  \\ 
+  \hline
+  Very Positive & 1 \\ 
+  Positive & 2 \\
+  Negative & 3 \\ 
+  Very Negative  & 4 \\ 
+  Indifferent (spontaneous) & 5 \\ 
+  DK & 6 \\ 
+  NA & 7
+  
+\end{tabular}
+\end{table}
+
+
+Resposta para a questão: 
+
+*Em geral, qual a sua opinião sobre os estrangeiros que vivem no Brasil?*
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Resposta & Código na Base de Dados  \\ 
+  \hline
+  Muito Positivo & 1 \\ 
+  Positivo & 2 \\
+  Negativo & 3 \\ 
+  Muito Negativo  & 4 \\ 
+  Indiferente (espontânea) & 5 \\ 
+  NS & 6 \\ 
+  NR & 7
+  
+\end{tabular}
+\end{table}
+
+## Q8
+
+Answer to the question:
+
+*Regarding the amount of foreigners who live in Brazil, do you believe they are:*
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Answer & Code in Dataset \\ 
+  \hline
+  Many & 1 \\ 
+  An Appropriate Amount  & 2 \\
+  Few  & 3 \\ 
+  DK & 4 \\ 
+  NA & 5 
+  
+\end{tabular}
+\end{table}
+
+
+Resposta para a questão: 
+
+*Com relação ao número de estrangeiros que vivem no Brasil, o senhor/senhora acredita que são:*
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Resposta & Código na Base de Dados \\ 
+  \hline
+  Muitos & 1 \\ 
+  Um Número Adequado  & 2 \\
+  Poucos  & 3 \\ 
+  NS & 4 \\ 
+  NR & 5 
+  
+\end{tabular}
+\end{table}
+
+
+## T_Q9_1 
+
+Answer to the question:
+
+*What is your opinion on the following groups of foreigners who are living in Brazil:* **Germans**
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Answer & Code in Dataset  \\ 
+  \hline
+  Very Positive & 1 \\ 
+  Positive & 2 \\
+  Negative & 3 \\ 
+  Very Negative  & 4 \\ 
+  DK & 5 \\ 
+  NA & 6 \\ 
+  Indifferent (spontaneous) & 7
+  
+\end{tabular}
+\end{table}
+
+\newpage
+
+Resposta para a questão: 
+
+*Qual sua opinião sobre os seguintes grupos de estrangeiros que vivem no Brasil:* **Alemães**
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Resposta & Código na Base de Dados  \\ 
+  \hline
+  Muito Positiva & 1 \\ 
+  Positiva & 2 \\
+  Negativa & 3 \\ 
+  Muito Negativa  & 4 \\ 
+  NS & 5 \\ 
+  NR & 6 \\ 
+  Indiferente (espontânea) & 7
+  
+\end{tabular}
+\end{table}
+
+
+## T_Q9_2
+
+Answer to the question:
+
+*What is your opinion on the following groups of foreigners who are living in Brazil:* **Argentinians**
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Answer & Code in Dataset  \\ 
+  \hline
+  Very Positive & 1 \\ 
+  Positive & 2 \\
+  Negative & 3 \\ 
+  Very Negative  & 4 \\ 
+  DK & 5 \\ 
+  NA & 6 \\ 
+  Indifferent (spontaneous) & 7
+  
+\end{tabular}
+\end{table}
+
+
+Resposta para a questão: 
+
+*Qual sua opinião sobre os seguintes grupos de estrangeiros que vivem no Brasil:* **Argentinos**
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Resposta & Código na Base de Dados  \\ 
+  \hline
+  Muito Positiva & 1 \\ 
+  Positiva & 2 \\
+  Negativa & 3 \\ 
+  Muito Negativa  & 4 \\ 
+  NS & 5 \\ 
+  NR & 6 \\ 
+  Indiferente (espontânea) & 7
+  
+\end{tabular}
+\end{table}
+
+\newpage
+
+## T_Q9_3
+
+Answer to the question:
+
+*What is your opinion on the following groups of foreigners who are living in Brazil:* **Bolivians**
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Answer & Code in Dataset  \\ 
+  \hline
+  Very Positive & 1 \\ 
+  Positive & 2 \\
+  Negative & 3 \\ 
+  Very Negative  & 4 \\ 
+  DK & 5 \\ 
+  NA & 6 \\ 
+  Indifferent (spontaneous) & 7
+  
+\end{tabular}
+\end{table}
+
+Resposta para a questão: 
+
+*Qual sua opinião sobre os seguintes grupos de estrangeiros que vivem no Brasil:* **Bolivianos**
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Resposta & Código na Base de Dados  \\ 
+  \hline
+  Muito Positiva & 1 \\ 
+  Positiva & 2 \\
+  Negativa & 3 \\ 
+  Muito Negativa  & 4 \\ 
+  NS & 5 \\ 
+  NR & 6 \\ 
+  Indiferente (espontânea) & 7
+  
+\end{tabular}
+\end{table}
+
+## T_Q9_4
+
+Answer to the question:
+
+*What is your opinion on the following groups of foreigners who are living in Brazil:* **Chinese**
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Answer & Code in Dataset  \\ 
+  \hline
+  Very Positive & 1 \\ 
+  Positive & 2 \\
+  Negative & 3 \\ 
+  Very Negative  & 4 \\ 
+  DK & 5 \\ 
+  NA & 6 \\ 
+  Indifferent (spontaneous) & 7
+  
+\end{tabular}
+\end{table}
+
+\newpage
+
+Resposta para a questão: 
+
+*Qual sua opinião sobre os seguintes grupos de estrangeiros que vivem no Brasil:* **Chineses**
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Resposta & Código na Base de Dados  \\ 
+  \hline
+  Muito Positiva & 1 \\ 
+  Positiva & 2 \\
+  Negativa & 3 \\ 
+  Muito Negativa  & 4 \\ 
+  NS & 5 \\ 
+  NR & 6 \\ 
+  Indiferente (espontânea) & 7
+  
+\end{tabular}
+\end{table}
+
+
+## T_Q9_5 
+
+Answer to the question:
+
+*What is your opinion on the following groups of foreigners who are living in Brazil:* **Koreans**
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Answer & Code in Dataset  \\ 
+  \hline
+  Very Positive & 1 \\ 
+  Positive & 2 \\
+  Negative & 3 \\ 
+  Very Negative  & 4 \\ 
+  DK & 5 \\ 
+  NA & 6 \\ 
+  Indifferent (spontaneous) & 7
+  
+\end{tabular}
+\end{table}
+
+Resposta para a questão: 
+
+*Qual sua opinião sobre os seguintes grupos de estrangeiros que vivem no Brasil:* **Coreanos**
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Resposta & Código na Base de Dados  \\ 
+  \hline
+  Muito Positiva & 1 \\ 
+  Positiva & 2 \\
+  Negativa & 3 \\ 
+  Muito Negativa  & 4 \\ 
+  NS & 5 \\ 
+  NR & 6 \\ 
+  Indiferente (espontânea) & 7
+  
+\end{tabular}
+\end{table}
+
+\newpage
+
+## T_Q9_6
+
+Answer to the question:
+
+*What is your opinion on the following groups of foreigners who are living in Brazil:* **Haitians**
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Answer & Code in Dataset  \\ 
+  \hline
+  Very Positive & 1 \\ 
+  Positive & 2 \\
+  Negative & 3 \\ 
+  Very Negative  & 4 \\ 
+  DK & 5 \\ 
+  NA & 6 \\ 
+  Indifferent (spontaneous) & 7
+  
+\end{tabular}
+\end{table}
+
+Resposta para a questão: 
+
+*Qual sua opinião sobre os seguintes grupos de estrangeiros que vivem no Brasil:* **Haitianos**
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Resposta & Código na Base de Dados  \\ 
+  \hline
+  Muito Positiva & 1 \\ 
+  Positiva & 2 \\
+  Negativa & 3 \\ 
+  Muito Negativa  & 4 \\ 
+  NS & 5 \\ 
+  NR & 6 \\ 
+  Indiferente (espontânea) & 7
+  
+\end{tabular}
+\end{table}
+
+\newpage
+
+## T_Q9_7
+
+Answer to the question:
+
+*What is your opinion on the following groups of foreigners who are living in Brazil:* **Japanese**
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Answer & Code in Dataset  \\ 
+  \hline
+  Very Positive & 1 \\ 
+  Positive & 2 \\
+  Negative & 3 \\ 
+  Very Negative  & 4 \\ 
+  DK & 5 \\ 
+  NA & 6 \\ 
+  Indifferent (spontaneous) & 7
+  
+\end{tabular}
+\end{table}
+
+Resposta para a questão: 
+ 
+*Qual sua opinião sobre os seguintes grupos de estrangeiros que vivem no Brasil:* **Japoneses**
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Resposta & Código na Base de Dados  \\ 
+  \hline
+  Muito Positiva & 1 \\ 
+  Positiva & 2 \\
+  Negativa & 3 \\ 
+  Muito Negativa  & 4 \\ 
+  NS & 5 \\ 
+  NR & 6 \\ 
+  Indiferente (espontânea) & 7
+  
+\end{tabular}
+\end{table}
+
+
+## T_Q9_8
+
+Answer to the question:
+
+*What is your opinion on the following groups of foreigners who are living in Brazil:* **Nigerians**
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Answer & Code in Dataset  \\ 
+  \hline
+  Very Positive & 1 \\ 
+  Positive & 2 \\
+  Negative & 3 \\ 
+  Very Negative  & 4 \\ 
+  DK & 5 \\ 
+  NA & 6 \\ 
+  Indifferent (spontaneous) & 7
+  
+\end{tabular}
+\end{table}
+
+Resposta para a questão: 
+
+*Qual sua opinião sobre os seguintes grupos de estrangeiros que vivem no Brasil:* **Nigerianos**
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Resposta & Código na Base de Dados  \\ 
+  \hline
+  Muito Positiva & 1 \\ 
+  Positiva & 2 \\
+  Negativa & 3 \\ 
+  Muito Negativa  & 4 \\ 
+  NS & 5 \\ 
+  NR & 6 \\ 
+  Indiferente (espontânea) & 7
+  
+\end{tabular}
+\end{table}
+
+\newpage
+
+## T_Q9_9
+
+Answer to the question:
+
+*What is your opinion on the following groups of foreigners who are living in Brazil:* **Portuguese**
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Answer & Code in Dataset  \\ 
+  \hline
+  Very Positive & 1 \\ 
+  Positive & 2 \\
+  Negative & 3 \\ 
+  Very Negative  & 4 \\ 
+  DK & 5 \\ 
+  NA & 6 \\ 
+  Indifferent (spontaneous) & 7
+  
+\end{tabular}
+\end{table}
+
+Resposta para a questão: 
+
+*Qual sua opinião sobre os seguintes grupos de estrangeiros que vivem no Brasil:* **Portugueses**
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Resposta & Código na Base de Dados  \\ 
+  \hline
+  Muito Positiva & 1 \\ 
+  Positiva & 2 \\
+  Negativa & 3 \\ 
+  Muito Negativa  & 4 \\ 
+  NS & 5 \\ 
+  NR & 6 \\ 
+  Indiferente (espontânea) & 7
+  
+\end{tabular}
+\end{table}
+
+\newpage
+
+## T_Q9_10
+
+Answer to the question:
+
+*What is your opinion on the following groups of foreigners who are living in Brazil:* **Venezuelans**
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Answer & Code in Dataset  \\ 
+  \hline
+  Very Positive & 1 \\ 
+  Positive & 2 \\
+  Negative & 3 \\ 
+  Very Negative  & 4 \\ 
+  DK & 5 \\ 
+  NA & 6 \\ 
+  Indifferent (spontaneous) & 7
+  
+\end{tabular}
+\end{table}
+
+Resposta para a questão: 
+
+*Qual sua opinião sobre os seguintes grupos de estrangeiros que vivem no Brasil:* **Venezuelanos**
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Resposta & Código na Base de Dados  \\ 
+  \hline
+  Muito Positiva & 1 \\ 
+  Positiva & 2 \\
+  Negativa & 3 \\ 
+  Muito Negativa  & 4 \\ 
+  NS & 5 \\ 
+  NR & 6 \\ 
+  Indiferente (espontânea) & 7
+  
+\end{tabular}
+\end{table}
+
+
+## Q10
+
+Answer to the question:
+
+*Regarding your identity, you feel*
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Answer & Code in Dataset  \\ 
+  \hline
+  Latin American & 1 \\ 
+  Brazilian & 2 \\
+  South American & 3 \\ 
+  Citizen of Mercosur & 4 \\ 
+  Citizen of the World & 5 \\ 
+  Other. Which? & 6 \\ 
+  DK & 7 \\
+  NA & 8
+  
+\end{tabular}
+\end{table}
+
+Resposta para a questão: 
+
+*Com relação à sua identidade, o senhor/senhora se sente*
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Resposta & Código na Base de Dados  \\ 
+  \hline
+  Latino-americano & 1 \\ 
+  Brasileiro & 2 \\
+  Sul-americano & 3 \\ 
+  Cidadão do Mercosul & 4 \\ 
+  Cidadão do Mundo & 5 \\ 
+  Outra. Qual? & 6 \\ 
+  NS & 7 \\
+  NR & 8
+  
+\end{tabular}
+\end{table}
+
+
+## T_Q11_1
+
+Answer to the question:
+
+*In your opinion, how important is each of the following elements in being Brazilian:* **Being born in Brazil**
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Answer & Code in Dataset  \\ 
+  \hline
+  Very Important & 1 \\ 
+  Important & 2 \\
+  Slightly Important & 3 \\ 
+  Not Important  & 4 \\ 
+  DK & 5 \\ 
+  NA & 6 \\ 
+  Indifferent (spontaneous) & 7
+  
+\end{tabular}
+\end{table}
+
+Resposta para a questão: 
+
+*Na sua opinião, qual a importância de cada um dos seguintes aspectos para ser brasileiro:* **Ter nascido no Brasil**
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Resposta & Código na Base de Dados  \\ 
+  \hline
+  Muito Importante & 1 \\ 
+  Importante & 2 \\
+  Pouco Importante & 3 \\ 
+  Nada Importante  & 4 \\ 
+  NS & 5 \\ 
+  NR & 6 \\ 
+  Indiferente (espontânea) & 7
+  
+\end{tabular}
+\end{table}
+
+
+## T_Q11_2
+
+Answer to the question:
+
+*In your opinion, how important is each of the following elements in being Brazilian:* **Speaking Portuguese well**
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Answer & Code in Dataset  \\ 
+  \hline
+  Very Important & 1 \\ 
+  Important & 2 \\
+  Slightly Important & 3 \\ 
+  Not Important  & 4 \\ 
+  DK & 5 \\ 
+  NA & 6 \\ 
+  Indifferent (spontaneous) & 7
+  
+\end{tabular}
+\end{table}
+
+
+Resposta para a questão: 
+
+*Na sua opinião, qual a importância de cada um dos seguintes aspectos para ser brasileiro:* **Falar bem o português**
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Resposta & Código na Base de Dados  \\ 
+  \hline
+  Muito Importante & 1 \\ 
+  Importante & 2 \\
+  Pouco Importante & 3 \\ 
+  Nada Importante  & 4 \\ 
+  NS & 5 \\ 
+  NR & 6 \\ 
+  Indiferente (espontânea) & 7
+  
+\end{tabular}
+\end{table}
+
+
+## T_Q11_3
+
+Answer to the question:
+
+*In your opinion, how important is each of the following elements in being Brazilian:* **Being Christian**
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Answer & Code in Dataset  \\ 
+  \hline
+  Very Important & 1 \\ 
+  Important & 2 \\
+  Slightly Important & 3 \\ 
+  Not Important  & 4 \\ 
+  DK & 5 \\ 
+  NA & 6 \\ 
+  Indifferent (spontaneous) & 7
+  
+\end{tabular}
+\end{table}
+
+
+Resposta para a questão: 
+
+*Na sua opinião, qual a importância de cada um dos seguintes aspectos para ser brasileiro:* **Ser cristão**
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Resposta & Código na Base de Dados  \\ 
+  \hline
+  Muito Importante & 1 \\ 
+  Importante & 2 \\
+  Pouco Importante & 3 \\ 
+  Nada Importante  & 4 \\ 
+  NS & 5 \\ 
+  NR & 6 \\ 
+  Indiferente (espontânea) & 7
+  
+\end{tabular}
+\end{table}
+
+
+## T_Q11_4
+
+Answer to the question:
+
+*In your opinion, how important is each of the following elements in being Brazilian:* **Respecting the nation's symbols, such as the flag and the national anthem**
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Answer & Code in Dataset  \\ 
+  \hline
+  Very Important & 1 \\ 
+  Important & 2 \\
+  Slightly Important & 3 \\ 
+  Not Important  & 4 \\ 
+  DK & 5 \\ 
+  NA & 6 \\ 
+  Indifferent (spontaneous) & 7
+  
+\end{tabular}
+\end{table}
+
+
+Resposta para a questão: 
+
+*Na sua opinião, qual a importância de cada um dos seguintes aspectos para ser brasileiro:* **Respeitar os símbolos do país como a bandeira e o hino**
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Resposta & Código na Base de Dados  \\ 
+  \hline
+  Muito Importante & 1 \\ 
+  Importante & 2 \\
+  Pouco Importante & 3 \\ 
+  Nada Importante  & 4 \\ 
+  NS & 5 \\ 
+  NR & 6 \\ 
+  Indiferente (espontânea) & 7
+  
+\end{tabular}
+\end{table}
+
+## T_Q11_5
+
+Answer to the question:
+
+*In your opinion, how important is each of the following elements in being Brazilian:* **Being proud of being Brazilian**
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Answer & Code in Dataset  \\ 
+  \hline
+  Very Important & 1 \\ 
+  Important & 2 \\
+  Slightly Important & 3 \\ 
+  Not Important  & 4 \\ 
+  DK & 5 \\ 
+  NA & 6 \\ 
+  Indifferent (spontaneous) & 7
+  
+\end{tabular}
+\end{table}
+
+
+Resposta para a questão: 
+
+*Na sua opinião, qual a importância de cada um dos seguintes aspectos para ser brasileiro:* **Ter orgulho de ser brasileiro**
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Resposta & Código na Base de Dados  \\ 
+  \hline
+  Muito Importante & 1 \\ 
+  Importante & 2 \\
+  Pouco Importante & 3 \\ 
+  Nada Importante  & 4 \\ 
+  NS & 5 \\ 
+  NR & 6 \\ 
+  Indiferente (espontânea) & 7
+  
+\end{tabular}
+\end{table}
+
+
+# Knowledge | Conhecimento
+
+## T_Q12_1
+
+Answer to the question:
+
+*What does the acronym __UN__ mean?*
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Answer & Code in Dataset  \\ 
+  \hline
+  Answered Correctly & 1 \\ 
+  Answered Incorrectly & 2 \\
+  DK & 3 \\ 
+  NA & 4
+  
+\end{tabular}
+\end{table}
+
+Resposta para a questão: 
+
+*Qual o significado da sigla __ONU__?*
+ 
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Resposta & Código na Base de Dados  \\ 
+  \hline
+  Correta & 1 \\ 
+  Incorreta & 2 \\
+  NS & 3 \\ 
+  NR & 4
+  
+\end{tabular}
+\end{table} 
+
+
+## T_Q12_2
+
+Answer to the question:
+
+*What does the acronym __MRE__ mean?*
+
+*MRE*, in Brazilian Portuguese, stands for Ministério das Relações Exteriores, which is the Brazilian Ministry of Foreign Affairs.
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Answer & Code in Dataset  \\ 
+  \hline
+  Answered Correctly & 1 \\ 
+  Answered Incorrectly & 2 \\
+  DK & 3 \\ 
+  NA & 4
+  
+\end{tabular}
+\end{table}
+
+Resposta para a questão: 
+
+*Qual o significado da sigla __MRE__?*
+ 
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Resposta & Código na Base de Dados  \\ 
+  \hline
+  Correta & 1 \\ 
+  Incorreta & 2 \\
+  NS & 3 \\ 
+  NR & 4
+  
+\end{tabular}
+\end{table} 
+
+
+## T_Q12_3
+
+Answer to the question:
+
+*What does the acronym BRICS mean?*
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Answer & Code in Dataset  \\ 
+  \hline
+  Answered Correctly & 1 \\ 
+  Answered Incorrectly & 2 \\
+  DK & 3 \\ 
+  NA & 4
+  
+\end{tabular}
+\end{table}
+
+Resposta para a questão: 
+
+*Qual o significado da sigla __BRICS__?*
+ 
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Resposta & Código na Base de Dados  \\ 
+  \hline
+  Correta & 1 \\ 
+  Incorreta & 2 \\
+  NS & 3 \\ 
+  NR & 4
+  
+\end{tabular}
+\end{table} 
+
+
+## Q13
+
+Answer to the question:
+
+*In your opinion, what is best for Brazil's future: Participating actively or keeping away from global/world affairs?*
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Answer & Code in Dataset  \\ 
+  \hline
+  Participating Actively & 1 \\ 
+  Keeping away from global/world affairs & 2 \\
+  DK & 3 \\ 
+  NA & 4 \\
+  Neither (SPONTANEOUS) & 5 \\
+  IndifFerent (SPONTANEOUS) & 6
+  
+\end{tabular}
+\end{table} 
+
+\newpage
+
+Resposta para a questão: 
+
+*Em sua opinião, o que é melhor para o futuro do Brasil: ter participação ativa ou manter-se longe dos assuntos mundiais?*
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Resposta & Código na Base de Dados  \\ 
+  \hline
+  Ter participação ativa & 1 \\ 
+  Manter-se longe dos assuntos mundiais & 2 \\
+  NS & 3 \\ 
+  NR & 4 \\
+  Nem um, nem outro (ESPONTÂNEA) & 5 \\
+  Indiferente (ESPONTÂNEA) & 6
+  
+\end{tabular}
+\end{table} 
+
+
+## T_Q14_1
+
+Answer to the question:
+
+*In your opinion, how important should each of the following objectives be for Brazilian foreign policy:* **Align Brazilian foreign policy to the foreign policy of the most powerful nations, such as the United States.**
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Answer & Code in Dataset  \\ 
+  \hline
+  Very Important & 1 \\ 
+  Important & 2 \\
+  Slightly Important & 3 \\ 
+  Not Important  & 4 \\ 
+  DK & 5 \\ 
+  NA & 6 \\ 
+  Indifferent (spontaneous) & 7
+  
+\end{tabular}
+\end{table}
+
+Resposta para a questão: 
+
+*Em sua opinião, qual deveria ser a importância de cada um dos seguintes objetivos da política externa Brasileira:* **Alinhar a política externa brasileira à política externa das nações mais poderosas, como os Estados Unidos.**
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Resposta & Código na Base de Dados  \\ 
+  \hline
+  Muito Importante & 1 \\ 
+  Importante & 2 \\
+  Pouco Importante & 3 \\ 
+  Nada Importante  & 4 \\ 
+  NS & 5 \\ 
+  NR & 6 \\ 
+  Indiferente (espontânea) & 7
+  
+\end{tabular}
+\end{table}
+
+
+## T_Q14_2
+
+Answer to the question:
+
+*In your opinion, how important should each of the following objectives be for Brazilian foreign policy:* **Determine Brazilian foreign policy according to our nation's particular interests.**
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Answer & Code in Dataset  \\ 
+  \hline
+  Very Important & 1 \\ 
+  Important & 2 \\
+  Slightly Important & 3 \\ 
+  Not Important  & 4 \\ 
+  DK & 5 \\ 
+  NA & 6 \\ 
+  Indifferent (spontaneous) & 7
+  
+\end{tabular}
+\end{table}
+
+Resposta para a questão: 
+
+*Em sua opinião, qual deveria ser a importância de cada um dos seguintes objetivos da política externa Brasileira:* **Definir a política externa brasileira a partir dos interesses próprios do país.**
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Resposta & Código na Base de Dados  \\ 
+  \hline
+  Muito Importante & 1 \\ 
+  Importante & 2 \\
+  Pouco Importante & 3 \\ 
+  Nada Importante  & 4 \\ 
+  NS & 5 \\ 
+  NR & 6 \\ 
+  Indiferente (espontânea) & 7
+  
+\end{tabular}
+\end{table}
+
+
+## T_Q14_3
+
+Answer to the question:
+
+*In your opinion, how important should each of the following objectives be for Brazilian foreign policy:* **Diversify Brazil's international partners according to our nation's particular interests.**
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Answer & Code in Dataset  \\ 
+  \hline
+  Very Important & 1 \\ 
+  Important & 2 \\
+  Slightly Important & 3 \\ 
+  Not Important  & 4 \\ 
+  DK & 5 \\ 
+  NA & 6 \\ 
+  Indifferent (spontaneous) & 7
+  
+\end{tabular}
+\end{table}
+
+\newpage
+
+Resposta para a questão: 
+
+*Em sua opinião, qual deveria ser a importância de cada um dos seguintes objetivos da política externa Brasileira:* **Diversificar os parceiros internacionais do país, de acordo com nossos interesses.**
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Resposta & Código na Base de Dados  \\ 
+  \hline
+  Muito Importante & 1 \\ 
+  Importante & 2 \\
+  Pouco Importante & 3 \\ 
+  Nada Importante  & 4 \\ 
+  NS & 5 \\ 
+  NR & 6 \\ 
+  Indiferente (espontânea) & 7
+  
+\end{tabular}
+\end{table}
+
+
+## T_Q14_4
+
+Answer to the question:
+
+*In your opinion, how important should each of the following objectives be for Brazilian foreign policy:* **Stregthen relations with the United Nations (UN).**
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Answer & Code in Dataset  \\ 
+  \hline
+  Very Important & 1 \\ 
+  Important & 2 \\
+  Slightly Important & 3 \\ 
+  Not Important  & 4 \\ 
+  DK & 5 \\ 
+  NA & 6 \\ 
+  Indifferent (spontaneous) & 7
+  
+\end{tabular}
+\end{table}
+
+Resposta para a questão: 
+
+*Em sua opinião, qual deveria ser a importância de cada um dos seguintes objetivos da política externa Brasileira:* **Fortalecer relações com as Nações Unidas (ONU).**
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Resposta & Código na Base de Dados  \\ 
+  \hline
+  Muito Importante & 1 \\ 
+  Importante & 2 \\
+  Pouco Importante & 3 \\ 
+  Nada Importante  & 4 \\ 
+  NS & 5 \\ 
+  NR & 6 \\ 
+  Indiferente (espontânea) & 7
+  
+\end{tabular}
+\end{table}
+
+\newpage
+
+## T_Q14_5
+
+Answer to the question:
+
+*In your opinion, how important should each of the following objectives be for Brazilian foreign policy:* **Strengthen relations with the Organization of American States (OAS).**
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Answer & Code in Dataset  \\ 
+  \hline
+  Very Important & 1 \\ 
+  Important & 2 \\
+  Slightly Important & 3 \\ 
+  Not Important  & 4 \\ 
+  DK & 5 \\ 
+  NA & 6 \\ 
+  Indifferent (spontaneous) & 7
+  
+\end{tabular}
+\end{table}
+
+Resposta para a questão: 
+
+*Em sua opinião, qual deveria ser a importância de cada um dos seguintes objetivos da política externa Brasileira:* **Fortalecer relações com a Organização dos Estados Americanos (OEA).**
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Resposta & Código na Base de Dados  \\ 
+  \hline
+  Muito Importante & 1 \\ 
+  Importante & 2 \\
+  Pouco Importante & 3 \\ 
+  Nada Importante  & 4 \\ 
+  NS & 5 \\ 
+  NR & 6 \\ 
+  Indiferente (espontânea) & 7
+  
+\end{tabular}
+\end{table}
+
+
+## T_Q14_6
+
+Answer to the question:
+
+*In your opinion, how important should each of the following objectives be for Brazilian foreign policy:* **Strengthen relations with the South American Nations Union (UNASUR).**
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Answer & Code in Dataset  \\ 
+  \hline
+  Very Important & 1 \\ 
+  Important & 2 \\
+  Slightly Important & 3 \\ 
+  Not Important  & 4 \\ 
+  DK & 5 \\ 
+  NA & 6 \\ 
+  Indifferent (spontaneous) & 7
+  
+\end{tabular}
+\end{table}
+
+\newpage
+
+Resposta para a questão: 
+
+*Em sua opinião, qual deveria ser a importância de cada um dos seguintes objetivos da política externa Brasileira:* **Fortalecer as relações com a União de Nações Sul-americanas (UNASUL).**
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Resposta & Código na Base de Dados  \\ 
+  \hline
+  Muito Importante & 1 \\ 
+  Importante & 2 \\
+  Pouco Importante & 3 \\ 
+  Nada Importante  & 4 \\ 
+  NS & 5 \\ 
+  NR & 6 \\ 
+  Indiferente (espontânea) & 7
+  
+\end{tabular}
+\end{table}
+
+
+## T_Q14_7
+
+Answer to the question:
+
+*In your opinion, how important should each of the following objectives be for Brazilian foreign policy:* **Fight international terrorism.**
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Answer & Code in Dataset  \\ 
+  \hline
+  Very Important & 1 \\ 
+  Important & 2 \\
+  Slightly Important & 3 \\ 
+  Not Important  & 4 \\ 
+  DK & 5 \\ 
+  NA & 6 \\ 
+  Indifferent (spontaneous) & 7
+  
+\end{tabular}
+\end{table}
+
+Resposta para a questão: 
+
+*Em sua opinião, qual deveria ser a importância de cada um dos seguintes objetivos da política externa Brasileira:* **Combater o terrorismo internacional.**
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Resposta & Código na Base de Dados  \\ 
+  \hline
+  Muito Importante & 1 \\ 
+  Importante & 2 \\
+  Pouco Importante & 3 \\ 
+  Nada Importante  & 4 \\ 
+  NS & 5 \\ 
+  NR & 6 \\ 
+  Indiferente (espontânea) & 7
+  
+\end{tabular}
+\end{table}
+
+
+## T_Q14_8
+
+Answer to the question:
+
+*In your opinion, how important should each of the following objectives be for Brazilian foreign policy:* **Help expand democracy to other countries.**
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Answer & Code in Dataset  \\ 
+  \hline
+  Very Important & 1 \\ 
+  Important & 2 \\
+  Slightly Important & 3 \\ 
+  Not Important  & 4 \\ 
+  DK & 5 \\ 
+  NA & 6 \\ 
+  Indifferent (spontaneous) & 7
+  
+\end{tabular}
+\end{table}
+
+Resposta para a questão: 
+
+*Em sua opinião, qual deveria ser a importância de cada um dos seguintes objetivos da política externa Brasileira:* **Ajudar a levar a democracia a outros países.**
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Resposta & Código na Base de Dados  \\ 
+  \hline
+  Muito Importante & 1 \\ 
+  Importante & 2 \\
+  Pouco Importante & 3 \\ 
+  Nada Importante  & 4 \\ 
+  NS & 5 \\ 
+  NR & 6 \\ 
+  Indiferente (espontânea) & 7
+  
+\end{tabular}
+\end{table}
+
+
+## T_Q14_9
+
+Answer to the question:
+
+*In your opinion, how important should each of the following objectives be for Brazilian foreign policy:* **Help increase the quality of life in poor countries.**
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Answer & Code in Dataset  \\ 
+  \hline
+  Very Important & 1 \\ 
+  Important & 2 \\
+  Slightly Important & 3 \\ 
+  Not Important  & 4 \\ 
+  DK & 5 \\ 
+  NA & 6 \\ 
+  Indifferent (spontaneous) & 7
+  
+\end{tabular}
+\end{table}
+
+\newpage
+
+Resposta para a questão: 
+
+*Em sua opinião, qual deveria ser a importância de cada um dos seguintes objetivos da política externa Brasileira:* **Ajudar a melhorar o nível de vida nos países pobres.**
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Resposta & Código na Base de Dados  \\ 
+  \hline
+  Muito Importante & 1 \\ 
+  Importante & 2 \\
+  Pouco Importante & 3 \\ 
+  Nada Importante  & 4 \\ 
+  NS & 5 \\ 
+  NR & 6 \\ 
+  Indiferente (espontânea) & 7
+  
+\end{tabular}
+\end{table}
+
+
+## T_Q14_10
+
+Answer to the question:
+
+*In your opinion, how important should each of the following objectives be for Brazilian foreign policy:* **Prevent nuclear arm proliferation.**
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Answer & Code in Dataset  \\ 
+  \hline
+  Very Important & 1 \\ 
+  Important & 2 \\
+  Slightly Important & 3 \\ 
+  Not Important  & 4 \\ 
+  DK & 5 \\ 
+  NA & 6 \\ 
+  Indifferent (spontaneous) & 7
+  
+\end{tabular}
+\end{table}
+
+Resposta para a questão: 
+
+*Em sua opinião, qual deveria ser a importância de cada um dos seguintes objetivos da política externa Brasileira:* **Prevenir a proliferação de armas nucleares.**
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Resposta & Código na Base de Dados  \\ 
+  \hline
+  Muito Importante & 1 \\ 
+  Importante & 2 \\
+  Pouco Importante & 3 \\ 
+  Nada Importante  & 4 \\ 
+  NS & 5 \\ 
+  NR & 6 \\ 
+  Indiferente (espontânea) & 7
+  
+\end{tabular}
+\end{table}
+
+\newpage
+
+## T_Q14_11
+
+Answer to the question:
+
+*In your opinion, how important should each of the following objectives be for Brazilian foreign policy:* **Fight drug trafficking and organized crime.**
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Answer & Code in Dataset  \\ 
+  \hline
+  Very Important & 1 \\ 
+  Important & 2 \\
+  Slightly Important & 3 \\ 
+  Not Important  & 4 \\ 
+  DK & 5 \\ 
+  NA & 6 \\ 
+  Indifferent (spontaneous) & 7
+  
+\end{tabular}
+\end{table}
+
+Resposta para a questão: 
+
+*Em sua opinião, qual deveria ser a importância de cada um dos seguintes objetivos da política externa Brasileira:* **Combater o narcotráfico e o crime organizado.**
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Resposta & Código na Base de Dados  \\ 
+  \hline
+  Muito Importante & 1 \\ 
+  Importante & 2 \\
+  Pouco Importante & 3 \\ 
+  Nada Importante  & 4 \\ 
+  NS & 5 \\ 
+  NR & 6 \\ 
+  Indiferente (espontânea) & 7
+  
+\end{tabular}
+\end{table}
+
+
+## T_Q14_12
+
+Answer to the question:
+
+*In your opinion, how important should each of the following objectives be for Brazilian foreign policy:* **Protect Brazilian interests in other countries.**
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Answer & Code in Dataset  \\ 
+  \hline
+  Very Important & 1 \\ 
+  Important & 2 \\
+  Slightly Important & 3 \\ 
+  Not Important  & 4 \\ 
+  DK & 5 \\ 
+  NA & 6 \\ 
+  Indifferent (spontaneous) & 7
+  
+\end{tabular}
+\end{table}
+
+\newpage
+
+Resposta para a questão: 
+
+*Em sua opinião, qual deveria ser a importância de cada um dos seguintes objetivos da política externa Brasileira:* **Proteger os interesses brasileiros em outros países.**
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Resposta & Código na Base de Dados  \\ 
+  \hline
+  Muito Importante & 1 \\ 
+  Importante & 2 \\
+  Pouco Importante & 3 \\ 
+  Nada Importante  & 4 \\ 
+  NS & 5 \\ 
+  NR & 6 \\ 
+  Indiferente (espontânea) & 7
+  
+\end{tabular}
+\end{table}
+
+
+## T_Q14_13
+
+Answer to the question:
+
+*In your opinion, how important should each of the following objectives be for Brazilian foreign policy:* **Draw foreign investment into Brazil.**
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Answer & Code in Dataset  \\ 
+  \hline
+  Very Important & 1 \\ 
+  Important & 2 \\
+  Slightly Important & 3 \\ 
+  Not Important  & 4 \\ 
+  DK & 5 \\ 
+  NA & 6 \\ 
+  Indifferent (spontaneous) & 7
+  
+\end{tabular}
+\end{table}
+
+Resposta para a questão: 
+
+*Em sua opinião, qual deveria ser a importância de cada um dos seguintes objetivos da política externa Brasileira:* **Atrair investimentos estrangeiros para o Brasil.**
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Resposta & Código na Base de Dados  \\ 
+  \hline
+  Muito Importante & 1 \\ 
+  Importante & 2 \\
+  Pouco Importante & 3 \\ 
+  Nada Importante  & 4 \\ 
+  NS & 5 \\ 
+  NR & 6 \\ 
+  Indiferente (espontânea) & 7
+  
+\end{tabular}
+\end{table}
+
+
+## T_Q14_14
+
+Answer to the question:
+
+*In your opinion, how important should each of the following objectives be for Brazilian foreign policy:* **Protect the environment.**
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Answer & Code in Dataset  \\ 
+  \hline
+  Very Important & 1 \\ 
+  Important & 2 \\
+  Slightly Important & 3 \\ 
+  Not Important  & 4 \\ 
+  DK & 5 \\ 
+  NA & 6 \\ 
+  Indifferent (spontaneous) & 7
+  
+\end{tabular}
+\end{table}
+
+Resposta para a questão: 
+
+*Em sua opinião, qual deveria ser a importância de cada um dos seguintes objetivos da política externa Brasileira:* **Proteger o meio-ambiente.**
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Resposta & Código na Base de Dados  \\ 
+  \hline
+  Muito Importante & 1 \\ 
+  Importante & 2 \\
+  Pouco Importante & 3 \\ 
+  Nada Importante  & 4 \\ 
+  NS & 5 \\ 
+  NR & 6 \\ 
+  Indiferente (espontânea) & 7
+  
+\end{tabular}
+\end{table}
+
+
+## T_Q14_15
+
+Answer to the question:
+
+*In your opinion, how important should each of the following objectives be for Brazilian foreign policy:* **Promote regional integration.**
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Answer & Code in Dataset  \\ 
+  \hline
+  Very Important & 1 \\ 
+  Important & 2 \\
+  Slightly Important & 3 \\ 
+  Not Important  & 4 \\ 
+  DK & 5 \\ 
+  NA & 6 \\ 
+  Indifferent (spontaneous) & 7
+  
+\end{tabular}
+\end{table}
+
+\newpage
+
+Resposta para a questão: 
+
+*Em sua opinião, qual deveria ser a importância de cada um dos seguintes objetivos da política externa Brasileira:* **Promover a integração regional.**
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Resposta & Código na Base de Dados  \\ 
+  \hline
+  Muito Importante & 1 \\ 
+  Importante & 2 \\
+  Pouco Importante & 3 \\ 
+  Nada Importante  & 4 \\ 
+  NS & 5 \\ 
+  NR & 6 \\ 
+  Indiferente (espontânea) & 7
+  
+\end{tabular}
+\end{table}
+
+
+## T_Q14_16
+
+Answer to the question:
+
+*In your opinion, how important should each of the following objectives be for Brazilian foreign policy:* **Promote the protection of Human Rights in other nations.**
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Answer & Code in Dataset  \\ 
+  \hline
+  Very Important & 1 \\ 
+  Important & 2 \\
+  Slightly Important & 3 \\ 
+  Not Important  & 4 \\ 
+  DK & 5 \\ 
+  NA & 6 \\ 
+  Indifferent (spontaneous) & 7
+  
+\end{tabular}
+\end{table}
+
+Resposta para a questão: 
+
+*Em sua opinião, qual deveria ser a importância de cada um dos seguintes objetivos da política externa Brasileira:* **Promover a proteção dos direitos humanos em outros países.**
+
+\begin{table}[!htb]
+\centering
+\begin{tabular}{cc}
+
+Resposta & Código na Base de Dados  \\ 
+  \hline
+  Muito Importante & 1 \\ 
+  Importante & 2 \\
+  Pouco Importante & 3 \\ 
+  Nada Importante  & 4 \\ 
+  NS & 5 \\ 
+  NR & 6 \\ 
+  Indiferente (espontânea) & 7
+  
+\end{tabular}
+\end{table}
+
+ 
+## Q15
+
+Answer to the question:
+
+*Out of all these objetives, which is more important?*
+
+\begin{table}[!htb]
+\centering
+\scalebox{0.75}{
+\begin{tabular}{rl}
+
+Answer & Code in Dataset  \\ 
+  \hline
+  Align Brazilian foreign policy to the foreign policy of the most powerful nations, such as the United States & 1 \\
+  Determine Brazilian foreign policy according to our nation's particular interests & 2 \\
+  Diversify Brazil's international partners according to our nation's particular interests & 3 \\
+  Stregthen relations with the United Nations (UN) & 4 \\
+  Strengthen relations with the Organization of American States (OAS) & 5 \\
+  Strengthen relations with the South American Nations Union (UNASUR) & 6 \\
+  Fight international terrorism & 7 \\
+  Help expand democracy to other countries & 8 \\
+  Help increase the quality of life in poor countries & 9 \\
+  Prevent nuclear arm proliferation & 10 \\
+  Fight drug trafficking and organized crime & 11 \\
+  Protect Brazilian interests in other countries & 12 \\
+  Draw foreign investment into Brazil & 13 \\
+  Protect the environment & 14 \\
+  Promote regional integration & 15 \\
+  Promote the protection of Human Rights in other nations & 16 \\
+  DK & 17 \\
+  NA & 18 \\
+  All (SPONTANEOUS) & 19 \\
+  None (SPONTANEOUS) & 20 \\
+  Other. Explain. & 21
+  
+\end{tabular}}
+\end{table}
+
+Resposta para a questão: 
+
+*E de todos esses objetivos, qual é o mais importante?*
+
+\newpage
+
+\begin{table}[!htb]
+\centering
+\scalebox{0.75}{
+\begin{tabular}{rl}
+  Resposta & Código na Base de Dados  \\ 
+  \hline
+Alinhar a política externa brasileira à política externa das nações mais poderosas, como os Estados Unidos & 1 \\
+Definir a política externa brasileira a partir dos interesses próprios do país & 2 \\
+Diversificar os parceiros internacionais do país, de acordo com nossos interesses & 3 \\
+Fortalecer relações com as Nações Unidas (ONU) & 4 \\
+Fortalecer relações com a Organização dos Estados Americanos(OEA) & 5 \\
+Fortalecer relações com a União de Nações Sul-americanas (UNASUL) & 6 \\
+Combater o terrorismo internacional & 7 \\
+Ajudar a levar a democracia a outros países & 8 \\
+Ajudar a melhorar o nível de vida nos países pobres & 9 \\
+Prevenir a proliferação de armas nucleares & 10 \\
+Combater o narcotráfico e o crime organizado & 11 \\
+Proteger os interesses brasileiros em outros países & 12 \\
+Atrair investimentos estrangeiros para o Brasil & 13 \\
+Proteger o meio-ambiente & 14 \\
+Promover a integração regional & 15 \\
+Promover a proteção dos direitos humanos em outros países & 16 \\
+NS & 17 \\
+NR & 18 \\
+Todos (Espontânea) & 19 \\
+Nenhum (Espontânea) & 20 \\
+Outro. Qual? (Espontânea) & 21 \\
+
+\end{tabular}}
+\end{table}
+
+
+## Q16
+
+Resposta para a questão: 
+
+Ao seu ver, qual a importância do Brasil no plano internacional?
+
+1 Muito importante
+2 Importante
+3 Pouco Importante
+4 Nada importante
+5 Indiferente (Espontânea)
+6 NS
+7 NR
+
+## T_Q17_1
+Resposta para a questão: 
+
+Pensando sobre a importância do Brasil no cenário internacional, o senhor/senhora acredita que o país: tem maior ou menor importância internacional do que tinha há 10 anos? 
+
+1 Maior
+2 Menor
+3 Igual (ESPONTÂNEA)
+4 NS
+
+## T_Q17_2
+Resposta para a questão: 
+
+Pensando sobre a importância do Brasil no cenário internacional, o senhor/senhora acredita que o país: terá maior ou menor importância internacional daqui a 10 anos? 
+
+1 Maior
+2 Menor
+3 Igual (ESPONTÂNEA)
+4 NS
+
+## Q18
+Resposta para a questão: 
+
+O senhor/senhora acredita que a política externa do Brasil tem por objetivo.
+
+1 Mudar a distribuição de poder atual entre os países, no mundo 
+2 Manter a distribuição atual de poder entre os países, no mundo, incluindo o Brasil entre os poderosos 
+3 NS 
+4 NR
+5 Não tem nenhum objetivo (espontânea)
+
+## T_Q19_1
+Resposta para a questão: 
+
+Qual a importância do Brasil investir mais recursos: na abertura de novas embaixadas e consulados em outros países.
+
+1 Muito importante
+2 Importante
+3 Pouco importante
+4 Nada importante
+5 NS
+6 NR
+7 Indiferente (ESPONTÂNEA)
+
+## T_Q19_2
+Resposta para a questão: 
+
+Qual a importância do Brasil investir mais recursos no oferecimento de bolsas para estrangeiros que venham estudar no Brasil.
+
+1 Muito importante
+2 Importante
+3 Pouco importante
+4 Nada importante
+5 NS
+6 NR
+7 Indiferente (ESPONTÂNEA)
+
+## T_Q19_3
+Resposta para a questão: 
+
+Qual a importância do Brasil investir mais recursos no incentivo financeiro ao desenvolvimento de outros países.
+
+1 Muito importante
+2 Importante
+3 Pouco importante
+4 Nada importante
+5 NS
+6 NR
+7 Indiferente (ESPONTÂNEA)
+
+## T_Q19_4: 
+Resposta para a questão: 
+
+Qual a importância do Brasil investir mais recursos no aumento da participação do Brasil em organismos internacionais, como a ONU.
+
+1 Muito importante
+2 Importante
+3 Pouco importante
+4 Nada importante
+5 NS
+6 NR
+7 Indiferente (ESPONTÂNEA)
+
+## T_Q19_5
+Resposta para a questão: 
+
+Qual a importância do Brasil investir mais recursos na concessão de refúgio a estrangeiros que estão em situação de risco nos seus países.
+
+1 Muito importante
+2 Importante
+3 Pouco importante
+4 Nada importante
+5 NS
+6 NR
+7 Indiferente (ESPONTÂNEA)
+
+## T_Q20_1
+Resposta para a questão: 
+
+O senhor/senhora concorda ou discorda que para aumentar sua influência no mundo o Brasil utilize o poder militar.
+
+1 Concordo totalmente
+2 Concordo em parte
+3 Discordo em parte
+4 Discordo totalmente
+5 NS
+6 NR
+7 Nem concordo nem discordo (NÃO LER - ESPONTÂNEA)
+
+
+## T_Q20_2
+Resposta para a questão: 
+
+O senhor/senhora concorda ou discorda que para aumentar sua influência no mundo o Brasil utilize a diplomacia.
+
+1 Concordo totalmente
+2 Concordo em parte
+3 Discordo em parte
+4 Discordo totalmente
+5 NS
+6 NR
+7 Nem concordo nem discordo (NÃO LER - ESPONTÂNEA)
+
+## T_Q20_3
+Resposta para a questão: 
+
+O senhor/senhora concorda ou discorda que para aumentar sua influência no mundo o Brasil utilize a cultura.
+
+1 Concordo totalmente
+2 Concordo em parte
+3 Discordo em parte
+4 Discordo totalmente
+5 NS
+6 NR
+7 Nem concordo nem discordo (NÃO LER)
+
+## T_Q20_4
+Resposta para a questão: 
+
+O senhor/senhora concorda ou discorda que para aumentar sua influência no mundo o Brasil utilize o comércio.
+
+1 Concordo totalmente
+2 Concordo em parte
+3 Discordo em parte
+4 Discordo totalmente
+5 NS
+6 NR
+7 Nem concordo nem discordo (NÃO LER)
+
+## T_Q20_5
+Resposta para a questão: 
+
+O senhor/senhora concorda ou discorda que para aumentar sua influência no mundo o Brasil utilize a cooperação internacional para o desenvolvimento.
+
+1 Concordo totalmente
+2 Concordo em parte
+3 Discordo em parte
+4 Discordo totalmente
+5 NS
+6 NR
+7 Nem concordo nem discordo (NÃO LER)
+
+## T_Q21_1
+Resposta para a questão: 
+
+Eu vou listar algumas questões que costumam ser discutidas pelo Congresso Brasileiro e gostaria de saber quais dessas o senhor/senhora apoia leis que facilitem a imigração de estrangeiros para o Brasil.
+
+1 Apoia
+2 Não apoia
+3 NS
+4 NR
+5 Indiferente (ESPONTÂNEA)
+
+## T_Q21_2
+Resposta para a questão: 
+
+Eu vou listar algumas questões que costumam ser discutidas pelo Congresso Brasileiro e gostaria de saber quais dessas o senhor/senhora apoia leis que facilitem a cooperação entre o Brasil e os países do Mercosul.
+
+1 Apoia
+2 Não apoia
+3 NS
+4 NR
+5 Indiferente (ESPONTÂNEA)
+
+## T_Q21_3
+Resposta para a questão: 
+
+Eu vou listar algumas questões que costumam ser discutidas pelo Congresso Brasileiro e gostaria de saber quais dessas o senhor/senhora apoia que o Brasil feche as embaixadas em países pequenos.
+
+1 Apoia
+2 Não apoia
+3 NS
+4 NR
+5 Indiferente (ESPONTÂNEA)
+
+## T_Q21_4
+Resposta para a questão: 
+
+Eu vou listar algumas questões que costumam ser discutidas pelo Congresso Brasileiro e gostaria de saber quais dessas o senhor/senhora apoia que o Brasil alugue bases militares para outros países.
+
+1 Apoia
+2 Não apoia
+3 NS
+4 NR
+5 Indiferente (ESPONTÂNEA)
+
+## T_Q21_5
+Resposta para a questão: 
+
+Eu vou listar algumas questões que costumam ser discutidas pelo Congresso Brasileiro e gostaria de saber quais dessas o senhor/senhora apoia que o Brasil ofereça bolsas para que os cidadãos de países Africanos estudarem aqui.
+
+1 Apoia
+2 Não apoia
+3 NS
+4 NR
+5 Indiferente (ESPONTÂNEA)
+
+## T_Q21_6
+Resposta para a questão: 
+
+Eu vou listar algumas questões que costumam ser discutidas pelo Congresso Brasileiro e gostaria de saber quais dessas o senhor/senhora apoia que o Brasil saia da ONU (Organização das Nações Unidas).
+
+1 Apoia
+2 Não apoia
+3 NS
+4 NR
+5 Indiferente (ESPONTÂNEA)
+
+## T_Q21_7
+Resposta para a questão: 
+
+Eu vou listar algumas questões que costumam ser discutidas pelo Congresso Brasileiro e gostaria de saber quais dessas o senhor/senhora apoia que o Brasil aumente o investimento na construção do Submarino Nuclear.
+
+1 Apoia
+2 Não apoia
+3 NS
+4 NR
+5 Indiferente (ESPONTÂNEA)
+
+## T_Q21_8
+Resposta para a questão: 
+
+Eu vou listar algumas questões que costumam ser discutidas pelo Congresso Brasileiro e gostaria de saber quais dessas o senhor/senhora apoia que o governo diminua as tarifas de importação de produtos estrangeiros.
+
+1 Apoia
+2 Não apoia
+3 NS
+4 NR
+5 Indiferente (ESPONTÂNEA)
+
+# Regras do Jogo Internacional
+
+## T_Q22_1
+Resposta para a questão: 
+
+Você acredita que o maior contato de nossa economia com outras economias do mundo, também conhecido como globalização, é bom ou ruim para economia brasileira?
+
+1 Muito ruim 
+2 Ruim
+3 Nem bom, nem ruim 
+4 Bom
+5 Muito bom
+6 NS
+7 NR
+8 Nem bom, nem ruim (ESPONTÂNEA)
+
+## T_Q22_2
+Resposta para a questão: 
+
+Você acredita que o maior contato de nossa economia com outras economias do mundo, também conhecido como globalização, é bom ou ruim para empresas brasileiras?
+
+1 Muito ruim 
+2 Ruim
+3 Nem bom, nem ruim 
+4 Bom
+5 Muito bom
+6 NS
+7 NR
+8 Nem bom, nem ruim (ESPONTÂNEA)
+
+## T_Q22_3
+Resposta para a questão: 
+
+Você acredita que o maior contato de nossa economia com outras economias do mundo, também conhecido como globalização, é bom ou ruim para empresas brasileiras para os consumidores?
+
+1 Muito ruim 
+2 Ruim
+3 Nem bom, nem ruim 
+4 Bom
+5 Muito bom
+6 NS
+7 NR
+8 Nem bom, nem ruim (ESPONTÂNEA)
+
+## T_Q22_4
+Resposta para a questão: 
+
+Você acredita que o maior contato de nossa economia com outras economias do mundo, também conhecido como globalização, é bom ou ruim para empresas brasileiras para geração de empregos no Brasil?
+
+1 Muito ruim 
+2 Ruim
+3 Nem bom, nem ruim 
+4 Bom
+5 Muito bom
+6 NS
+7 NR
+8 Nem bom, nem ruim (ESPONTÂNEA)
+
+## T_Q22_5
+
+Resposta para a questão: 
+
+Você acredita que o maior contato de nossa economia com outras economias do mundo, também conhecido como globalização, é bom ou ruim para empresas brasileiras para meio-ambiente?
+
+1 Muito ruim 
+2 Ruim
+3 Nem bom, nem ruim 
+4 Bom
+5 Muito bom
+6 NS
+7 NR
+8 Nem bom, nem ruim (ESPONTÂNEA)
+
+## T_Q22_6
+Resposta para a questão: 
+
+Você acredita que o maior contato de nossa economia com outras economias do mundo, também conhecido como globalização, é bom ou ruim para empresas brasileiras para seu padrão de vida?
+
+1 Muito ruim 
+2 Ruim
+3 Nem bom, nem ruim 
+4 Bom
+5 Muito bom
+6 NS
+7 NR
+8 Nem bom, nem ruim (ESPONTÂNEA)
+
+## T_Q22_7
+Resposta para a questão: 
+
+Você acredita que o maior contato de nossa economia com outras economias do mundo, também conhecido como globalização, é bom ou ruim para empresas brasileiras gerações futuras?
+
+1 Muito ruim 
+2 Ruim
+3 Nem bom, nem ruim 
+4 Bom
+5 Muito bom
+6 NS
+7 NR
+8 Nem bom, nem ruim (ESPONTÂNEA)
+
+
+## Q23
+Resposta para a questão: 
+
+Em relação ao ano passado, o senhor/senhora acha que a situação econômica do país está melhor, igual ou pior? 
+
+1 Melhor
+2 Igual
+3 Pior
+4 NS
+5 NR
+
+## T_Q24_1
+Resposta para a questão: 
+
+O senhor/senhora concorda ou discorda que os cidadãos dos EUA possam trabalhar no Brasil sem precisar de um visto de trabalho. 
+
+1 Concordo totalmente
+2 Concordo em parte 
+3 Discordo em parte 
+4 Discordo totalmente
+5 NS
+6 NR
+7 Nem concordo nem discordo (NÃO LER)
+
+## T_Q24_2
+Resposta para a questão: 
+
+O senhor/senhora concorda ou discorda que os cidadãos do México possam trabalhar no Brasil sem precisar de um visto de trabalho. 
+
+1 Concordo totalmente
+2 Concordo em parte 
+3 Discordo em parte 
+4 Discordo totalmente
+5 NS
+6 NR
+7 Nem concordo nem discordo (NÃO LER)
+
+## T_Q24_3
+Resposta para a questão: 
+
+ O senhor/senhora concorda ou discorda que os cidadãos da Venezuela possam trabalhar no Brasil sem precisar de um visto de trabalho. 
+
+1 Concordo totalmente
+2 Concordo em parte 
+3 Discordo em parte 
+4 Discordo totalmente
+5 NS
+6 NR
+7 Nem concordo nem discordo (NÃO LER)
+
+## T_Q24_4
+Resposta para a questão: 
+
+ O senhor/senhora concorda ou discorda que os cidadãos da Argentina possam trabalhar no Brasil sem precisar de um visto de trabalho. 
+
+1 Concordo totalmente
+2 Concordo em parte 
+3 Discordo em parte 
+4 Discordo totalmente
+5 NS
+6 NR
+7 Nem concordo nem discordo (NÃO LER)
+
+## T_Q24_5
+Resposta para a questão: 
+
+ O senhor/senhora concorda ou discorda que os cidadãos do Haiti possam trabalhar no Brasil sem precisar de um visto de trabalho. 
+
+1 Concordo totalmente
+2 Concordo em parte 
+3 Discordo em parte 
+4 Discordo totalmente
+5 NS
+6 NR
+7 Nem concordo nem discordo (NÃO LER)
+
+## T_Q24_6
+Resposta para a questão: 
+
+ O senhor/senhora concorda ou discorda que os cidadãos da Alemanha possam trabalhar no Brasil sem precisar de um visto de trabalho. 
+
+1 Concordo totalmente
+2 Concordo em parte 
+3 Discordo em parte 
+4 Discordo totalmente
+5 NS
+6 NR
+7 Nem concordo nem discordo (NÃO LER)
+
+## T_Q24_7
+Resposta para a questão: 
+
+ O senhor/senhora concorda ou discorda que os cidadãos de Portugal possam trabalhar no Brasil sem precisar de um visto de trabalho. 
+
+1 Concordo totalmente
+2 Concordo em parte 
+3 Discordo em parte 
+4 Discordo totalmente
+5 NS
+6 NR
+7 Nem concordo nem discordo (NÃO LER)
+
+## T_Q24_8
+Resposta para a questão: 
+
+ O senhor/senhora concorda ou discorda que os cidadãos do Japão possam trabalhar no Brasil sem precisar de um visto de trabalho. 
+1 Concordo totalmente
+2 Concordo em parte 
+3 Discordo em parte 
+4 Discordo totalmente
+5 NS
+6 NR
+7 Nem concordo nem discordo (NÃO LER)
+
+## Q25
+Resposta para a questão: 
+
+Na sua opinião, se a economia da China crescesse até ser tão grande quanto à dos EUA, o senhor/senhora acha que esse fato seria positivo ou negativo para o mundo?
+
+1 Negativo
+2 Positivo
+3 NS
+4 NR
+5 Indiferente (espontânea)
+
+## T_Q26_1
+Resposta para a questão: 
+
+Das seguintes palavras, qual descreve seus sentimentos em relação aos EUA.
+
+1 Confiança
+2 Desconfiança
+3 NS
+4 NR
+
+
+## T_Q26_2
+Resposta para a questão: 
+
+Das seguintes palavras, qual descreve seus sentimentos em relação à China. 
+
+1 Confiança
+2 Desconfiança
+3 NS
+4 NR
+
+## T_Q27_1
+Resposta para a questão: 
+
+E das seguintes palavras, qual descreve seus sentimentos em relação aos EUA. 
+
+1 Admiração
+2 Desprezo
+3 NS
+4 NR
+
+## T_Q27_2
+Resposta para a questão: 
+
+E das seguintes palavras, qual descreve seus sentimentos em relação à China. 
+
+1 Admiração
+2 Desprezo
+3 NS
+4 NR
+
+## Q28A
+Resposta para a questão: 
+
+Dê uma nota de 0 a 100 aos seguintes países, onde 100 significa uma opinião muito favorável E 0 UMA OPINIÃO POUCO FAVORÁVEL: China.
+
+0 a 100 Nota numérica
+-2 NS
+-3 NR
+
+## Q28B
+Resposta para a questão: 
+
+Dê uma nota de 0 a 100 aos seguintes países, onde 100 significa uma opinião muito favorável E 0 UMA OPINIÃO POUCO FAVORÁVEL: Cuba.
+
+0 a 100 Nota numérica
+-2 NS
+-3 NR
+
+## Q28C
+Resposta para a questão: 
+
+Dê uma nota de 0 a 100 aos seguintes países, onde 100 significa uma opinião muito favorável E 0 UMA OPINIÃO POUCO FAVORÁVEL: Bolívia.
+
+0 a 100 Nota numérica
+-2 NS
+-3 NR
+
+## Q28D
+Resposta para a questão: 
+
+Dê uma nota de 0 a 100 aos seguintes países, onde 100 significa uma opinião muito favorável E 0 UMA OPINIÃO POUCO FAVORÁVEL: Portugal.
+
+0 a 100 Nota numérica
+-2 NS
+-3 NR
+
+
+## Q28E
+Resposta para a questão: 
+
+Dê uma nota de 0 a 100 aos seguintes países, onde 100 significa uma opinião muito favorável E 0 UMA OPINIÃO POUCO FAVORÁVEL:Estados Unido.
+
+0 a 100 Nota numérica
+-2 NS
+-3 NR
+
+## Q28F
+Resposta para a questão: 
+
+Dê uma nota de 0 a 100 aos seguintes países, onde 100 significa uma opinião muito favorável E 0 UMA OPINIÃO POUCO FAVORÁVEL: México.
+
+0 a 100 Nota numérica
+-2 NS
+-3 NR
+
+## Q28G 
+Resposta para a questão: 
+
+Dê uma nota de 0 a 100 aos seguintes países, onde 100 significa uma opinião muito favorável E 0 UMA OPINIÃO POUCO FAVORÁVEL: Argentina.
+
+0 a 100 Nota numérica
+-2 NS
+-3 NR
+
+## Q28H
+Resposta para a questão: 
+
+Dê uma nota de 0 a 100 aos seguintes países, onde 100 significa uma opinião muito favorável E 0 UMA OPINIÃO POUCO FAVORÁVEL: Rússia.
+
+0 a 100 Nota numérica
+-2 NS
+-3 NR
+
+## Q28I
+Resposta para a questão: 
+
+Dê uma nota de 0 a 100 aos seguintes países, onde 100 significa uma opinião muito favorável E 0 UMA OPINIÃO POUCO FAVORÁVEL: Índia. 
+
+0 a 100 Nota numérica
+-2 NS
+-3 NR
+
+## Q28J
+Resposta para a questão: 
+
+Dê uma nota de 0 a 100 aos seguintes países, onde 100 significa uma opinião muito favorável E 0 UMA OPINIÃO POUCO FAVORÁVEL: África do Sul.
+
+0 a 100 Nota numérica
+-2 NS
+-3 NR
+
+## Q28K
+Resposta para a questão: 
+
+Dê uma nota de 0 a 100 aos seguintes países, onde 100 significa uma opinião muito favorável E 0 UMA OPINIÃO POUCO FAVORÁVEL: Venezuela.
+
+0 a 100 Nota numérica
+-2 NS
+-3 NR
+
+## T_Q29_1
+Resposta para a questão: 
+
+O senhor/senhora diria que a relação do Brasil com a Argentina é de amizade, sociedade, rivalidade ou uma ameaça?
+
+1 Amizade
+2 Sociedade
+3 Rivalidade
+4 Ameaça
+5 NS
+6 NR
+
+## T_Q29_2
+Resposta para a questão: 
+
+O senhor/senhora diria que a relação do Brasil com os Países da União Europeia é de amizade, sociedade, rivalidade ou uma ameaça? 
+
+1 Amizade
+2 Sociedade
+3 Rivalidade
+4 Ameaça
+5 NS
+6 NR
+
+## T_Q29_3
+Resposta para a questão: 
+
+O senhor/senhora diria que a relação do Brasil com a China é de amizade, sociedade, rivalidade ou uma ameaça?
+
+1 Amizade
+2 Sociedade
+3 Rivalidade
+4 Ameaça
+5 NS
+6 NR
+
+## T_Q29_4
+Resposta para a questão: 
+
+O senhor/senhora diria que a relação do Brasil com Cuba é de amizade, sociedade, rivalidade ou uma ameaça?
+
+1 Amizade
+2 Sociedade
+3 Rivalidade
+4 Ameaça
+5 NS
+6 NR
+
+## T_Q29_5
+Resposta para a questão: 
+
+O senhor/senhora diria que a relação do Brasil com os Estados Unidos é de amizade, sociedade, rivalidade ou uma ameaça? 
+
+1 Amizade
+2 Sociedade
+3 Rivalidade
+4 Ameaça
+5 NS
+6 NR
+
+## T_Q29_6
+Resposta para a questão: 
+
+O senhor/senhora diria que a relação do Brasil com a Índia é de amizade, sociedade, rivalidade ou uma ameaça? 
+
+1 Amizade
+2 Sociedade
+3 Rivalidade
+4 Ameaça
+5 NS
+6 NR
+
+## T_Q29_7
+Resposta para a questão: 
+
+O senhor/senhora diria que a relação do Brasil com o Japão é de amizade, sociedade, rivalidade ou uma ameaça?
+
+1 Amizade
+2 Sociedade
+3 Rivalidade
+4 Ameaça
+5 NS
+6 NR
+
+## T_Q29_8
+Resposta para a questão: 
+
+O senhor/senhora diria que a relação do Brasil com a Rússia é de amizade, sociedade, rivalidade ou uma ameaça?
+
+1 Amizade
+2 Sociedade
+3 Rivalidade
+4 Ameaça
+5 NS
+6 NR
+
+## T_Q29_9
+Resposta para a questão: 
+
+O senhor/senhora diria que a relação do Brasil com a Venezuela é de amizade, sociedade, rivalidade ou uma ameaça?
+
+1 Amizade
+2 Sociedade
+3 Rivalidade
+4 Ameaça
+5 NS
+6 NR
+
+## T_Q29_10
+Resposta para a questão: 
+
+O senhor/senhora diria que a relação do Brasil com a África do Sul é de amizade, sociedade, rivalidade ou uma ameaça? 
+
+1 Amizade
+2 Sociedade
+3 Rivalidade
+4 Ameaça
+5 NS
+6 NR
+
+## T_Q29_11
+Resposta para a questão: 
+
+O senhor/senhora diria que a relação do Brasil com o México é de amizade, sociedade, rivalidade ou uma ameaça?
+
+1 Amizade
+2 Sociedade
+3 Rivalidade
+4 Ameaça
+5 NS
+6 NR
+
+## T_Q30_1
+Resposta para a questão: 
+
+Brasil, Rússia, Índia, China e África do Sul formaram um bloco conhecido pela sigla BRICS. Vou ler algumas frases, e gostaria de saber se o senhor/senhora concorda ou discorda: Os BRICS são uma força capaz de equilibrar o poder mundial diante das potências tradicionais como os EUA, a Alemanha e o Japão.
+
+1 Concordo totalmente
+2 Concordo em parte
+3 Discordo em parte
+4 Discordo totalmente
+5 NS
+6 NR
+7 Nem concordo nem discordo (ESPONTÂNEA)
+
+## T_Q30_2
+Resposta para a questão: 
+
+Brasil, Rússia, Índia, China e África do Sul formaram um bloco conhecido pela sigla BRICS. Os BRICS são uma aliança constrangedora, com países autoritários como a Rússia e a China, ou que apresentam altos níveis de exclusão social como a Índia e a África do Sul. 
+
+1 Concordo totalmente
+2 Concordo em parte
+3 Discordo em parte
+4 Discordo totalmente
+5 NS
+6 NR
+7 Nem concordo nem discordo (ESPONTÂNEA)
+
+## T_Q31_1
+Resposta para a questão: 
+
+Vou listar alguns países, e gostaria de saber: Qual lhe inspira maior confiança para manter a paz no mundo?
+
+1 China
+2 Estados Unidos
+3 França
+4 Inglaterra
+5 Rússia
+6 Outro. Qual?
+7 NS
+8 NR
+9 Nenhum (ESPONTÂNEA)
+
+## T_Q31_2
+Resposta para a questão: 
+
+Vou listar alguns países, e gostaria de saber: Qual lhe inspira menor confiança para manter a paz no mundo?
+
+1 China
+2 Estados Unidos
+3 França
+4 Inglaterra
+5 Rússia
+6 Outro. Qual?
+7 NS
+8 NR
+9 Nenhum (ESPONTÂNEA)
+
+## Q32
+Resposta para a questão: 
+
+Muitos países desrespeitam os direitos humanos. O que o senhor/senhora acha que o Brasil deveria fazer em relação a esses países?
+
+1 Deve romper relações diplomáticas com esse país
+2 Deve procurar organismos como a ONU, para pressionar este país
+3 Não deve se envolver nos assuntos internos deste país 
+4 NS
+5 NR
+
+## T_Q33_1
+Resposta para a questão: 
+
+Para resolver problemas internacionais, o Brasil deve aceitar as decisões das Nações Unidas (ONU), mesmo que não goste.
+
+1 Concordo totalmente
+2 Concordo em parte
+3 Discordo em parte
+4 Discordo totalmente
+5 NS
+6 NR
+7 Nem concordo nem discordo (espontânea)
+
+## T_Q33_2
+Resposta para a questão: 
+
+Os acordos e tratados internacionais devem estar por cima das leis nacionais
+
+1 Concordo totalmente
+2 Concordo em parte
+3 Discordo em parte
+4 Discordo totalmente
+5 NS
+6 NR
+7 Nem concordo nem discordo (espontânea)
+
+## T_Q33_3
+Resposta para a questão: 
+
+A atração de investimentos estrangeiros beneficia o Brasil
+
+1 Concordo totalmente
+2 Concordo em parte
+3 Discordo em parte
+4 Discordo totalmente
+5 NS
+6 NR
+7 Nem concordo nem discordo (espontânea)
+
+## T_Q33_4
+Resposta para a questão: 
+
+Deve haver uma redução de barreiras à entrada de produtos estrangeiros no Brasil
+
+1 Concordo totalmente
+2 Concordo em parte
+3 Discordo em parte
+4 Discordo totalmente
+5 NS
+
+## T_Q33_5
+Resposta para a questão: 
+
+Se um brasileiro acusado de um crime contra humanidade (como a tortura), e que não tenha sido julgado no Brasil, poderá ser julgado por um tribunal internacional.
+
+1 Concordo totalmente
+2 Concordo em parte
+3 Discordo em parte
+4 Discordo totalmente
+5 NS
+
+## T_Q34_1
+Resposta para a questão: 
+
+Algumas pessoas acreditam que certos problemas seriam melhor resolvidos pela ONU ou por organizações regionais. Outros consideram que os mesmos problemas deveriam ser de inteira responsabilidade dos governos nacionais. Sobre as missões de paz, quais atores o senhor/senhora acha que estão mais aptos para enfrentá-los.
+
+1 Governos nacionais
+2 Governos nacionais em conjunto de organizações regionais
+3 Governos nacionais em conjunto com a ONU 
+4 NS
+5 NR
+
+
+## T_Q34_2
+Resposta para a questão: 
+
+Algumas pessoas acreditam que certos problemas seriam melhor resolvidos pela ONU ou por organizações regionais. Outros consideram que os mesmos problemas deveriam ser de inteira responsabilidade dos governos nacionais.  Sobre o meio ambiente, quais atores o senhor/senhora acha que estão mais aptos para enfrentá-los.
+
+1 Governos nacionais
+2 Governos nacionais em conjunto de organizações regionais
+3 Governos nacionais em conjunto com a ONU 
+4 NS
+5 NR
+
+## T_Q34_3
+Resposta para a questão: 
+
+Algumas pessoas acreditam que certos problemas seriam melhor resolvidos pela ONU ou por organizações regionais. Outros consideram que os mesmos problemas deveriam ser de inteira responsabilidade dos governos nacionais. Sobre a ajuda para os países em desenvolvimento, quais atores o senhor/senhora acha que estão mais aptos para enfrentá-los.
+
+1 Governos nacionais
+2 Governos nacionais em conjunto de organizações regionais
+3 Governos nacionais em conjunto com a ONU 
+4 NS
+5 NR
+
+## T_Q34_4
+Resposta para a questão: 
+
+Algumas pessoas acreditam que certos problemas seriam melhor resolvidos pela ONU ou por organizações regionais. Outros consideram que os mesmos problemas deveriam ser de inteira responsabilidade dos governos nacionais.  Sobre os refugiados, quais atores o senhor/senhora acha que estão mais aptos para enfrentá-los.
+
+1 Governos nacionais
+2 Governos nacionais em conjunto de organizações regionais
+3 Governos nacionais em conjunto com a ONU 
+4 NS
+5 NR
+
+
+## T_Q34_5
+Resposta para a questão: 
+
+Algumas pessoas acreditam que certos problemas seriam melhor resolvidos pela ONU ou por organizações regionais. Outros consideram que os mesmos problemas deveriam ser de inteira responsabilidade dos governos nacionais.  Sobre direitos humanos, quais atores o senhor/senhora acha que estão mais aptos para enfrentá-los.
+
+1 Governos nacionais
+2 Governos nacionais em conjunto de organizações regionais
+3 Governos nacionais em conjunto com a ONU 
+4 NS
+5 NR
+
+## T_Q34_6
+Resposta para a questão: 
+
+Algumas pessoas acreditam que certos problemas seriam melhor resolvidos pela ONU ou por organizações regionais. Outros consideram que os mesmos problemas deveriam ser de inteira responsabilidade dos governos nacionais.  Sobre políticas sobre mudança climática, quais atores o senhor/senhora acha que estão mais aptos para enfrentá-los.
+
+1 Governos nacionais
+2 Governos nacionais em conjunto de organizações regionais
+3 Governos nacionais em conjunto com a ONU 
+4 NS
+5 NR
+
+## T_Q34_7
+Resposta para a questão: 
+
+Algumas pessoas acreditam que certos problemas seriam melhor resolvidos pela ONU ou por organizações regionais. Outros consideram que os mesmos problemas deveriam ser de inteira responsabilidade dos governos nacionais.  Sobre política contra o crime, quais atores o senhor/senhora acha que estão mais aptos para enfrentá-los:
+
+1 Governos nacionais
+2 Governos nacionais em conjunto de organizações regionais
+3 Governos nacionais em conjunto com a ONU 
+4 NS
+5 NR
+
+
+## T_Q34_8
+Resposta para a questão: 
+
+Algumas pessoas acreditam que certos problemas seriam melhor resolvidos pela ONU ou por organizações regionais. Outros consideram que os mesmos problemas deveriam ser de inteira responsabilidade dos governos nacionais.  Sobre impostos e tarifas, quais atores o senhor/senhora acha que estão mais aptos para enfrentá-los:
+1 Governos nacionais
+2 Governos nacionais em conjunto de organizações regionais
+3 Governos nacionais em conjunto com a ONU 
+4 NS
+5 NR
+
+## T_Q34_9
+Resposta para a questão: 
+
+Algumas pessoas acreditam que certos problemas seriam melhor resolvidos pela ONU ou por organizações regionais. Outros consideram que os mesmos problemas deveriam ser de inteira responsabilidade dos governos nacionais.  Sobre políticas de saúde, quais atores o senhor/senhora acha que estão mais aptos para enfrentá-los.
+1 Governos nacionais
+2 Governos nacionais em conjunto de organizações regionais
+3 Governos nacionais em conjunto com a ONU 
+4 NS
+5 NR
+
+## T_Q34_10
+Resposta para a questão: 
+
+Algumas pessoas acreditam que certos problemas seriam melhor resolvidos pela ONU ou por organizações regionais. Outros consideram que os mesmos problemas deveriam ser de inteira responsabilidade dos governos nacionais.  Sobre políticas de combate ao desemprego, quais atores o senhor/senhora acha que estão mais aptos para enfrentá-los.
+
+1 Governos nacionais
+2 Governos nacionais em conjunto de organizações regionais
+3 Governos nacionais em conjunto com a ONU 
+4 NS
+5 NR
+
+## T_Q34_11
+Resposta para a questão: 
+
+Algumas pessoas acreditam que certos problemas seriam melhor resolvidos pela ONU ou por organizações regionais. Outros consideram que os mesmos problemas deveriam ser de inteira responsabilidade dos governos nacionais.  Sobre políticas de imigração, quais atores o senhor/senhora acha que estão mais aptos para enfrentá-los.
+
+1 Governos nacionais
+2 Governos nacionais em conjunto de organizações regionais
+3 Governos nacionais em conjunto com a ONU 
+4 NS
+5 NR
+
+## T_Q34_12 
+Resposta para a questão: 
+
+Algumas pessoas acreditam que certos problemas seriam melhor resolvidos pela ONU ou por organizações regionais. Outros consideram que os mesmos problemas deveriam ser de inteira responsabilidade dos governos nacionais. 
+
+1 Governos nacionais
+2 Governos nacionais em conjunto de organizações regionais
+3 Governos nacionais em conjunto com a ONU 
+4 NS
+5 NR
+
+## T_Q34_13
+Resposta para a questão: 
+
+
+Algumas pessoas acreditam que certos problemas seriam melhor resolvidos pela ONU ou por organizações regionais. Outros consideram que os mesmos problemas deveriam ser de inteira responsabilidade dos governos nacionais.  Sobre reformas e supervisão do sistema financeiro, quais atores o senhor/senhora acha que estão mais aptos para enfrentá-los.
+
+1 Governos nacionais
+2 Governos nacionais em conjunto de organizações regionais
+3 Governos nacionais em conjunto com a ONU 
+4 NS
+5 NR
+
+## T_Q35_1
+Resposta para a questão: 
+
+Na sua opinião, a situação dos direitos humanos no Brasil melhoraria sob a supervisão dos EUA.
+
+1 Sim
+2 Não
+3 NS
+4 NR
+5 Indiferente (NÃO LER)
+
+## T_Q35_2
+Resposta para a questão: 
+
+Na sua opinião, a situação dos direitos humanos no Brasil melhoraria sob a supervisão da ONU.
+
+1 Sim
+2 Não
+3 NS
+4 NR
+5 Indiferente (NÃO LER)
+
+## T_Q35_3
+Resposta para a questão: 
+
+Na sua opinião, a situação dos direitos humanos no Brasil melhoraria sob a supervisão da Corte Interamericana de Direitos Humanos.
+
+1 Sim
+2 Não
+3 NS
+4 NR
+5 Indiferente (NÃO LER)
+
+## T_Q35_4
+Resposta para a questão: 
+
+Na sua opinião, a situação dos direitos humanos no Brasil melhoraria sob a supervisão da Anistia Internacional.
+
+1 Sim
+2 Não
+3 NS
+4 NR
+5 Indiferente (NÃO LER)
+
+## Q36
+Resposta para a questão: 
+
+Na sua opinião, o Brasil deve prestar mais atenção a qual região do mundo?
+
+1 América do Norte
+2 América Latina
+3 Europa
+4 Ásia
+5 Oriente Médio
+6 África
+7 Oceania
+8 NS
+9 NR
+10 Nenhuma (ESPONTÂNEA)
+
+## T_Q37_1
+Resposta para a questão: 
+
+Em geral, O senhor/senhora acredita que o livre comércio, ou seja a compra e venda livre de produtos entre países, é bom ou ruim para o meio ambiente.
+
+1 Bom
+2 Ruim
+3 NS
+4 NR
+5 Depende(ESPONTÂNEA)
+
+## T_Q37_2
+Resposta para a questão: 
+
+Em geral, o senhor/senhora acredita que o livre comércio, ou seja a compra e venda livre de produtos entre países, é bom ou ruim para a economia brasileira.
+
+1 Bom
+2 Ruim
+3 NS
+4 NR
+5 Depende(ESPONTÂNEA)
+
+## T_Q37_3
+Resposta para a questão: 
+
+Em geral, o senhor/senhora acredita que o livre comércio, ou seja, a compra e venda livre de produtos entre países, é bom ou ruim para o nível de vida de pessoas como você
+
+1 Bom
+2 Ruim
+3 NS
+4 NR
+5 Depende(ESPONTÂNEA)
+
+## T_Q37_4
+Resposta para a questão: 
+
+Em geral, o senhor/senhora acredita que o livre comércio, ou seja a compra e venda livre de produtos entre países, é bom ou ruim para a indústria brasileira
+
+1 Bom
+2 Ruim
+3 NS
+4 NR
+5 Depende(ESPONTÂNEA)
+
+## T_Q37_5
+Resposta para a questão: 
+
+Em geral, o senhor/senhora acredita que o livre comércio, ou seja a compra e venda livre de produtos entre países, é bom ou ruim para a agricultura brasileira.
+
+1 Bom
+2 Ruim
+3 NS
+4 NR
+5 Depende(ESPONTÂNEA)
+
+## T_Q37_6
+Resposta para a questão: 
+
+Em geral, o senhor/senhora acredita que o livre comércio, ou seja, a compra e venda livre de produtos entre países, é bom ou ruim para os trabalhadores brasileiros.
+
+1 Bom
+2 Ruim
+3 NS
+4 NR
+5 Depende(ESPONTÂNEA)
+
+## T_Q37_7 
+Resposta para a questão: 
+
+Em geral, o senhor/senhora acredita que o livre comércio, ou seja, a compra e venda livre de produtos entre países, é bom ou ruim para as gerações futuras.
+
+1 Bom
+2 Ruim
+3 NS
+4 NR
+5 Depende (ESPONTÂNEA)
+
+# Relações com a América Latina
+
+## Q38
+Resposta para a questão: 
+
+Se o Conselho de Segurança da ONU pudesse ter um novo assento para representar a América Latina como um todo, que país deveria ocupá-lo?
+
+1 Argentina
+2 Brasil
+3 México
+4 Outro. Qual?
+5 NS
+6 NR
+
+## Q38_S
+Resposta para a questão: 
+
+Se o Conselho de Segurança da ONU pudesse ter um novo assento para representar a América Latina como um todo, que país deveria ocupá-lo? Para os respondentes que selecionaram a opção “Outro. Qual?” na pergunta anterior.
+
+## T_Q39_1 
+Resposta para a questão: 
+
+Qual dos seguintes países o senhor/senhora tem mais confiança para ser o líder da América Latina?
+
+1 Argentina 
+2 Brasil 
+3 México 
+4 Outro. Qual? 
+5 NS 
+6 NR 
+7 Nenhum (ESPONTÂNEA)
+
+## T_Q39_1_Q39_S
+Resposta para a questão: 
+
+Qual dos seguintes países: O senhor/senhora tem mais confiança para ser o líder da América Latina? Para os respondentes que selecionaram a opção “Outro. Qual?” na pergunta anterior.
+
+## T_Q39_2
+Resposta para a questão: 
+ 
+Qual dos seguintes países o senhor/senhora tem menos confiança para ser o líder da América Latina?
+
+1 Argentina 
+2 Brasil 
+3 México 
+4 Outro. Qual? 
+5 NS 
+6 NR 
+7 Nenhum (ESPONTÂNEA)
+
+## T_Q39_2_Q39_S
+Resposta para a questão: 
+
+Qual dos seguintes países: o senhor/senhora tem menos confiança para ser o líder da América Latina? Para os respondentes que selecionaram a opção “Outro. Qual?” na pergunta anterior.
+
+## T_Q40_1
+Resposta para a questão: 
+
+Em relação à integração na América do Sul, o senhor/senhora concorda ou discorda que haja livre movimento de pessoas na região sem controles fronteiriços.
+
+1 Concordo totalmente 
+2 Concordo em parte 
+3 Discordo em parte 
+4 Discordo totalmente 
+5 NS 
+6 NR 
+7 Nem concordo nem discordo (NÃO LER)
+
+## T_Q40_2
+Resposta para a questão: 
+
+Em relação à integração na América do Sul, o senhor/senhora concorda ou discorda que haja operações militares conjuntas.
+
+1 Concordo totalmente 
+2 Concordo em parte 
+3 Discordo em parte 
+4 Discordo totalmente 
+5 NS 
+6 NR 
+7 Nem concordo nem discordo (NÃO LER)
+
+## T_Q40_3 
+Resposta para a questão: 
+
+Em relação à integração na América do Sul, o senhor/senhora concorda ou discorda que haja uma moeda comum sul-americana.
+
+1 Concordo totalmente 
+2 Concordo em parte 
+3 Discordo em parte 
+4 Discordo totalmente 
+5 NS 
+6 NR 
+7 Nem concordo nem discordo (NÃO LER)
+
+## T_Q40_4
+Resposta para a questão: 
+
+Em relação a integração na América do Sul, o senhor/senhora concorda ou discorda que haja um parlamento ou congresso sul-americano.
+
+1 Concordo totalmente 
+2 Concordo em parte 
+3 Discordo em parte 
+4 Discordo totalmente 
+5 NS 
+6 NR 
+7 Nem concordo nem discordo(NÃO LER)
+
+## T_Q40_5
+Resposta para a questão: 
+
+Em relação à integração na América do Sul, o senhor/senhora concorda ou discorda que haja uma política externa comum.
+
+1 Concordo totalmente 
+2 Concordo em parte 
+3 Discordo em parte 
+4 Discordo totalmente 
+5 NS 
+6 NR 
+7 Nem concordo nem discordo(NÃO LER)
+
+## T_Q40_6
+Resposta para a questão: 
+
+Em relação à integração na América do Sul, o senhor/senhora concorda ou discorda que haja embaixadas conjuntas.
+
+1 Concordo totalmente 
+2 Concordo em parte 
+3 Discordo em parte 
+4 Discordo totalmente 
+5 NS 
+6 NR 
+7 Nem concordo nem discordo (NÃO LER)
+
+## T_Q40_7
+Resposta para a questão: 
+
+Em relação a integração na América do Sul, o senhor/senhora concorda ou discorda que haja livre circulação de produtos.
+
+1 Concordo totalmente 
+2 Concordo em parte 
+3 Discordo em parte 
+4 Discordo totalmente 
+5 NS 
+6 NR 
+7 Nem concordo nem discordo(NÃO LER)
+
+## T_Q41_1
+Resposta para a questão: 
+
+Pensando sobre a América Latina nos últimos 10 anos, qual país foi o mais influente?
+
+1 Argentina 
+2 Brasil 
+3 Chile 
+4 Colômbia 
+5 Cuba 
+6 Guatemala 
+7 México 
+8 Peru 
+9 Venezuela 
+10 Outro.Qual? 
+11 Nenhum (espontânea) 
+12 NS 
+13 NR
+
+## T_Q41_1_Q41_S
+Resposta para a questão: 
+ Pensando sobre a América Latina nos últimos 10 anos, qual país foi o mais influente? Para os respondentes que selecionaram a opção “Outro. Qual?” na pergunta anterior.
+
+## T_Q41_2
+Resposta para a questão: 
+
+Pensando sobre a América Latina nos últimos 10 anos, qual país gerou mais conflito?
+
+1 Argentina 
+2 Brasil 
+3 Chile 
+4 Colômbia 
+5 Cuba 
+6 Guatemala 
+7 México 
+8 Peru 
+9 Venezuela 
+10 Outro.Qual? (ESPONTÂNEA) 
+11 Nenhum 
+12 NS 
+13 NR
+
+## T_Q41_2_Q41_S
+Resposta para a questão: 
+
+Pensando sobre a América Latina nos últimos 10 anos, qual país gerou mais conflito?Para os respondentes que selecionaram a opção “Outro. Qual?” na pergunta anterior.
+
+## T_Q42_1
+Resposta para a questão: 
+
+Pensando sobre a América Latina nos próximos 10 anos, qual será o país mais influente?
+
+1 Argentina 
+2 Brasil 
+3 Chile 
+4 Colômbia 
+5 Cuba 
+6 Guatemala 
+7 México 
+8 Peru 
+9 Venezuela 
+10 Outro. Qual? 
+11 Nenhum (ESPONTÂNEA) 
+12 NS 
+13 NR
+
+## T_Q42_1_Q42_S
+Resposta para a questão: 
+
+Pensando sobre a América Latina nos próximos 10 anos, qual será o país mais influente?Para os respondentes que selecionaram a opção “Outro. Qual?” na pergunta anterior.
+
+## T_Q42_2
+Resposta para a questão: 
+
+Pensando sobre a América Latina nos próximos 10 anos, qual país vai gerar mais conflito?
+
+1 Argentina  
+2 Brasil 
+3 Chile 
+4 Colômbia 
+5 Cuba 
+6 Guatemala 
+7 México 
+8 Peru 
+9 Venezuela 
+10 Outro. Qual? 
+11 Nenhum (ESPONTÂNEA) 
+12 NS 
+13 NR
+
+## T_Q42_2_Q42_S
+Resposta para a questão: 
+
+Pensando sobre a América Latina nos próximos 10 anos, qual país vai gerar mais conflito? Para os respondentes que selecionaram a opção “Outro. Qual?” na pergunta anterior.
+
+## T_Q43_1
+Resposta para a questão: 
+
+Em sua opinião, a relação entre o Brasil e a América Latina, nos últimos 10 anos, esteve.
+
+1 Boa 
+2 Ruim 
+3 NS 
+4 NR 
+5 Depende (ESPONTÂNEA)
+
+## T_Q43_2
+Resposta para a questão: 
+
+ Em sua opinião, a relação entre o Brasil e a América Latina, nos próximos 10 anos, estará.
+
+1 Boa 
+2 Ruim 
+3 NS 
+4 NR 
+5 Depende (ESPONTÂNEA)
+
+## Q44
+Resposta para a questão
+
+Qual das seguintes afirmações se aproxima do que o senhor/senhora pensa sobre o papel do Brasil na América Latina.
+
+1 O Brasil deveria procurar ser o líder da região 
+2 O Brasil deveria colaborar com outros países latino-americanos sem pretender ser líder 
+3 O Brasil deveria manter-se afastado dos esforços latino-americanos 
+4 NS 
+5 NR
+
+# Relações com os Estados Unidos
+
+## Q45A 
+Resposta para a questão: 
+
+Em uma escala de 0 a 100, onde 0 significa MUITO NEGATIVO e 100 MUITO POSITIVO, como o senhor/senhora avalia a atuação dos EUA na América Latina.
+
+0 a 100 Nota numérica 
+-2 NS 
+-3 NR
+
+## Q45B
+Em uma escala de 0 a 100, onde 0 significa MUITO NEGATIVO e 100 MUITO POSITIVO, como o senhor/senhora avalia a atuação dos EUA na luta contra o terrorismo. 
+
+0 a 100 Nota numérica 
+-2 NS 
+-3 NR
+
+## Q45C 
+Resposta para a questão: 
+
+Em uma escala de 0 a 100, onde 0 significa MUITO NEGATIVO e 100 MUITO POSITIVO, como o senhor/senhora avalia a atuação dos EUA na defesa da democracia no mundo. 
+
+0 a 100 Nota numérica 
+-2 NS 
+-3 NR
+
+## Q45D
+Resposta para a questão: 
+
+Em uma escala de 0 a 100, onde 0 significa MUITO NEGATIVO e 100 MUITO POSITIVO, como o senhor/senhora avalia a atuação dos EUA na promoção do livre comércio.
+
+0 a 100 Nota numérica 
+-2 NS 
+-3 NR
+
+## Q46A 
+Resposta para a questão: 
+
+ Em uma escala de 0 a 100, onde 0 significa MUITO NEGATIVO e 100 MUITO POSITIVO, como o senhor/senhora avalia cada um dos seguintes aspectos dos EU: Avanços científicos e tecnológicos.
+
+0 a 100 Nota numérica 
+-2 NS 
+-3 NR
+
+## Q46B
+Resposta para a questão: 
+ 
+Em uma escala de 0 a 100, onde 0 significa MUITO NEGATIVO e 100 MUITO POSITIVO, como o senhor/senhora avalia cada um dos seguintes aspectos dos EUA: Democracia.
+
+0 a 100 Nota numérica 
+-2 NS 
+-3 NR
+
+## Q46C
+Resposta para a questão: 
+
+Em uma escala de 0 a 100, onde 0 significa MUITO NEGATIVO e 100 MUITO POSITIVO, como o senhor/senhora avalia cada um dos seguintes aspectos dos EUA: Presença militar no mundo.
+
+0 a 100 Nota numérica 
+-2 NS 
+-3 NR
+
+## Q46D
+Resposta para a questão: 
+
+Em uma escala de 0 a 100, onde 0 significa MUITO NEGATIVO e 100 MUITO POSITIVO, como o senhor/senhora avalia cada um dos seguintes aspectos dos EUA: Posição como o país mais importante.
+
+0 a 100 Nota numérica 
+-2 NS 
+-3 NR
+
+## Q46E
+Resposta para a questão: 
+
+Em uma escala de 0 a 100, onde 0 significa MUITO NEGATIVO e 100 MUITO POSITIVO, como o senhor/senhora avalia cada um dos seguintes aspectos dos EUA: Cultura popular.
+
+0 a 100 Nota numérica 
+-2 NS 
+-3 NR
+
+
+
+
+
