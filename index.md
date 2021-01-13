@@ -23,7 +23,7 @@ All the data collected in this survey, as well as all surveys conducted by the L
 The dataset for the 2014 Brazilian wave of the survey can be downloaded [here](https://github.com/catarinaroman/las-americas/blob/main/2019-files/2019-database.csv)
 
 The corresponding codebook follows below:
-<iframe src="https://drive.google.com/file/d/1hLDwlvfEoPG6_gxILRgOZKBv7rng_azw/preview" width="500" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1hLDwlvfEoPG6_gxILRgOZKBv7rng_azw/preview" width="600" height="480"></iframe>
 
 If your browser does not support pdfs, you can download the 2019 codebook [here](https://drive.google.com/file/d/1hLDwlvfEoPG6_gxILRgOZKBv7rng_azw/view?usp=sharing).
 
