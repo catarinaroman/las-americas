@@ -8571,6 +8571,7 @@ Suppose that a bill under discussion at the City Council that authorizes the con
 
 Imagine um projeto de lei em discussão na Câmara de Vereadores que autorizasse a construção de moradia popular no seu bairro. **Nordestinos morando no seu Estado apoiariam esse projeto e se mudariam para o seu bairro.** Como você se sente em relação a isso?
 
+\newpage
 
 # Experiment 2 | Experimento 2
 
@@ -8731,118 +8732,370 @@ Recentemente o Brasil assinou um tratado de liberalização comercial com um pa�
 
 Você acha que o livre comércio é muito bom, bom, ruim ou muito ruim para o Brasil?
 
-
+\newpage
 
 # Experiment 3 | Experimento 3
 
-IMIGRANTES/MIGRANTES (Experimento de Lista com variações em diferentes formulações) – 3 perguntas a serem aleatorizadas por questão
+This is a list experiment, where the respondents' answers indicate their perception on immigrants/migrants of certain originsa according to variation in statement. Three statements are randomized for each question, per respondent.
+
+**The baselines were randomized by the assigned number .1, .2, and .3.**
+
+\begin{table}[H]
+\centering \singlespace
+\caption{Scale of Response to All Questions in Experiment 3}
+\begin{tabular}{cc}
+
+Answer & Code in Dataset  \\ 
+  \hline
+  Unbothered & 0 \\ 
+  Bothered by one statement & 1 \\
+  Bothered by two statements  & 2 \\ 
+  Bothered by three statements  & 3 \\
+  Bothered by four statements & 4
+\\ NA & NA    \end{tabular}
+\end{table}
+
+
+\vspace{1cm}
+
+
+Este é um experimento de lista onde o as resposta dos respondentes indicam sua percepção sobre imigrantes/migrantes de certas origens de acordo com variações nas frases. Três frases são aleatorizados por questão para cada respondente.
+
+**Baselines foram aleatorizadas entre si pelos números .1, .2, e .3.**
+
+\begin{table}[H]
+\centering \singlespace
+\caption{Escala de Resposta para Todas as Perguntas do Experimento 3}
+\begin{tabular}{cc}
+
+Resposta & Código na Base de Dados  \\ 
+  \hline
+  Nenhuma frase & 0 \\ 
+  Uma frase & 1 \\
+  Duas frases & 2 \\ 
+  Três frases & 3 \\ 
+  Quatro frases & 4 \\
+  NA & NA   
+  \end{tabular}
+\end{table}
+
+
 
 ## Q51 -- Healthcare Policy | Política de Saúde
 
 ### Q51A -- Control | Controle
 
-Agora eu vou ler três frases para você que às vezes fazem as pessoas ficarem irritadas. Depois de ler todas as três, diga-me QUANTAS frases te incomodam. Eu não quero saber quais delas te incomodam, apenas quantas (1, 2 ou 3).
+*Now I will read three statements that sometimes can bother people. After reading all three, please tell me HOW MANY of them bother you. I do not wish to know which of them bother you, only how many (one, two, or three).*
 
-ALEATORIZAR AS BASELINES ENTRE ELAS POR NÚMERO (.1, .2, e .3)
-1.1 O governo federal aumentando o imposto sobre a gasolina e o diesel; OU
-1.2 O governo federal aumentando impostos sobre produtos da cesta básica; OU
+\vspace{.4cm}
+
+1.1 The Federal Government increasing taxes on gasoline and diesel fuels; OR   
+1.2 The Federal Government increasing taxes on basic needs products; OR   
+1.3 The Federal Government increasing taxes on water and utility bills.  
+
+\vspace{.4cm}
+
+2.1 The Brazilian national soccer team classifying for the World Cup; OR   
+2.2 The Brazilian national soccer team being champion of the American Cup; OR    
+2.3 The Brazilian national soccer team being champion of the World Cup.  
+
+\vspace{.4cm}
+
+3.1 Corporations polluting the environment without being sanctioned; OR   
+3.2 Corporations polluting seas and oceans without being sanctioned; OR   
+3.3 Corporations polluting cities without being sanctioned.
+
+\vspace{1.3cm}
+
+*Agora eu vou ler três frases para você que às vezes fazem as pessoas ficarem irritadas. Depois de ler todas as três, diga-me QUANTAS frases te incomodam. Eu não quero saber quais delas te incomodam, apenas quantas (1, 2 ou 3).*
+
+\vspace{.4cm}
+
+1.1 O governo federal aumentando o imposto sobre a gasolina e o diesel; OU   
+1.2 O governo federal aumentando impostos sobre produtos da cesta básica; OU   
 1.3 O governo federal aumentando impostos sobre o abastecimento de água e energia.
-2.1 A seleção brasileira se classificando para a Copa do Mundo; OU
-2.2 A seleção brasileira sendo campeã da Copa América; OU
-2.3 A seleção brasileira sendo campeã da Copa do Mundo;
-3.1 Grandes empresas poluindo o meio ambiente sem serem penalizadas; OU
-3.2 Grandes empresas poluindo mares e rios sem serem penalizadas; OU
-3.3 Grandes empresas poluindo as cidades sem serem penalizadas;
+
+\vspace{.4cm}
+
+2.1 A seleção brasileira se classificando para a Copa do Mundo; OU   
+2.2 A seleção brasileira sendo campeã da Copa América; OU   
+2.3 A seleção brasileira sendo campeã da Copa do Mundo.
+
+\vspace{.4cm}
+
+3.1 Grandes empresas poluindo o meio ambiente sem serem penalizadas; OU   
+3.2 Grandes empresas poluindo mares e rios sem serem penalizadas; OU   
+3.3 Grandes empresas poluindo as cidades sem serem penalizadas.  
+
+\vspace{1cm}
 
 
 ### Q51B-E -- Treatment | Tratamento
 
-Agora eu vou ler quatro frases para você que às vezes fazem as pessoas ficarem irritadas. Depois de ler todas as quatro, diga-me QUANTAS frases te incomodam. Eu não quero saber quais delas te incomodam, apenas quantas (1, 2 ou 3).
-Validar se poderá marcar 0, 1, 2, 3 ou 4. Pensando que este bloco possui 4 frases. E que a pessoa pode não se incomodar com nenhuma. RESPOSTA: OK
-ALEATORIZAR AS BASELINES ENTRE ELAS POR NÚMERO (1, 2 e 3)
-1.1 O governo federal aumentando o imposto sobre a gasolina e o diesel; OU
-1.2 O governo federal aumentando impostos sobre produtos da cesta básica; OU
-1.3 O governo federal aumentando impostos sobre o abastecimento de água e energia.
-2.1 A seleção brasileira se classificando para a Copa do Mundo; OU
-2.2 A seleção brasileira sendo campeã da Copa América; OU
-2.3 A seleção brasileira sendo campeã da Copa do Mundo;
-3.1 Grandes empresas poluindo o meio ambiente sem serem penalizadas; OU
-3.2 Grandes empresas poluindo mares e rios sem serem penalizadas; OU
-3.3 Grandes empresas poluindo as cidades sem serem penalizadas;
 
-(4) Venezuelanos/Alemães/Haitianos/Nordestinos morando no seu bairro utilizando o serviço do hospital público perto da sua casa.
+*Now I will read three statements that sometimes can bother people. After reading all three, please tell me HOW MANY of them bother you. I do not wish to know which of them bother you, only how many (one, two, or three).*
+
+\vspace{.4cm}
+
+1.1 The Federal Government increasing taxes on gasoline and diesel fuels; OR   
+1.2 The Federal Government increasing taxes on basic needs products; OR   
+1.3 The Federal Government increasing taxes on water and utility bills.   
+
+\vspace{.4cm}
+
+2.1 The Brazilian national soccer team classifying for the World Cup; OR   
+2.2 The Brazilian national soccer team being champion of the American Cup; OR    
+2.3 The Brazilia national soccer team being champion of the World Cup.   
+
+\vspace{.4cm}
+
+3.1 Corporations polluting the environment without being sanctioned; OR   
+3.2 Corporations polluting seas and oceans without being sanctioned; OR   
+3.3 Corporations polluting cities without being sanctioned.
+
+\vspace{.4cm}
+
+**4. Venezuelans/Germans/Haitians/Northeasterners living in your neighborhood and using the public hospital services close to your house.**
+
+\vspace{1.3cm}
+
+*Agora eu vou ler três frases para você que às vezes fazem as pessoas ficarem irritadas. Depois de ler todas as três, diga-me QUANTAS frases te incomodam. Eu não quero saber quais delas te incomodam, apenas quantas (1, 2 ou 3).*
+
+\vspace{.4cm}
+
+1.1 O governo federal aumentando o imposto sobre a gasolina e o diesel; OU   
+1.2 O governo federal aumentando impostos sobre produtos da cesta básica; OU   
+1.3 O governo federal aumentando impostos sobre o abastecimento de água e energia.
+
+\vspace{.4cm}
+
+2.1 A seleção brasileira se classificando para a Copa do Mundo; OU   
+2.2 A seleção brasileira sendo campeã da Copa América; OU   
+2.3 A seleção brasileira sendo campeã da Copa do Mundo.
+
+\vspace{.4cm}
+
+3.1 Grandes empresas poluindo o meio ambiente sem serem penalizadas; OU   
+3.2 Grandes empresas poluindo mares e rios sem serem penalizadas; OU   
+3.3 Grandes empresas poluindo as cidades sem serem penalizadas.  
+
+\vspace{.4cm}
+
+**4. Venezuelanos/Alemães/Haitianos/Nordestinos morando no seu bairro utilizando o serviço do hospital público perto da sua casa.**
+
+\vspace{1cm}
 
 ## Q52 -- Professional Training | Formação Profissional
 
 ### Q52A -- Control | Controle 
 
-Agora eu vou ler três frases para você que às vezes fazem as pessoas ficarem irritadas. Depois de ler todas as três, diga-me QUANTAS frases te incomodam. Eu não quero saber quais delas te incomodam, apenas quantas (1, 2 ou 3).
+*Now I will read three statements that sometimes can bother people. After reading all three, please tell me HOW MANY of them bother you. I do not wish to know which of them bother you, only how many (one, two, or three).*
 
-ALEATORIZAR AS BASELINES ENTRE ELAS POR NÚMERO (1, 2 e 3)
-1.1 O governo federal aumentando o imposto sobre a gasolina e o diesel; OU
-1.2 O governo federal aumentando impostos sobre produtos da cesta básica; OU
+\vspace{.4cm}
+
+1.1 The Federal Government increasing taxes on gasoline and diesel fuels; OR   
+1.2 The Federal Government increasing taxes on basic needs products; OR   
+1.3 The Federal Government increasing taxes on water and utility bills.   
+
+\vspace{.4cm}
+
+2.1 The Brazilian national soccer team classifying for the World Cup; OR   
+2.2 The Brazilian national soccer team being champion of the American Cup; OR    
+2.3 The Brazilian national soccer team being champion of the World Cup.   
+
+\vspace{.4cm}
+
+3.1 Corporations polluting the environment without being sanctioned; OR   
+3.2 Corporations polluting seas and oceans without being sanctioned; OR   
+3.3 Corporations polluting cities without being sanctioned.
+
+\vspace{1.3cm}
+
+*Agora eu vou ler três frases para você que às vezes fazem as pessoas ficarem irritadas. Depois de ler todas as três, diga-me QUANTAS frases te incomodam. Eu não quero saber quais delas te incomodam, apenas quantas (1, 2 ou 3).*
+
+\vspace{.4cm}
+
+1.1 O governo federal aumentando o imposto sobre a gasolina e o diesel; OU   
+1.2 O governo federal aumentando impostos sobre produtos da cesta básica; OU   
 1.3 O governo federal aumentando impostos sobre o abastecimento de água e energia.
-2.1 A seleção brasileira se classificando para a Copa do Mundo; OU
-2.2 A seleção brasileira sendo campeã da Copa América; OU
-2.3 A seleção brasileira sendo campeã da Copa do Mundo;
-3.1 Grandes empresas poluindo o meio ambiente sem serem penalizadas; OU
-3.2 Grandes empresas poluindo mares e rios sem serem penalizadas; OU
-3.3 Grandes empresas poluindo as cidades sem serem penalizadas;
 
+\vspace{.4cm}
+
+2.1 A seleção brasileira se classificando para a Copa do Mundo; OU   
+2.2 A seleção brasileira sendo campeã da Copa América; OU   
+2.3 A seleção brasileira sendo campeã da Copa do Mundo.
+
+\vspace{.4cm}
+
+3.1 Grandes empresas poluindo o meio ambiente sem serem penalizadas; OU   
+3.2 Grandes empresas poluindo mares e rios sem serem penalizadas; OU   
+3.3 Grandes empresas poluindo as cidades sem serem penalizadas.  
+
+
+\vspace{1cm}
 
 ### Q52B-E -- Treatment | Tratamento
 
-Agora eu vou ler quatro frases para você que às vezes fazem as pessoas ficarem irritadas. Depois de ler todas as quatro, diga-me QUANTAS frases te incomodam. Eu não quero saber quais delas te incomodam, apenas quantas (1, 2 ou 3).
-Validar se poderá marcar 0, 1, 2, 3 ou 4. Pensando que este bloco possui 4 frases. E que a pessoa pode não se incomodar com nenhuma. RESPOSTA: OK
 
-ALEATORIZAR AS BASELINES ENTRE ELAS POR NÚMERO (1, 2 e 3)
-1.1 O governo federal aumentando o imposto sobre a gasolina e o diesel; OU
-1.2 O governo federal aumentando impostos sobre produtos da cesta básica; OU
+*Now I will read three statements that sometimes can bother people. After reading all three, please tell me HOW MANY of them bother you. I do not wish to know which of them bother you, only how many (one, two, or three).*
+
+\vspace{.4cm}
+
+1.1 The Federal Government increasing taxes on gasoline and diesel fuels; OR   
+1.2 The Federal Government increasing taxes on basic needs products; OR   
+1.3 The Federal Government increasing taxes on water and utility bills.   
+
+\vspace{.4cm}
+
+2.1 The Brazilian national soccer team classifying for the World Cup; OR   
+2.2 The Brazilian national soccer team being champion of the American Cup; OR    
+2.3 The Brazilian national soccer team being champion of the World Cup.   
+
+\vspace{.4cm}
+
+3.1 Corporations polluting the environment without being sanctioned; OR   
+3.2 Corporations polluting seas and oceans without being sanctioned; OR   
+3.3 Corporations polluting cities without being sanctioned.
+
+\vspace{.4cm}
+
+**4. Venezuelans/Germans/Haitians/Northeasternerns moving into your neighborhood and competing for attendance to professionalizing high schools.**
+
+\vspace{1.3cm}
+
+*Agora eu vou ler três frases para você que às vezes fazem as pessoas ficarem irritadas. Depois de ler todas as três, diga-me QUANTAS frases te incomodam. Eu não quero saber quais delas te incomodam, apenas quantas (1, 2 ou 3).*
+
+\vspace{.4cm}
+
+1.1 O governo federal aumentando o imposto sobre a gasolina e o diesel; OU   
+1.2 O governo federal aumentando impostos sobre produtos da cesta básica; OU   
 1.3 O governo federal aumentando impostos sobre o abastecimento de água e energia.
-2.1 A seleção brasileira se classificando para a Copa do Mundo; OU
-2.2 A seleção brasileira sendo campeã da Copa América; OU
-2.3 A seleção brasileira sendo campeã da Copa do Mundo;
-3.1 Grandes empresas poluindo o meio ambiente sem serem penalizadas; OU
-3.2 Grandes empresas poluindo mares e rios sem serem penalizadas; OU
-3.3 Grandes empresas poluindo as cidades sem serem penalizadas;
+
+\vspace{.4cm}
+
+2.1 A seleção brasileira se classificando para a Copa do Mundo; OU   
+2.2 A seleção brasileira sendo campeã da Copa América; OU   
+2.3 A seleção brasileira sendo campeã da Copa do Mundo.
+
+\vspace{.4cm}
+
+3.1 Grandes empresas poluindo o meio ambiente sem serem penalizadas; OU   
+3.2 Grandes empresas poluindo mares e rios sem serem penalizadas; OU   
+3.3 Grandes empresas poluindo as cidades sem serem penalizadas.  
+
+\vspace{.4cm}
 
 **(4) Venezuelanos/Alemães/Haitianos/Nordestinos morando no seu bairro e disputando vagas nas escolas técnicas.**
 
+
+\vspace{1cm}
 
 ## Q53 -- Housing Policy | Política Habitacional
 
 ### Q53A -- Controle | Control
 
-Agora eu vou ler três frases para você que às vezes fazem as pessoas ficarem irritadas. Depois de ler todas as três, diga-me QUANTAS frases te incomodam. Eu não quero saber quais delas te incomodam, apenas quantas (1, 2 ou 3).
-Validar se poderá marcar 0. Pensando na hipótese da pessoa não se incomodar com nenhuma frase. RESPOSTA: OK
-ALEATORIZAR AS BASELINES ENTRE ELAS POR NÚMERO (1, 2 e 3)
-1.1 O governo federal aumentando o imposto sobre a gasolina e o diesel; OU
-1.2 O governo federal aumentando impostos sobre produtos da cesta básica; OU
+*Now I will read three statements that sometimes can bother people. After reading all three, please tell me HOW MANY of them bother you. I do not wish to know which of them bother you, only how many (one, two, or three).*
+
+\vspace{.4cm}
+
+1.1 The Federal Government increasing taxes on gasoline and diesel fuels; OR   
+1.2 The Federal Government increasing taxes on basic needs products; OR   
+1.3 The Federal Government increasing taxes on water and utility bills.   
+
+\vspace{.4cm}
+
+2.1 The Brazilian national soccer team classifying for the World Cup; OR   
+2.2 The Brazilian national soccer team being champion of the American Cup; OR    
+2.3 The Brazilian national soccer team being champion of the World Cup.   
+
+\vspace{.4cm}
+
+3.1 Corporations polluting the environment without being sanctioned; OR   
+3.2 Corporations polluting seas and oceans without being sanctioned; OR   
+3.3 Corporations polluting cities without being sanctioned.
+
+
+\vspace{.7cm}
+
+*Agora eu vou ler três frases para você que às vezes fazem as pessoas ficarem irritadas. Depois de ler todas as três, diga-me QUANTAS frases te incomodam. Eu não quero saber quais delas te incomodam, apenas quantas (1, 2 ou 3).*
+
+\vspace{.4cm}
+
+1.1 O governo federal aumentando o imposto sobre a gasolina e o diesel; OU   
+1.2 O governo federal aumentando impostos sobre produtos da cesta básica; OU   
 1.3 O governo federal aumentando impostos sobre o abastecimento de água e energia.
-2.1 A seleção brasileira se classificando para a Copa do Mundo; OU
-2.2 A seleção brasileira sendo campeã da Copa América; OU
-2.3 A seleção brasileira sendo campeã da Copa do Mundo;
-3.1 Grandes empresas poluindo o meio ambiente sem serem penalizadas; OU
-3.2 Grandes empresas poluindo mares e rios sem serem penalizadas; OU
-3.3 Grandes empresas poluindo as cidades sem serem penalizadas;
+
+\vspace{.4cm}
+
+2.1 A seleção brasileira se classificando para a Copa do Mundo; OU   
+2.2 A seleção brasileira sendo campeã da Copa América; OU   
+2.3 A seleção brasileira sendo campeã da Copa do Mundo.
+
+\vspace{.4cm}
+
+3.1 Grandes empresas poluindo o meio ambiente sem serem penalizadas; OU   
+3.2 Grandes empresas poluindo mares e rios sem serem penalizadas; OU   
+3.3 Grandes empresas poluindo as cidades sem serem penalizadas.  
+
+
+\vspace{1cm}
 
 
 ### Q53B-E -- Treatment | Tratamento
 
-Agora eu vou ler quatro frases para você que às vezes fazem as pessoas ficarem irritadas. Depois de ler todas as quatro, diga-me QUANTAS frases te incomodam. Eu não quero saber quais delas te incomodam, apenas quantas (1, 2 ou 3).
-Validar se poderá marcar 0, 1, 2, 3 ou 4. Pensando que este bloco possui 4 frases. E que a pessoa pode não se incomodar com nenhuma. RESPOSTA: OK
-ALEATORIZAR AS BASELINES ENTRE ELAS POR NÚMERO (1, 2 e 3)
-1.1 O governo federal aumentando o imposto sobre a gasolina e o diesel; OU
-1.2 O governo federal aumentando impostos sobre produtos da cesta básica; OU
-1.3 O governo federal aumentando impostos sobre o abastecimento de água e energia.
-2.1 A seleção brasileira se classificando para a Copa do Mundo; OU
-2.2 A seleção brasileira sendo campeã da Copa América; OU
-2.3 A seleção brasileira sendo campeã da Copa do Mundo;
-3.1 Grandes empresas poluindo o meio ambiente sem serem penalizadas; OU
-3.2 Grandes empresas poluindo mares e rios sem serem penalizadas; OU
-3.3 Grandes empresas poluindo as cidades sem serem penalizadas;
 
-**(4) Venezuelanos/Alemães/Haitianos/Nordestinos indo morar no seu bairro.**
+*Now I will read three statements that sometimes can bother people. After reading all three, please tell me HOW MANY of them bother you. I do not wish to know which of them bother you, only how many (one, two, or three).*
+
+\vspace{.4cm}
+
+1.1 The Federal Government increasing taxes on gasoline and diesel fuels; OR   
+1.2 The Federal Government increasing taxes on basic needs products; OR   
+1.3 The Federal Government increasing taxes on water and utility bills.   
+
+\vspace{.4cm}
+
+2.1 The Brazilian national soccer team classifying for the World Cup; OR   
+2.2 The Brazilian national soccer team being champion of the American Cup; OR    
+2.3 The Brazilian national soccer team being champion of the World Cup.   
+
+\vspace{.4cm}
+
+3.1 Corporations polluting the environment without being sanctioned; OR   
+3.2 Corporations polluting seas and oceans without being sanctioned; OR   
+3.3 Corporations polluting cities without being sanctioned.
+
+\vspace{.4cm}
+
+**4. Venezuelans/Germans/Haitians/Northeasternerns moving into your neighborhood.**
+
+
+\vspace{1.3cm}
+
+*Agora eu vou ler três frases para você que às vezes fazem as pessoas ficarem irritadas. Depois de ler todas as três, diga-me QUANTAS frases te incomodam. Eu não quero saber quais delas te incomodam, apenas quantas (1, 2 ou 3).*
+
+\vspace{.4cm}
+
+1.1 O governo federal aumentando o imposto sobre a gasolina e o diesel; OU   
+1.2 O governo federal aumentando impostos sobre produtos da cesta básica; OU   
+1.3 O governo federal aumentando impostos sobre o abastecimento de água e energia.
+
+\vspace{.4cm}
+
+2.1 A seleção brasileira se classificando para a Copa do Mundo; OU   
+2.2 A seleção brasileira sendo campeã da Copa América; OU   
+2.3 A seleção brasileira sendo campeã da Copa do Mundo.
+
+\vspace{.4cm}
+
+3.1 Grandes empresas poluindo o meio ambiente sem serem penalizadas; OU   
+3.2 Grandes empresas poluindo mares e rios sem serem penalizadas; OU   
+3.3 Grandes empresas poluindo as cidades sem serem penalizadas.  
+
+\vspace{.4cm}
+
+**4. Venezuelanos/Alemães/Haitianos/Nordestinos indo morar no seu bairro.**
+
+\newpage
 
 
 # SOCIOECONOMIC DATA | DADOS SOCIOECONÔMICOS
@@ -9236,7 +9489,8 @@ Answer to the question:
 
 Answer & Code in Dataset  \\ 
   \hline
-  Work (Employee/ Self-Employed/ Employer/ Unsalaried work: Intern, Apprentice, Volunteer for at least 15hrs/week) & 1 \\ 
+  Work (Employee/ Self-Employed/ Employer/ Unsalaried work: &  \\
+  Intern, Apprentice, Volunteer for at least 15hrs/week) & 1 \\ 
   Usually works, but did not work (on holiday, temporarily unable to, or ill) & 2 \\
   Stay-at-home worker & 3 \\
   Student & 4 \\
@@ -9247,7 +9501,7 @@ Answer & Code in Dataset  \\
   \end{tabular}}
 \end{table}
 
-Resposta para a questão"
+Resposta para a questão:
 
 *Qual foi sua atividade principal nos últimos 7 dias?*
 
