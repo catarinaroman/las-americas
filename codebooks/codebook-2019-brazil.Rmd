@@ -1,6 +1,7 @@
 ---
 title: "Codebook"
-author: "Brazil, the Americas and the World Project"
+subtitle: "2019"
+author: "Brazil, the Americas and the World Project | 2019"
 fontfamily: libertine
 fontawesome: yes
 fontsize: 12pt
@@ -53,12 +54,12 @@ Flávio Pinheiro
 
 
 ## Coordination | Coordenação 
-Paloma  Moraes 
+Paloma  Morais 
 
 
 
 ## Assistance | Assistência 
-Priscila Reis   
+Priscila Petris   
 Ingrid Meirelles    
 Catarina Roman     
 
