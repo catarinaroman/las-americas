@@ -49,4 +49,4 @@ If your browser does not support pdfs, you can download the 2010 codebook [here]
 
 
 
-The 2014 survey instrument (questionnaire) is available in [this link](https://github.com/catarinaroman/las-americas/blob/main/surveys/brazil-2010-survey.pdf).
+The 2010 survey instrument (questionnaire) is available in [this link](https://github.com/catarinaroman/las-americas/blob/main/surveys/brazil-2010-survey.pdf).
