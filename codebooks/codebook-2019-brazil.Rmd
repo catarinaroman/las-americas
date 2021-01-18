@@ -86,10 +86,10 @@ Answer & Code in Dataset  \\
   Uninterested  & 4 \\ 
   I do not keep up with the news (spontaneous) & 5 \\ 
   Indifferent (spontaneous) & 6 \\ 
-  DK & 7 \\ 
-  NO & 8 
+  NK & 7 \\ 
+  NR & 8 
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -112,7 +112,7 @@ Resposta & Código na Base de Dados  \\
   NS & 7 \\ 
   NR & 8 
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -132,11 +132,11 @@ Answer & Code in Dataset  \\
   Interested & 2 \\
   Slightly Interested & 3 \\ 
   Uninterested  & 4 \\ 
-  DK & 5 \\ 
-  NO & 6 \\ 
+  NK & 5 \\ 
+  NR & 6 \\ 
   Indifferent (spontaneous) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 Resposta para a questão:  
@@ -157,7 +157,7 @@ Resposta & Código na Base de Dados  \\
   NR & 6 \\ 
   Indiferente (espontânea) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -177,11 +177,11 @@ Answer & Code in Dataset  \\
   Interested & 2 \\
   Slightly Interested & 3 \\ 
   Uninterested  & 4 \\ 
-  DK & 5 \\ 
-  NO & 6 \\ 
+  NK & 5 \\ 
+  NR & 6 \\ 
   Indifferent (spontaneous) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 Resposta para a questão:
@@ -202,7 +202,7 @@ Resposta & Código na Base de Dados  \\
   NR & 6 \\ 
   Indiferente (espontânea) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 \newpage
@@ -225,11 +225,11 @@ Answer & Code in Dataset  \\
   Influential & 2 \\
   Slightly Influential & 3 \\ 
   Not influential  & 4 \\ 
-  DK & 5 \\ 
-  NO & 6 \\ 
+  NK & 5 \\ 
+  NR & 6 \\ 
   Indifferent (spontaneous) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -251,7 +251,7 @@ Resposta & Código na Base de Dados  \\
   NR & 6 \\ 
   Indiferente (espontânea) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -271,11 +271,11 @@ Answer & Code in Dataset  \\
   Influential & 2 \\
   Slightly Influential & 3 \\ 
   Not influential  & 4 \\ 
-  DK & 5 \\ 
-  NO & 6 \\ 
+  NK & 5 \\ 
+  NR & 6 \\ 
   Indifferent (spontaneous) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 Resposta para a questão:
@@ -296,7 +296,7 @@ Resposta & Código na Base de Dados  \\
   NR & 6 \\ 
   Indiferente (espontânea) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -315,11 +315,11 @@ Answer & Code in Dataset  \\
   \hline
   It Should & 1 \\ 
   It Should Not  & 2 \\
-  DK & 3 \\ 
+  NK & 3 \\ 
   NA  & 4 \\ 
   It Depends (SPONTANEOUS) & 5
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 Resposta para a questão:
@@ -338,7 +338,7 @@ Resposta & Código na Base de Dados  \\
   NR  & 4 \\ 
   Depende (ESPONTÂNEA) & 5
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -356,11 +356,11 @@ Answer & Code in Dataset  \\
   \hline
   It Should & 1 \\ 
   It Should Not  & 2 \\
-  DK & 3 \\ 
+  NK & 3 \\ 
   NA  & 4 \\ 
   It Depends (SPONTANEOUS) & 5
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 Resposta para a questão:
@@ -380,7 +380,7 @@ Resposta & Código na Base de Dados  \\
   NR  & 4 \\ 
   Depende (ESPONTÂNEA) & 5
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -400,10 +400,10 @@ Answer & Code in Dataset  \\
   Important, but not Serious Threat  & 2 \\
   Rather Important Threat & 3 \\ 
   Not a Threat (SPONTANEOUS)  & 4 \\ 
-  DK & 5 \\
-  NO & 6
+  NK & 5 \\
+  NR & 6
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -425,7 +425,7 @@ Resposta & Código na Base de Dados \\
   NS & 5 \\
   NR & 6
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -445,10 +445,10 @@ Answer & Code in Dataset  \\
   Important, but not Serious Threat  & 2 \\
   Rather Important Threat & 3 \\ 
   Not a Threat (SPONTANEOUS)  & 4 \\ 
-  DK & 5 \\
-  NO & 6
+  NK & 5 \\
+  NR & 6
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -469,7 +469,7 @@ Resposta & Código na Base de Dados \\
   NS & 5 \\
   NR & 6
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -489,10 +489,10 @@ Answer & Code in Dataset  \\
   Important, but not Serious Threat  & 2 \\
   Rather Important Threat & 3 \\ 
   Not a Threat (SPONTANEOUS)  & 4 \\ 
-  DK & 5 \\
-  NO & 6
+  NK & 5 \\
+  NR & 6
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 Resposta para a questão:
@@ -512,7 +512,7 @@ Resposta & Código na Base de Dados \\
   NS & 5 \\
   NR & 6
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -532,10 +532,10 @@ Answer & Code in Dataset  \\
   Important, but not Serious Threat  & 2 \\
   Rather Important Threat & 3 \\ 
   Not a Threat (SPONTANEOUS)  & 4 \\ 
-  DK & 5 \\
-  NO & 6
+  NK & 5 \\
+  NR & 6
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -556,7 +556,7 @@ Resposta & Código na Base de Dados \\
   NS & 5 \\
   NR & 6
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -576,10 +576,10 @@ Answer & Code in Dataset  \\
   Important, but not Serious Threat  & 2 \\
   Rather Important Threat & 3 \\ 
   Not a Threat (SPONTANEOUS)  & 4 \\ 
-  DK & 5 \\
-  NO & 6
+  NK & 5 \\
+  NR & 6
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -600,7 +600,7 @@ Resposta & Código na Base de Dados \\
   NS & 5 \\
   NR & 6
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -620,10 +620,10 @@ Answer & Code in Dataset  \\
   Important, but not Serious Threat  & 2 \\
   Rather Important Threat & 3 \\ 
   Not a Threat (SPONTANEOUS)  & 4 \\ 
-  DK & 5 \\
-  NO & 6
+  NK & 5 \\
+  NR & 6
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -644,7 +644,7 @@ Resposta & Código na Base de Dados \\
   NS & 5 \\
   NR & 6
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -664,10 +664,10 @@ Answer & Code in Dataset  \\
   Important, but not Serious Threat  & 2 \\
   Rather Important Threat & 3 \\ 
   Not a Threat (SPONTANEOUS)  & 4 \\ 
-  DK & 5 \\
-  NO & 6
+  NK & 5 \\
+  NR & 6
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -688,7 +688,7 @@ Resposta & Código na Base de Dados \\
   NS & 5 \\
   NR & 6
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 ## T_Q5_8
@@ -707,10 +707,10 @@ Answer & Code in Dataset  \\
   Important, but not Serious Threat  & 2 \\
   Rather Important Threat & 3 \\ 
   Not a Threat (SPONTANEOUS)  & 4 \\ 
-  DK & 5 \\
-  NO & 6
+  NK & 5 \\
+  NR & 6
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -731,7 +731,7 @@ Resposta & Código na Base de Dados \\
   NS & 5 \\
   NR & 6
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -751,10 +751,10 @@ Answer & Code in Dataset  \\
   Important, but not Serious Threat  & 2 \\
   Rather Important Threat & 3 \\ 
   Not a Threat (SPONTANEOUS)  & 4 \\ 
-  DK & 5 \\
-  NO & 6
+  NK & 5 \\
+  NR & 6
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -775,7 +775,7 @@ Resposta & Código na Base de Dados \\
   NS & 5 \\
   NR & 6
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -795,10 +795,10 @@ Answer & Code in Dataset  \\
   Important, but not Serious Threat  & 2 \\
   Rather Important Threat & 3 \\ 
   Not a Threat (SPONTANEOUS)  & 4 \\ 
-  DK & 5 \\
-  NO & 6
+  NK & 5 \\
+  NR & 6
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -819,7 +819,7 @@ Resposta & Código na Base de Dados \\
   NS & 5 \\
   NR & 6
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -839,10 +839,10 @@ Answer & Code in Dataset  \\
   Important, but not Serious Threat  & 2 \\
   Rather Important Threat & 3 \\ 
   Not a Threat (SPONTANEOUS)  & 4 \\ 
-  DK & 5 \\
-  NO & 6
+  NK & 5 \\
+  NR & 6
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -863,7 +863,7 @@ Resposta & Código na Base de Dados \\
   NS & 5 \\
   NR & 6
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -883,10 +883,10 @@ Answer & Code in Dataset  \\
   Important, but not Serious Threat  & 2 \\
   Rather Important Threat & 3 \\ 
   Not a Threat (SPONTANEOUS)  & 4 \\ 
-  DK & 5 \\
-  NO & 6
+  NK & 5 \\
+  NR & 6
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -907,7 +907,7 @@ Resposta & Código na Base de Dados \\
   NS & 5 \\
   NR & 6
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 \newpage
@@ -931,10 +931,10 @@ Answer & Code in Dataset  \\
   Negative & 3 \\ 
   Very Negative  & 4 \\ 
   Indifferent (spontaneous) & 5 \\ 
-  DK & 6 \\ 
-  NO & 7
+  NK & 6 \\ 
+  NR & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -956,7 +956,7 @@ Resposta & Código na Base de Dados  \\
   NS & 6 \\ 
   NR & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -977,10 +977,10 @@ Answer & Code in Dataset  \\
   Negative & 3 \\ 
   Very Negative  & 4 \\ 
   Indifferent (spontaneous) & 5 \\ 
-  DK & 6 \\ 
-  NO & 7
+  NK & 6 \\ 
+  NR & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -1002,7 +1002,7 @@ Resposta & Código na Base de Dados  \\
   NS & 6 \\ 
   NR & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 ## Q8
@@ -1020,10 +1020,10 @@ Answer & Code in Dataset \\
   Many & 1 \\ 
   An Appropriate Amount  & 2 \\
   Few  & 3 \\ 
-  DK & 4 \\ 
-  NO & 5 
+  NK & 4 \\ 
+  NR & 5 
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -1043,7 +1043,7 @@ Resposta & Código na Base de Dados \\
   NS & 4 \\ 
   NR & 5 
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -1063,11 +1063,11 @@ Answer & Code in Dataset  \\
   Positive & 2 \\
   Negative & 3 \\ 
   Very Negative  & 4 \\ 
-  DK & 5 \\ 
-  NO & 6 \\ 
+  NK & 5 \\ 
+  NR & 6 \\ 
   Indifferent (spontaneous) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -1089,7 +1089,7 @@ Resposta & Código na Base de Dados  \\
   NR & 6 \\ 
   Indiferente (espontânea) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -1109,11 +1109,11 @@ Answer & Code in Dataset  \\
   Positive & 2 \\
   Negative & 3 \\ 
   Very Negative  & 4 \\ 
-  DK & 5 \\ 
-  NO & 6 \\ 
+  NK & 5 \\ 
+  NR & 6 \\ 
   Indifferent (spontaneous) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -1135,7 +1135,7 @@ Resposta & Código na Base de Dados  \\
   NR & 6 \\ 
   Indiferente (espontânea) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -1155,11 +1155,11 @@ Answer & Code in Dataset  \\
   Positive & 2 \\
   Negative & 3 \\ 
   Very Negative  & 4 \\ 
-  DK & 5 \\ 
-  NO & 6 \\ 
+  NK & 5 \\ 
+  NR & 6 \\ 
   Indifferent (spontaneous) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 Resposta para a questão: 
@@ -1180,7 +1180,7 @@ Resposta & Código na Base de Dados  \\
   NR & 6 \\ 
   Indiferente (espontânea) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 ## T_Q9_4
@@ -1199,11 +1199,11 @@ Answer & Code in Dataset  \\
   Positive & 2 \\
   Negative & 3 \\ 
   Very Negative  & 4 \\ 
-  DK & 5 \\ 
-  NO & 6 \\ 
+  NK & 5 \\ 
+  NR & 6 \\ 
   Indifferent (spontaneous) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 Resposta para a questão: 
@@ -1224,7 +1224,7 @@ Resposta & Código na Base de Dados  \\
   NR & 6 \\ 
   Indiferente (espontânea) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -1244,11 +1244,11 @@ Answer & Code in Dataset  \\
   Positive & 2 \\
   Negative & 3 \\ 
   Very Negative  & 4 \\ 
-  DK & 5 \\ 
-  NO & 6 \\ 
+  NK & 5 \\ 
+  NR & 6 \\ 
   Indifferent (spontaneous) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 Resposta para a questão: 
@@ -1269,7 +1269,7 @@ Resposta & Código na Base de Dados  \\
   NR & 6 \\ 
   Indiferente (espontânea) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -1289,11 +1289,11 @@ Answer & Code in Dataset  \\
   Positive & 2 \\
   Negative & 3 \\ 
   Very Negative  & 4 \\ 
-  DK & 5 \\ 
-  NO & 6 \\ 
+  NK & 5 \\ 
+  NR & 6 \\ 
   Indifferent (spontaneous) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 Resposta para a questão: 
@@ -1314,7 +1314,7 @@ Resposta & Código na Base de Dados  \\
   NR & 6 \\ 
   Indiferente (espontânea) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -1334,11 +1334,11 @@ Answer & Code in Dataset  \\
   Positive & 2 \\
   Negative & 3 \\ 
   Very Negative  & 4 \\ 
-  DK & 5 \\ 
-  NO & 6 \\ 
+  NK & 5 \\ 
+  NR & 6 \\ 
   Indifferent (spontaneous) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 Resposta para a questão: 
@@ -1359,7 +1359,7 @@ Resposta & Código na Base de Dados  \\
   NR & 6 \\ 
   Indiferente (espontânea) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -1379,11 +1379,11 @@ Answer & Code in Dataset  \\
   Positive & 2 \\
   Negative & 3 \\ 
   Very Negative  & 4 \\ 
-  DK & 5 \\ 
-  NO & 6 \\ 
+  NK & 5 \\ 
+  NR & 6 \\ 
   Indifferent (spontaneous) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 Resposta para a questão: 
@@ -1404,7 +1404,7 @@ Resposta & Código na Base de Dados  \\
   NR & 6 \\ 
   Indiferente (espontânea) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -1424,11 +1424,11 @@ Answer & Code in Dataset  \\
   Positive & 2 \\
   Negative & 3 \\ 
   Very Negative  & 4 \\ 
-  DK & 5 \\ 
-  NO & 6 \\ 
+  NK & 5 \\ 
+  NR & 6 \\ 
   Indifferent (spontaneous) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 Resposta para a questão: 
@@ -1449,7 +1449,7 @@ Resposta & Código na Base de Dados  \\
   NR & 6 \\ 
   Indiferente (espontânea) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -1469,11 +1469,11 @@ Answer & Code in Dataset  \\
   Positive & 2 \\
   Negative & 3 \\ 
   Very Negative  & 4 \\ 
-  DK & 5 \\ 
-  NO & 6 \\ 
+  NK & 5 \\ 
+  NR & 6 \\ 
   Indifferent (spontaneous) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 Resposta para a questão: 
@@ -1494,7 +1494,7 @@ Resposta & Código na Base de Dados  \\
   NR & 6 \\ 
   Indiferente (espontânea) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -1516,10 +1516,10 @@ Answer & Code in Dataset  \\
   Citizen of Mercosur & 4 \\ 
   Citizen of the World & 5 \\ 
   Other. Which? & 6 \\ 
-  DK & 7 \\
-  NO & 8
+  NK & 7 \\
+  NR & 8
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 Resposta para a questão: 
@@ -1532,16 +1532,16 @@ Resposta para a questão:
 
 Resposta & Código na Base de Dados  \\ 
   \hline
-  Latino-americano & 1 \\ 
+  Latino-americaNR & 1 \\ 
   Brasileiro & 2 \\
-  Sul-americano & 3 \\ 
+  Sul-americaNR & 3 \\ 
   Cidadão do Mercosul & 4 \\ 
   Cidadão do Mundo & 5 \\ 
   Outra. Qual? & 6 \\ 
   NS & 7 \\
   NR & 8
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -1561,11 +1561,11 @@ Answer & Code in Dataset  \\
   Important & 2 \\
   Slightly Important & 3 \\ 
   Not Important  & 4 \\ 
-  DK & 5 \\ 
-  NO & 6 \\ 
+  NK & 5 \\ 
+  NR & 6 \\ 
   Indifferent (spontaneous) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 Resposta para a questão: 
@@ -1586,7 +1586,7 @@ Resposta & Código na Base de Dados  \\
   NR & 6 \\ 
   Indiferente (espontânea) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -1606,11 +1606,11 @@ Answer & Code in Dataset  \\
   Important & 2 \\
   Slightly Important & 3 \\ 
   Not Important  & 4 \\ 
-  DK & 5 \\ 
-  NO & 6 \\ 
+  NK & 5 \\ 
+  NR & 6 \\ 
   Indifferent (spontaneous) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -1632,7 +1632,7 @@ Resposta & Código na Base de Dados  \\
   NR & 6 \\ 
   Indiferente (espontânea) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -1652,11 +1652,11 @@ Answer & Code in Dataset  \\
   Important & 2 \\
   Slightly Important & 3 \\ 
   Not Important  & 4 \\ 
-  DK & 5 \\ 
-  NO & 6 \\ 
+  NK & 5 \\ 
+  NR & 6 \\ 
   Indifferent (spontaneous) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -1678,7 +1678,7 @@ Resposta & Código na Base de Dados  \\
   NR & 6 \\ 
   Indiferente (espontânea) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -1698,11 +1698,11 @@ Answer & Code in Dataset  \\
   Important & 2 \\
   Slightly Important & 3 \\ 
   Not Important  & 4 \\ 
-  DK & 5 \\ 
-  NO & 6 \\ 
+  NK & 5 \\ 
+  NR & 6 \\ 
   Indifferent (spontaneous) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -1724,7 +1724,7 @@ Resposta & Código na Base de Dados  \\
   NR & 6 \\ 
   Indiferente (espontânea) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 ## T_Q11_5
@@ -1743,11 +1743,11 @@ Answer & Code in Dataset  \\
   Important & 2 \\
   Slightly Important & 3 \\ 
   Not Important  & 4 \\ 
-  DK & 5 \\ 
-  NO & 6 \\ 
+  NK & 5 \\ 
+  NR & 6 \\ 
   Indifferent (spontaneous) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -1769,7 +1769,7 @@ Resposta & Código na Base de Dados  \\
   NR & 6 \\ 
   Indiferente (espontânea) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -1789,10 +1789,10 @@ Answer & Code in Dataset  \\
   \hline
   Answered Correctly & 1 \\ 
   Answered Incorrectly & 2 \\
-  DK & 3 \\ 
-  NO & 4
+  NK & 3 \\ 
+  NR & 4
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 Resposta para a questão: 
@@ -1810,7 +1810,7 @@ Resposta & Código na Base de Dados  \\
   NS & 3 \\ 
   NR & 4
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table} 
 
 
@@ -1830,10 +1830,10 @@ Answer & Code in Dataset  \\
   \hline
   Answered Correctly & 1 \\ 
   Answered Incorrectly & 2 \\
-  DK & 3 \\ 
-  NO & 4
+  NK & 3 \\ 
+  NR & 4
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 Resposta para a questão: 
@@ -1851,7 +1851,7 @@ Resposta & Código na Base de Dados  \\
   NS & 3 \\ 
   NR & 4
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table} 
 
 
@@ -1869,10 +1869,10 @@ Answer & Code in Dataset  \\
   \hline
   Answered Correctly & 1 \\ 
   Answered Incorrectly & 2 \\
-  DK & 3 \\ 
-  NO & 4
+  NK & 3 \\ 
+  NR & 4
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 Resposta para a questão: 
@@ -1890,7 +1890,7 @@ Resposta & Código na Base de Dados  \\
   NS & 3 \\ 
   NR & 4
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table} 
 
 
@@ -1908,12 +1908,12 @@ Answer & Code in Dataset  \\
   \hline
   Participating Actively & 1 \\ 
   Keeping away from global/world affairs & 2 \\
-  DK & 3 \\ 
-  NO & 4 \\
+  NK & 3 \\ 
+  NR & 4 \\
   Neither (SPONTANEOUS) & 5 \\
   IndifFerent (SPONTANEOUS) & 6
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table} 
 
 Resposta para a questão: 
@@ -1933,7 +1933,7 @@ Resposta & Código na Base de Dados  \\
   Nem um, nem outro (ESPONTÂNEA) & 5 \\
   Indiferente (ESPONTÂNEA) & 6
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table} 
 
 
@@ -1953,11 +1953,11 @@ Answer & Code in Dataset  \\
   Important & 2 \\
   Slightly Important & 3 \\ 
   Not Important  & 4 \\ 
-  DK & 5 \\ 
-  NO & 6 \\ 
+  NK & 5 \\ 
+  NR & 6 \\ 
   Indifferent (spontaneous) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 Resposta para a questão: 
@@ -1978,7 +1978,7 @@ Resposta & Código na Base de Dados  \\
   NR & 6 \\ 
   Indiferente (espontânea) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -1998,11 +1998,11 @@ Answer & Code in Dataset  \\
   Important & 2 \\
   Slightly Important & 3 \\ 
   Not Important  & 4 \\ 
-  DK & 5 \\ 
-  NO & 6 \\ 
+  NK & 5 \\ 
+  NR & 6 \\ 
   Indifferent (spontaneous) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 Resposta para a questão: 
@@ -2023,7 +2023,7 @@ Resposta & Código na Base de Dados  \\
   NR & 6 \\ 
   Indiferente (espontânea) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -2043,11 +2043,11 @@ Answer & Code in Dataset  \\
   Important & 2 \\
   Slightly Important & 3 \\ 
   Not Important  & 4 \\ 
-  DK & 5 \\ 
-  NO & 6 \\ 
+  NK & 5 \\ 
+  NR & 6 \\ 
   Indifferent (spontaneous) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -2069,7 +2069,7 @@ Resposta & Código na Base de Dados  \\
   NR & 6 \\ 
   Indiferente (espontânea) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -2089,11 +2089,11 @@ Answer & Code in Dataset  \\
   Important & 2 \\
   Slightly Important & 3 \\ 
   Not Important  & 4 \\ 
-  DK & 5 \\ 
-  NO & 6 \\ 
+  NK & 5 \\ 
+  NR & 6 \\ 
   Indifferent (spontaneous) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 Resposta para a questão: 
@@ -2114,7 +2114,7 @@ Resposta & Código na Base de Dados  \\
   NR & 6 \\ 
   Indiferente (espontânea) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -2135,11 +2135,11 @@ Answer & Code in Dataset  \\
   Important & 2 \\
   Slightly Important & 3 \\ 
   Not Important  & 4 \\ 
-  DK & 5 \\ 
-  NO & 6 \\ 
+  NK & 5 \\ 
+  NR & 6 \\ 
   Indifferent (spontaneous) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 Resposta para a questão: 
@@ -2160,7 +2160,7 @@ Resposta & Código na Base de Dados  \\
   NR & 6 \\ 
   Indiferente (espontânea) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -2180,11 +2180,11 @@ Answer & Code in Dataset  \\
   Important & 2 \\
   Slightly Important & 3 \\ 
   Not Important  & 4 \\ 
-  DK & 5 \\ 
-  NO & 6 \\ 
+  NK & 5 \\ 
+  NR & 6 \\ 
   Indifferent (spontaneous) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -2207,7 +2207,7 @@ Resposta & Código na Base de Dados  \\
   NR & 6 \\ 
   Indiferente (espontânea) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -2227,11 +2227,11 @@ Answer & Code in Dataset  \\
   Important & 2 \\
   Slightly Important & 3 \\ 
   Not Important  & 4 \\ 
-  DK & 5 \\ 
-  NO & 6 \\ 
+  NK & 5 \\ 
+  NR & 6 \\ 
   Indifferent (spontaneous) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 Resposta para a questão: 
@@ -2252,7 +2252,7 @@ Resposta & Código na Base de Dados  \\
   NR & 6 \\ 
   Indiferente (espontânea) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -2272,11 +2272,11 @@ Answer & Code in Dataset  \\
   Important & 2 \\
   Slightly Important & 3 \\ 
   Not Important  & 4 \\ 
-  DK & 5 \\ 
-  NO & 6 \\ 
+  NK & 5 \\ 
+  NR & 6 \\ 
   Indifferent (spontaneous) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 Resposta para a questão: 
@@ -2297,7 +2297,7 @@ Resposta & Código na Base de Dados  \\
   NR & 6 \\ 
   Indiferente (espontânea) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -2317,11 +2317,11 @@ Answer & Code in Dataset  \\
   Important & 2 \\
   Slightly Important & 3 \\ 
   Not Important  & 4 \\ 
-  DK & 5 \\ 
-  NO & 6 \\ 
+  NK & 5 \\ 
+  NR & 6 \\ 
   Indifferent (spontaneous) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -2343,7 +2343,7 @@ Resposta & Código na Base de Dados  \\
   NR & 6 \\ 
   Indiferente (espontânea) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -2363,11 +2363,11 @@ Answer & Code in Dataset  \\
   Important & 2 \\
   Slightly Important & 3 \\ 
   Not Important  & 4 \\ 
-  DK & 5 \\ 
-  NO & 6 \\ 
+  NK & 5 \\ 
+  NR & 6 \\ 
   Indifferent (spontaneous) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 Resposta para a questão: 
@@ -2388,7 +2388,7 @@ Resposta & Código na Base de Dados  \\
   NR & 6 \\ 
   Indiferente (espontânea) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -2408,11 +2408,11 @@ Answer & Code in Dataset  \\
   Important & 2 \\
   Slightly Important & 3 \\ 
   Not Important  & 4 \\ 
-  DK & 5 \\ 
-  NO & 6 \\ 
+  NK & 5 \\ 
+  NR & 6 \\ 
   Indifferent (spontaneous) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 Resposta para a questão: 
@@ -2433,7 +2433,7 @@ Resposta & Código na Base de Dados  \\
   NR & 6 \\ 
   Indiferente (espontânea) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -2453,11 +2453,11 @@ Answer & Code in Dataset  \\
   Important & 2 \\
   Slightly Important & 3 \\ 
   Not Important  & 4 \\ 
-  DK & 5 \\ 
-  NO & 6 \\ 
+  NK & 5 \\ 
+  NR & 6 \\ 
   Indifferent (spontaneous) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -2479,7 +2479,7 @@ Resposta & Código na Base de Dados  \\
   NR & 6 \\ 
   Indiferente (espontânea) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -2499,11 +2499,11 @@ Answer & Code in Dataset  \\
   Important & 2 \\
   Slightly Important & 3 \\ 
   Not Important  & 4 \\ 
-  DK & 5 \\ 
-  NO & 6 \\ 
+  NK & 5 \\ 
+  NR & 6 \\ 
   Indifferent (spontaneous) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 Resposta para a questão: 
@@ -2524,7 +2524,7 @@ Resposta & Código na Base de Dados  \\
   NR & 6 \\ 
   Indiferente (espontânea) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -2544,11 +2544,11 @@ Answer & Code in Dataset  \\
   Important & 2 \\
   Slightly Important & 3 \\ 
   Not Important  & 4 \\ 
-  DK & 5 \\ 
-  NO & 6 \\ 
+  NK & 5 \\ 
+  NR & 6 \\ 
   Indifferent (spontaneous) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 Resposta para a questão: 
@@ -2569,7 +2569,7 @@ Resposta & Código na Base de Dados  \\
   NR & 6 \\ 
   Indiferente (espontânea) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -2589,11 +2589,11 @@ Answer & Code in Dataset  \\
   Important & 2 \\
   Slightly Important & 3 \\ 
   Not Important  & 4 \\ 
-  DK & 5 \\ 
-  NO & 6 \\ 
+  NK & 5 \\ 
+  NR & 6 \\ 
   Indifferent (spontaneous) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 Resposta para a questão: 
@@ -2614,7 +2614,7 @@ Resposta & Código na Base de Dados  \\
   NR & 6 \\ 
   Indiferente (espontânea) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -2634,11 +2634,11 @@ Answer & Code in Dataset  \\
   Important & 2 \\
   Slightly Important & 3 \\ 
   Not Important  & 4 \\ 
-  DK & 5 \\ 
-  NO & 6 \\ 
+  NK & 5 \\ 
+  NR & 6 \\ 
   Indifferent (spontaneous) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 Resposta para a questão: 
@@ -2659,7 +2659,7 @@ Resposta & Código na Base de Dados  \\
   NR & 6 \\ 
   Indiferente (espontânea) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
  
@@ -2692,13 +2692,13 @@ Answer & Code in Dataset  \\
   Protect the environment & 14 \\
   Promote regional integration & 15 \\
   Promote the protection of Human Rights in other nations & 16 \\
-  DK & 17 \\
-  NO & 18 \\
+  NK & 17 \\
+  NR & 18 \\
   All (SPONTANEOUS) & 19 \\
   None (SPONTANEOUS) & 20 \\
   Other. Explain. & 21
   
-\\ NA & -1    \end{tabular}}
+   \end{tabular}}
 \end{table}
 
 Resposta para a questão: 
@@ -2733,7 +2733,7 @@ Todos (Espontânea) & 19 \\
 Nenhum (Espontânea) & 20 \\
 Outro. Qual? (Espontânea) & 21 \\
 
-\\ NA & -1    \end{tabular}}
+   \end{tabular}}
 \end{table}
 
 
@@ -2754,10 +2754,10 @@ Answer & Code in Dataset  \\
   Slightly Important & 3 \\ 
   Not Important  & 4 \\ 
   Indifferent (spontaneous) & 5 \\ 
-  DK & 6 \\ 
-  NO & 7
+  NK & 6 \\ 
+  NR & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -2781,7 +2781,7 @@ Resposta & Código na Base de Dados  \\
   NS & 6 \\ 
   NR & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -2802,7 +2802,7 @@ Answer & Code in Dataset  \\
   The same (SPONTANEOUS) & 3 \\ 
   DK  & 4
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -2821,7 +2821,7 @@ Resposta & Código na Base de Dados  \\
   Igual (ESPONTÂNEA) & 3 \\ 
   NS  & 4
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -2842,7 +2842,7 @@ Answer & Code in Dataset  \\
   The same (SPONTANEOUS) & 3 \\ 
   DK  & 4
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -2861,7 +2861,7 @@ Resposta & Código na Base de Dados  \\
   Igual (ESPONTÂNEA) & 3 \\ 
   NS  & 4
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -2880,11 +2880,11 @@ Answer & Code in Dataset  \\
   \hline
   Changing the current distribution of power among the countries in the world & 1 \\ 
   Maintaining the current distribution of power among the countries in the world, including Brazil between the most powerful & 2 \\
-  DK & 3 \\ 
+  NK & 3 \\ 
   NA  & 4 \\ 
   It has no aims (SPONTANEOUS) & 5
   
-\\ NA & -1    \end{tabular}}
+   \end{tabular}}
 \end{table}
 
 Resposta para a questão: 
@@ -2904,7 +2904,7 @@ Resposta & Código na Base de Dados  \\
   NR & 4 \\ 
   Não tem nenhum objetivo (espontânea) & 5 
   
-\\ NA & -1    \end{tabular}}
+   \end{tabular}}
 \end{table}
 
 
@@ -2924,11 +2924,11 @@ Answer & Code in Dataset  \\
   Important & 2 \\
   Slightly Important & 3 \\ 
   Not Important  & 4 \\ 
-  DK & 5 \\ 
-  NO & 6 \\ 
+  NK & 5 \\ 
+  NR & 6 \\ 
   Indifferent (spontaneous) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 Resposta para a questão: 
@@ -2949,7 +2949,7 @@ Resposta & Código na Base de Dados  \\
   NR & 6 \\ 
   Indiferente (espontânea) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -2969,11 +2969,11 @@ Answer & Code in Dataset  \\
   Important & 2 \\
   Slightly Important & 3 \\ 
   Not Important  & 4 \\ 
-  DK & 5 \\ 
-  NO & 6 \\ 
+  NK & 5 \\ 
+  NR & 6 \\ 
   Indifferent (spontaneous) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 Resposta para a questão: 
@@ -2994,7 +2994,7 @@ Resposta & Código na Base de Dados  \\
   NR & 6 \\ 
   Indiferente (espontânea) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -3014,11 +3014,11 @@ Answer & Code in Dataset  \\
   Important & 2 \\
   Slightly Important & 3 \\ 
   Not Important  & 4 \\ 
-  DK & 5 \\ 
-  NO & 6 \\ 
+  NK & 5 \\ 
+  NR & 6 \\ 
   Indifferent (spontaneous) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 Resposta para a questão: 
@@ -3039,7 +3039,7 @@ Resposta & Código na Base de Dados  \\
   NR & 6 \\ 
   Indiferente (espontânea) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -3059,11 +3059,11 @@ Answer & Code in Dataset  \\
   Important & 2 \\
   Slightly Important & 3 \\ 
   Not Important  & 4 \\ 
-  DK & 5 \\ 
-  NO & 6 \\ 
+  NK & 5 \\ 
+  NR & 6 \\ 
   Indifferent (spontaneous) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 Resposta para a questão: 
@@ -3084,7 +3084,7 @@ Resposta & Código na Base de Dados  \\
   NR & 6 \\ 
   Indiferente (espontânea) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -3104,11 +3104,11 @@ Answer & Code in Dataset  \\
   Important & 2 \\
   Slightly Important & 3 \\ 
   Not Important  & 4 \\ 
-  DK & 5 \\ 
-  NO & 6 \\ 
+  NK & 5 \\ 
+  NR & 6 \\ 
   Indifferent (spontaneous) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 Resposta para a questão: 
@@ -3129,7 +3129,7 @@ Resposta & Código na Base de Dados  \\
   NR & 6 \\ 
   Indiferente (espontânea) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -3149,11 +3149,11 @@ Answer & Code in Dataset  \\
   Partly Agree & 2 \\
   Partly Disagree & 3 \\ 
   Fully Disagree  & 4 \\ 
-  DK & 5 \\ 
-  NO & 6 \\ 
+  NK & 5 \\ 
+  NR & 6 \\ 
   Do not agree nor disagree (SPONTANEOUS) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 Resposta para a questão: 
@@ -3174,7 +3174,7 @@ Resposta & Código na Base de Dados  \\
   NR & 6 \\ 
   Nem concordo nem discordo (ESPONTÂNEA) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -3195,11 +3195,11 @@ Answer & Code in Dataset  \\
   Partly Agree & 2 \\
   Partly Disagree & 3 \\ 
   Fully Disagree  & 4 \\ 
-  DK & 5 \\ 
-  NO & 6 \\ 
+  NK & 5 \\ 
+  NR & 6 \\ 
   Do not agree nor disagree (SPONTANEOUS) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 Resposta para a questão: 
@@ -3220,7 +3220,7 @@ Resposta & Código na Base de Dados  \\
   NR & 6 \\ 
   Nem concordo nem discordo (ESPONTÂNEA) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -3240,11 +3240,11 @@ Answer & Code in Dataset  \\
   Partly Agree & 2 \\
   Partly Disagree & 3 \\ 
   Fully Disagree  & 4 \\ 
-  DK & 5 \\ 
-  NO & 6 \\ 
+  NK & 5 \\ 
+  NR & 6 \\ 
   Do not agree nor disagree (SPONTANEOUS) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 Resposta para a questão: 
@@ -3265,7 +3265,7 @@ Resposta & Código na Base de Dados  \\
   NR & 6 \\ 
   Nem concordo nem discordo (ESPONTÂNEA) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -3285,11 +3285,11 @@ Answer & Code in Dataset  \\
   Partly Agree & 2 \\
   Partly Disagree & 3 \\ 
   Fully Disagree  & 4 \\ 
-  DK & 5 \\ 
-  NO & 6 \\ 
+  NK & 5 \\ 
+  NR & 6 \\ 
   Do not agree nor disagree (SPONTANEOUS) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 Resposta para a questão: 
@@ -3310,7 +3310,7 @@ Resposta & Código na Base de Dados  \\
   NR & 6 \\ 
   Nem concordo nem discordo (ESPONTÂNEA) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -3330,11 +3330,11 @@ Answer & Code in Dataset  \\
   Partly Agree & 2 \\
   Partly Disagree & 3 \\ 
   Fully Disagree  & 4 \\ 
-  DK & 5 \\ 
-  NO & 6 \\ 
+  NK & 5 \\ 
+  NR & 6 \\ 
   Do not agree nor disagree (SPONTANEOUS) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 Resposta para a questão: 
@@ -3355,7 +3355,7 @@ Resposta & Código na Base de Dados  \\
   NR & 6 \\ 
   Nem concordo nem discordo (ESPONTÂNEA) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -3373,11 +3373,11 @@ Answer & Code in Dataset  \\
   \hline
   Supports & 1 \\ 
   Does Not Support & 2 \\
-  DK & 3 \\ 
-  NO & 4 \\ 
+  NK & 3 \\ 
+  NR & 4 \\ 
   Indifferent (SPONTANEOUS) & 5
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -3397,7 +3397,7 @@ Resposta & Código na Base de Dados  \\
   NR  & 4 \\ 
   Indiferente (ESPONTÂNEA) & 5 
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -3415,11 +3415,11 @@ Answer & Code in Dataset  \\
   \hline
   Supports & 1 \\ 
   Does Not Support & 2 \\
-  DK & 3 \\ 
-  NO & 4 \\ 
+  NK & 3 \\ 
+  NR & 4 \\ 
   Indifferent (SPONTANEOUS) & 5
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -3439,7 +3439,7 @@ Resposta & Código na Base de Dados  \\
   NR  & 4 \\ 
   Indiferente (ESPONTÂNEA) & 5 
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -3457,11 +3457,11 @@ Answer & Code in Dataset  \\
   \hline
   Supports & 1 \\ 
   Does Not Support & 2 \\
-  DK & 3 \\ 
-  NO & 4 \\ 
+  NK & 3 \\ 
+  NR & 4 \\ 
   Indifferent (SPONTANEOUS) & 5
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -3481,7 +3481,7 @@ Resposta & Código na Base de Dados  \\
   NR  & 4 \\ 
   Indiferente (ESPONTÂNEA) & 5 
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -3499,11 +3499,11 @@ Answer & Code in Dataset  \\
   \hline
   Supports & 1 \\ 
   Does Not Support & 2 \\
-  DK & 3 \\ 
-  NO & 4 \\ 
+  NK & 3 \\ 
+  NR & 4 \\ 
   Indifferent (SPONTANEOUS) & 5
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -3523,7 +3523,7 @@ Resposta & Código na Base de Dados  \\
   NR  & 4 \\ 
   Indiferente (ESPONTÂNEA) & 5 
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -3541,11 +3541,11 @@ Answer & Code in Dataset  \\
   \hline
   Supports & 1 \\ 
   Does Not Support & 2 \\
-  DK & 3 \\ 
-  NO & 4 \\ 
+  NK & 3 \\ 
+  NR & 4 \\ 
   Indifferent (SPONTANEOUS) & 5
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -3565,7 +3565,7 @@ Resposta & Código na Base de Dados  \\
   NR  & 4 \\ 
   Indiferente (ESPONTÂNEA) & 5 
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -3583,11 +3583,11 @@ Answer & Code in Dataset  \\
   \hline
   Supports & 1 \\ 
   Does Not Support & 2 \\
-  DK & 3 \\ 
-  NO & 4 \\ 
+  NK & 3 \\ 
+  NR & 4 \\ 
   Indifferent (SPONTANEOUS) & 5
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -3607,7 +3607,7 @@ Resposta & Código na Base de Dados  \\
   NR  & 4 \\ 
   Indiferente (ESPONTÂNEA) & 5 
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -3625,11 +3625,11 @@ Answer & Code in Dataset  \\
   \hline
   Supports & 1 \\ 
   Does Not Support & 2 \\
-  DK & 3 \\ 
-  NO & 4 \\ 
+  NK & 3 \\ 
+  NR & 4 \\ 
   Indifferent (SPONTANEOUS) & 5
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -3649,7 +3649,7 @@ Resposta & Código na Base de Dados  \\
   NR  & 4 \\ 
   Indiferente (ESPONTÂNEA) & 5 
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -3667,11 +3667,11 @@ Answer & Code in Dataset  \\
   \hline
   Supports & 1 \\ 
   Does Not Support & 2 \\
-  DK & 3 \\ 
-  NO & 4 \\ 
+  NK & 3 \\ 
+  NR & 4 \\ 
   Indifferent (SPONTANEOUS) & 5
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -3691,7 +3691,7 @@ Resposta & Código na Base de Dados  \\
   NR  & 4 \\ 
   Indiferente (ESPONTÂNEA) & 5 
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -3716,11 +3716,11 @@ Answer & Code in Dataset  \\
   Neither Good nor Bad & 3 \\ 
   Good & 4 \\ 
   Very Good & 5 \\
-  DK & 6 \\
-  NO & 7 \\
+  NK & 6 \\
+  NR & 7 \\
   Neither Good nor Bad (SPONTANEOUS) & 
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -3743,7 +3743,7 @@ Resposta & Código na Base de Dados  \\
   NR & 7 \\
   Nem bom, nem ruim (ESPONTÂNEA) & 8
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -3764,11 +3764,11 @@ Answer & Code in Dataset  \\
   Neither Good nor Bad & 3 \\ 
   Good & 4 \\ 
   Very Good & 5 \\
-  DK & 6 \\
-  NO & 7 \\
+  NK & 6 \\
+  NR & 7 \\
   Neither Good nor Bad (SPONTANEOUS) & 
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -3791,7 +3791,7 @@ Resposta & Código na Base de Dados  \\
   NR & 7 \\
   Nem bom, nem ruim (ESPONTÂNEA) & 8
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -3812,11 +3812,11 @@ Answer & Code in Dataset  \\
   Neither Good nor Bad & 3 \\ 
   Good & 4 \\ 
   Very Good & 5 \\
-  DK & 6 \\
-  NO & 7 \\
+  NK & 6 \\
+  NR & 7 \\
   Neither Good nor Bad (SPONTANEOUS) & 
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -3839,7 +3839,7 @@ Resposta & Código na Base de Dados  \\
   NR & 7 \\
   Nem bom, nem ruim (ESPONTÂNEA) & 8
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 ## T_Q22_4
@@ -3859,11 +3859,11 @@ Answer & Code in Dataset  \\
   Neither Good nor Bad & 3 \\ 
   Good & 4 \\ 
   Very Good & 5 \\
-  DK & 6 \\
-  NO & 7 \\
+  NK & 6 \\
+  NR & 7 \\
   Neither Good nor Bad (SPONTANEOUS) & 
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -3886,7 +3886,7 @@ Resposta & Código na Base de Dados  \\
   NR & 7 \\
   Nem bom, nem ruim (ESPONTÂNEA) & 8
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -3907,11 +3907,11 @@ Answer & Code in Dataset  \\
   Neither Good nor Bad & 3 \\ 
   Good & 4 \\ 
   Very Good & 5 \\
-  DK & 6 \\
-  NO & 7 \\
+  NK & 6 \\
+  NR & 7 \\
   Neither Good nor Bad (SPONTANEOUS) & 
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -3934,7 +3934,7 @@ Resposta & Código na Base de Dados  \\
   NR & 7 \\
   Nem bom, nem ruim (ESPONTÂNEA) & 8
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -3955,11 +3955,11 @@ Answer & Code in Dataset  \\
   Neither Good nor Bad & 3 \\ 
   Good & 4 \\ 
   Very Good & 5 \\
-  DK & 6 \\
-  NO & 7 \\
+  NK & 6 \\
+  NR & 7 \\
   Neither Good nor Bad (SPONTANEOUS) & 
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -3982,7 +3982,7 @@ Resposta & Código na Base de Dados  \\
   NR & 7 \\
   Nem bom, nem ruim (ESPONTÂNEA) & 8
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 ## T_Q22_7
@@ -4002,11 +4002,11 @@ Answer & Code in Dataset  \\
   Neither Good nor Bad & 3 \\ 
   Good & 4 \\ 
   Very Good & 5 \\
-  DK & 6 \\
-  NO & 7 \\
+  NK & 6 \\
+  NR & 7 \\
   Neither Good nor Bad (SPONTANEOUS) & 
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -4029,7 +4029,7 @@ Resposta & Código na Base de Dados  \\
   NR & 7 \\
   Nem bom, nem ruim (ESPONTÂNEA) & 8
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -4048,10 +4048,10 @@ Answer & Code in Dataset  \\
   Better & 1 \\ 
   The Same & 2 \\
   Worse & 3 \\ 
-  DK & 4 \\ 
+  NK & 4 \\ 
   NR & 5
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -4071,7 +4071,7 @@ Resposta & Código na Base de Dados  \\
   NS  & 4 \\ 
   NR & 5 
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -4091,11 +4091,11 @@ Answer & Code in Dataset  \\
   Partly Agree & 2 \\
   Partly Disagree & 3 \\ 
   Fully Disagree  & 4 \\ 
-  DK & 5 \\ 
-  NO & 6 \\ 
+  NK & 5 \\ 
+  NR & 6 \\ 
   Do not agree nor disagree (SPONTANEOUS) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 Resposta para a questão: 
@@ -4116,7 +4116,7 @@ Resposta & Código na Base de Dados  \\
   NR & 6 \\ 
   Nem concordo nem discordo (ESPONTÂNEA) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -4137,11 +4137,11 @@ Answer & Code in Dataset  \\
   Partly Agree & 2 \\
   Partly Disagree & 3 \\ 
   Fully Disagree  & 4 \\ 
-  DK & 5 \\ 
-  NO & 6 \\ 
+  NK & 5 \\ 
+  NR & 6 \\ 
   Do not agree nor disagree (SPONTANEOUS) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 Resposta para a questão: 
@@ -4162,7 +4162,7 @@ Resposta & Código na Base de Dados  \\
   NR & 6 \\ 
   Nem concordo nem discordo (ESPONTÂNEA) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -4182,11 +4182,11 @@ Answer & Code in Dataset  \\
   Partly Agree & 2 \\
   Partly Disagree & 3 \\ 
   Fully Disagree  & 4 \\ 
-  DK & 5 \\ 
-  NO & 6 \\ 
+  NK & 5 \\ 
+  NR & 6 \\ 
   Do not agree nor disagree (SPONTANEOUS) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 Resposta para a questão: 
@@ -4207,7 +4207,7 @@ Resposta & Código na Base de Dados  \\
   NR & 6 \\ 
   Nem concordo nem discordo (ESPONTÂNEA) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -4227,11 +4227,11 @@ Answer & Code in Dataset  \\
   Partly Agree & 2 \\
   Partly Disagree & 3 \\ 
   Fully Disagree  & 4 \\ 
-  DK & 5 \\ 
-  NO & 6 \\ 
+  NK & 5 \\ 
+  NR & 6 \\ 
   Do not agree nor disagree (SPONTANEOUS) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 Resposta para a questão: 
@@ -4252,7 +4252,7 @@ Resposta & Código na Base de Dados  \\
   NR & 6 \\ 
   Nem concordo nem discordo (ESPONTÂNEA) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -4272,11 +4272,11 @@ Answer & Code in Dataset  \\
   Partly Agree & 2 \\
   Partly Disagree & 3 \\ 
   Fully Disagree  & 4 \\ 
-  DK & 5 \\ 
-  NO & 6 \\ 
+  NK & 5 \\ 
+  NR & 6 \\ 
   Do not agree nor disagree (SPONTANEOUS) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 Resposta para a questão: 
@@ -4297,7 +4297,7 @@ Resposta & Código na Base de Dados  \\
   NR & 6 \\ 
   Nem concordo nem discordo (ESPONTÂNEA) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -4317,11 +4317,11 @@ Answer & Code in Dataset  \\
   Partly Agree & 2 \\
   Partly Disagree & 3 \\ 
   Fully Disagree  & 4 \\ 
-  DK & 5 \\ 
-  NO & 6 \\ 
+  NK & 5 \\ 
+  NR & 6 \\ 
   Do not agree nor disagree (SPONTANEOUS) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 Resposta para a questão: 
@@ -4342,7 +4342,7 @@ Resposta & Código na Base de Dados  \\
   NR & 6 \\ 
   Nem concordo nem discordo (ESPONTÂNEA) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -4362,11 +4362,11 @@ Answer & Code in Dataset  \\
   Partly Agree & 2 \\
   Partly Disagree & 3 \\ 
   Fully Disagree  & 4 \\ 
-  DK & 5 \\ 
-  NO & 6 \\ 
+  NK & 5 \\ 
+  NR & 6 \\ 
   Do not agree nor disagree (SPONTANEOUS) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 Resposta para a questão: 
@@ -4387,7 +4387,7 @@ Resposta & Código na Base de Dados  \\
   NR & 6 \\ 
   Nem concordo nem discordo (ESPONTÂNEA) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -4407,11 +4407,11 @@ Answer & Code in Dataset  \\
   Partly Agree & 2 \\
   Partly Disagree & 3 \\ 
   Fully Disagree  & 4 \\ 
-  DK & 5 \\ 
-  NO & 6 \\ 
+  NK & 5 \\ 
+  NR & 6 \\ 
   Do not agree nor disagree (SPONTANEOUS) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 Resposta para a questão: 
@@ -4432,7 +4432,7 @@ Resposta & Código na Base de Dados  \\
   NR & 6 \\ 
   Nem concordo nem discordo (ESPONTÂNEA) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -4450,11 +4450,11 @@ Answer & Code in Dataset  \\
   \hline
   Negative & 1 \\ 
   Positive & 2 \\
-  DK & 3 \\ 
+  NK & 3 \\ 
   NA  & 4 \\ 
   Indifferent (SPONTANEOUS) & 5 
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -4474,7 +4474,7 @@ Resposta & Código na Base de Dados  \\
   NR  & 4 \\ 
   Indiferente (ESPONTÂNEA) & 5 
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -4492,10 +4492,10 @@ Answer & Code in Dataset  \\
   \hline
   Trust & 1 \\ 
   Distrust & 2 \\
-  DK & 3 \\ 
+  NK & 3 \\ 
   NA  & 4 
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -4514,7 +4514,7 @@ Resposta & Código na Base de Dados  \\
   NS & 3 \\ 
   NR  & 4 
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -4532,10 +4532,10 @@ Answer & Code in Dataset  \\
   \hline
   Trust & 1 \\ 
   Distrust & 2 \\
-  DK & 3 \\ 
+  NK & 3 \\ 
   NA  & 4 
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -4554,7 +4554,7 @@ Resposta & Código na Base de Dados  \\
   NS & 3 \\ 
   NR  & 4 
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 ## T_Q27_1
@@ -4571,10 +4571,10 @@ Answer & Code in Dataset  \\
   \hline
   Admiration & 1 \\ 
   Contempt & 2 \\
-  DK & 3 \\ 
+  NK & 3 \\ 
   NA  & 4 
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -4593,7 +4593,7 @@ Resposta & Código na Base de Dados  \\
   NS & 3 \\ 
   NR  & 4 
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 ## T_Q27_2
@@ -4610,10 +4610,10 @@ Answer & Code in Dataset  \\
   \hline
   Admiration & 1 \\ 
   Contempt & 2 \\
-  DK & 3 \\ 
+  NK & 3 \\ 
   NA  & 4 
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -4632,7 +4632,7 @@ Resposta & Código na Base de Dados  \\
   NS & 3 \\ 
   NR  & 4 
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -4649,10 +4649,10 @@ Answer to the question:
 Answer & Code in Dataset  \\ 
   \hline
   Numeric Score & 0 to 100 \\ 
-  DK & -2 \\
-  NO & -3  
+  NK & -2 \\
+  NR & -3  
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -4670,7 +4670,7 @@ Resposta & Código na Base de Dados  \\
   NS & -2 \\
   NR & -3
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -4688,10 +4688,10 @@ Answer to the question:
 Answer & Code in Dataset  \\ 
   \hline
   Numeric Score & 0 to 100 \\ 
-  DK & -2 \\
-  NO & -3  
+  NK & -2 \\
+  NR & -3  
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -4709,7 +4709,7 @@ Resposta & Código na Base de Dados  \\
   NS & -2 \\
   NR & -3
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -4726,10 +4726,10 @@ Answer to the question:
 Answer & Code in Dataset  \\ 
   \hline
   Numeric Score & 0 to 100 \\ 
-  DK & -2 \\
-  NO & -3  
+  NK & -2 \\
+  NR & -3  
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -4747,7 +4747,7 @@ Resposta & Código na Base de Dados  \\
   NS & -2 \\
   NR & -3
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -4764,10 +4764,10 @@ Answer to the question:
 Answer & Code in Dataset  \\ 
   \hline
   Numeric Score & 0 to 100 \\ 
-  DK & -2 \\
-  NO & -3  
+  NK & -2 \\
+  NR & -3  
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -4785,7 +4785,7 @@ Resposta & Código na Base de Dados  \\
   NS & -2 \\
   NR & -3
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -4803,10 +4803,10 @@ Answer to the question:
 Answer & Code in Dataset  \\ 
   \hline
   Numeric Score & 0 to 100 \\ 
-  DK & -2 \\
-  NO & -3  
+  NK & -2 \\
+  NR & -3  
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -4824,7 +4824,7 @@ Resposta & Código na Base de Dados  \\
   NS & -2 \\
   NR & -3
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -4841,10 +4841,10 @@ Answer to the question:
 Answer & Code in Dataset  \\ 
   \hline
   Numeric Score & 0 to 100 \\ 
-  DK & -2 \\
-  NO & -3  
+  NK & -2 \\
+  NR & -3  
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -4862,7 +4862,7 @@ Resposta & Código na Base de Dados  \\
   NS & -2 \\
   NR & -3
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -4879,10 +4879,10 @@ Answer to the question:
 Answer & Code in Dataset  \\ 
   \hline
   Numeric Score & 0 to 100 \\ 
-  DK & -2 \\
-  NO & -3  
+  NK & -2 \\
+  NR & -3  
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -4900,7 +4900,7 @@ Resposta & Código na Base de Dados  \\
   NS & -2 \\
   NR & -3
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -4917,10 +4917,10 @@ Answer to the question:
 Answer & Code in Dataset  \\ 
   \hline
   Numeric Score & 0 to 100 \\ 
-  DK & -2 \\
-  NO & -3  
+  NK & -2 \\
+  NR & -3  
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -4938,7 +4938,7 @@ Resposta & Código na Base de Dados  \\
   NS & -2 \\
   NR & -3
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -4955,10 +4955,10 @@ Answer to the question:
 Answer & Code in Dataset  \\ 
   \hline
   Numeric Score & 0 to 100 \\ 
-  DK & -2 \\
-  NO & -3  
+  NK & -2 \\
+  NR & -3  
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -4976,7 +4976,7 @@ Resposta & Código na Base de Dados  \\
   NS & -2 \\
   NR & -3
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -4993,10 +4993,10 @@ Answer to the question:
 Answer & Code in Dataset  \\ 
   \hline
   Numeric Score & 0 to 100 \\ 
-  DK & -2 \\
-  NO & -3  
+  NK & -2 \\
+  NR & -3  
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -5014,7 +5014,7 @@ Resposta & Código na Base de Dados  \\
   NS & -2 \\
   NR & -3
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -5031,10 +5031,10 @@ Answer to the question:
 Answer & Code in Dataset  \\ 
   \hline
   Numeric Score & 0 to 100 \\ 
-  DK & -2 \\
-  NO & -3  
+  NK & -2 \\
+  NR & -3  
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -5052,7 +5052,7 @@ Resposta & Código na Base de Dados  \\
   NS & -2 \\
   NR & -3
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -5073,10 +5073,10 @@ Answer & Code in Dataset  \\
   Society & 2 \\
   Rivalry & 3 \\
   Threat & 4 \\
-  DK & 5 \\
-  NO & 6 
+  NK & 5 \\
+  NR & 6 
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -5097,7 +5097,7 @@ Resposta & Código na Base de Dados  \\
   NS & 5 \\
   NR & 6
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -5118,10 +5118,10 @@ Answer & Code in Dataset  \\
   Society & 2 \\
   Rivalry & 3 \\
   Threat & 4 \\
-  DK & 5 \\
-  NO & 6 
+  NK & 5 \\
+  NR & 6 
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -5142,7 +5142,7 @@ Resposta & Código na Base de Dados  \\
   NS & 5 \\
   NR & 6
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -5163,10 +5163,10 @@ Answer & Code in Dataset  \\
   Society & 2 \\
   Rivalry & 3 \\
   Threat & 4 \\
-  DK & 5 \\
-  NO & 6 
+  NK & 5 \\
+  NR & 6 
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -5187,7 +5187,7 @@ Resposta & Código na Base de Dados  \\
   NS & 5 \\
   NR & 6
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -5208,10 +5208,10 @@ Answer & Code in Dataset  \\
   Society & 2 \\
   Rivalry & 3 \\
   Threat & 4 \\
-  DK & 5 \\
-  NO & 6 
+  NK & 5 \\
+  NR & 6 
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -5232,7 +5232,7 @@ Resposta & Código na Base de Dados  \\
   NS & 5 \\
   NR & 6
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -5253,10 +5253,10 @@ Answer & Code in Dataset  \\
   Society & 2 \\
   Rivalry & 3 \\
   Threat & 4 \\
-  DK & 5 \\
-  NO & 6 
+  NK & 5 \\
+  NR & 6 
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -5277,7 +5277,7 @@ Resposta & Código na Base de Dados  \\
   NS & 5 \\
   NR & 6
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -5298,10 +5298,10 @@ Answer & Code in Dataset  \\
   Society & 2 \\
   Rivalry & 3 \\
   Threat & 4 \\
-  DK & 5 \\
-  NO & 6 
+  NK & 5 \\
+  NR & 6 
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -5322,7 +5322,7 @@ Resposta & Código na Base de Dados  \\
   NS & 5 \\
   NR & 6
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -5343,10 +5343,10 @@ Answer & Code in Dataset  \\
   Society & 2 \\
   Rivalry & 3 \\
   Threat & 4 \\
-  DK & 5 \\
-  NO & 6 
+  NK & 5 \\
+  NR & 6 
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -5367,7 +5367,7 @@ Resposta & Código na Base de Dados  \\
   NS & 5 \\
   NR & 6
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -5388,10 +5388,10 @@ Answer & Code in Dataset  \\
   Society & 2 \\
   Rivalry & 3 \\
   Threat & 4 \\
-  DK & 5 \\
-  NO & 6 
+  NK & 5 \\
+  NR & 6 
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -5412,7 +5412,7 @@ Resposta & Código na Base de Dados  \\
   NS & 5 \\
   NR & 6
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -5433,10 +5433,10 @@ Answer & Code in Dataset  \\
   Society & 2 \\
   Rivalry & 3 \\
   Threat & 4 \\
-  DK & 5 \\
-  NO & 6 
+  NK & 5 \\
+  NR & 6 
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -5457,7 +5457,7 @@ Resposta & Código na Base de Dados  \\
   NS & 5 \\
   NR & 6
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -5478,10 +5478,10 @@ Answer & Code in Dataset  \\
   Society & 2 \\
   Rivalry & 3 \\
   Threat & 4 \\
-  DK & 5 \\
-  NO & 6 
+  NK & 5 \\
+  NR & 6 
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -5502,7 +5502,7 @@ Resposta & Código na Base de Dados  \\
   NS & 5 \\
   NR & 6
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -5523,10 +5523,10 @@ Answer & Code in Dataset  \\
   Society & 2 \\
   Rivalry & 3 \\
   Threat & 4 \\
-  DK & 5 \\
-  NO & 6 
+  NK & 5 \\
+  NR & 6 
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -5547,7 +5547,7 @@ Resposta & Código na Base de Dados  \\
   NS & 5 \\
   NR & 6
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -5567,11 +5567,11 @@ Answer & Code in Dataset  \\
   Partly Agree & 2 \\
   Partly Disagree & 3 \\ 
   Fully Disagree  & 4 \\ 
-  DK & 5 \\ 
-  NO & 6 \\ 
+  NK & 5 \\ 
+  NR & 6 \\ 
   Do not agree nor disagree (SPONTANEOUS) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -5593,7 +5593,7 @@ Resposta & Código na Base de Dados  \\
   NR & 6 \\ 
   Nem concordo nem discordo (ESPONTÂNEA) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -5615,11 +5615,11 @@ Answer & Code in Dataset  \\
   Partly Agree & 2 \\
   Partly Disagree & 3 \\ 
   Fully Disagree  & 4 \\ 
-  DK & 5 \\ 
-  NO & 6 \\ 
+  NK & 5 \\ 
+  NR & 6 \\ 
   Do not agree nor disagree (SPONTANEOUS) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -5641,7 +5641,7 @@ Resposta & Código na Base de Dados  \\
   NR & 6 \\ 
   Nem concordo nem discordo (ESPONTÂNEA) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -5658,17 +5658,17 @@ Answer to the question:
 
 Answer & Code in Dataset  \\ 
   \hline
-  ChiNO & 1 \\ 
+  ChiNR & 1 \\ 
   United States & 2 \\
   France & 3 \\ 
   England  & 4 \\ 
   Russia & 5 \\ 
   Other. Which? & 6 \\ 
-  DK & 7 \\
-  NO & 8 \\
+  NK & 7 \\
+  NR & 8 \\
   None (SPONTANEOUS) & 9
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -5682,7 +5682,7 @@ Resposta para a questão:
 
 Resposta & Código na Base de Dados  \\ 
   \hline
-  ChiNO & 1 \\ 
+  ChiNR & 1 \\ 
   Estados Unidos & 2 \\
   França & 3 \\ 
   Inglaterra  & 4 \\ 
@@ -5692,7 +5692,7 @@ Resposta & Código na Base de Dados  \\
   NR & 8 \\
   Nenhum (ESPONTÂNEA) & 9
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -5708,17 +5708,17 @@ Answer to the question:
 
 Answer & Code in Dataset  \\ 
   \hline
-  ChiNO & 1 \\ 
+  ChiNR & 1 \\ 
   United States & 2 \\
   France & 3 \\ 
   England  & 4 \\ 
   Russia & 5 \\ 
   Other. Which? & 6 \\ 
-  DK & 7 \\
-  NO & 8 \\
+  NK & 7 \\
+  NR & 8 \\
   None (SPONTANEOUS) & 9
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -5732,7 +5732,7 @@ Resposta para a questão:
 
 Resposta & Código na Base de Dados  \\ 
   \hline
-  ChiNO & 1 \\ 
+  ChiNR & 1 \\ 
   Estados Unidos & 2 \\
   França & 3 \\ 
   Inglaterra  & 4 \\ 
@@ -5742,7 +5742,7 @@ Resposta & Código na Base de Dados  \\
   NR & 8 \\
   Nenhum (ESPONTÂNEA) & 9
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -5762,9 +5762,9 @@ Answer & Code in Dataset  \\
   Seek out organizations such as the UN to pressure this country & 2 \\
   Should not get involved in this country's domestic affairs & 3 \\ 
   DK  & 4 \\ 
-  NO & 5 
+  NR & 5 
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 Resposta para a questão: 
@@ -5783,7 +5783,7 @@ Resposta & Código na Base de Dados  \\
   NS  & 4 \\ 
   NR & 5
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 ## T_Q33_1
@@ -5802,11 +5802,11 @@ Answer & Code in Dataset  \\
   Partly Agree & 2 \\
   Partly Disagree & 3 \\ 
   Fully Disagree  & 4 \\ 
-  DK & 5 \\ 
-  NO & 6 \\ 
+  NK & 5 \\ 
+  NR & 6 \\ 
   Do not agree nor disagree (SPONTANEOUS) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -5828,7 +5828,7 @@ Resposta & Código na Base de Dados  \\
   NR & 6 \\ 
   Nem concordo nem discordo (ESPONTÂNEA) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -5848,11 +5848,11 @@ Answer & Code in Dataset  \\
   Partly Agree & 2 \\
   Partly Disagree & 3 \\ 
   Fully Disagree  & 4 \\ 
-  DK & 5 \\ 
-  NO & 6 \\ 
+  NK & 5 \\ 
+  NR & 6 \\ 
   Do not agree nor disagree (SPONTANEOUS) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -5874,7 +5874,7 @@ Resposta & Código na Base de Dados  \\
   NR & 6 \\ 
   Nem concordo nem discordo (ESPONTÂNEA) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -5894,11 +5894,11 @@ Answer & Code in Dataset  \\
   Partly Agree & 2 \\
   Partly Disagree & 3 \\ 
   Fully Disagree  & 4 \\ 
-  DK & 5 \\ 
-  NO & 6 \\ 
+  NK & 5 \\ 
+  NR & 6 \\ 
   Do not agree nor disagree (SPONTANEOUS) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -5920,7 +5920,7 @@ Resposta & Código na Base de Dados  \\
   NR & 6 \\ 
   Nem concordo nem discordo (ESPONTÂNEA) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -5940,11 +5940,11 @@ Answer & Code in Dataset  \\
   Partly Agree & 2 \\
   Partly Disagree & 3 \\ 
   Fully Disagree  & 4 \\ 
-  DK & 5 \\ 
-  NO & 6 \\ 
+  NK & 5 \\ 
+  NR & 6 \\ 
   Do not agree nor disagree (SPONTANEOUS) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -5966,7 +5966,7 @@ Resposta & Código na Base de Dados  \\
   NR & 6 \\ 
   Nem concordo nem discordo (ESPONTÂNEA) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -5986,11 +5986,11 @@ Answer & Code in Dataset  \\
   Partly Agree & 2 \\
   Partly Disagree & 3 \\ 
   Fully Disagree  & 4 \\ 
-  DK & 5 \\ 
-  NO & 6 \\ 
+  NK & 5 \\ 
+  NR & 6 \\ 
   Do not agree nor disagree (SPONTANEOUS) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -6012,7 +6012,7 @@ Resposta & Código na Base de Dados  \\
   NR & 6 \\ 
   Nem concordo nem discordo (ESPONTÂNEA) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -6031,10 +6031,10 @@ Answer & Code in Dataset  \\
   National governments & 1 \\ 
   National governments along with regional organizations & 2 \\
   National governments along with the UN & 3 \\ 
-  DK & 4 \\ 
-  NO & 5 \\ 
+  NK & 4 \\ 
+  NR & 5 \\ 
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 Resposta para a questão: 
@@ -6053,7 +6053,7 @@ Resposta & Código na Base de Dados  \\
   NS & 4 \\ 
   NR & 5 \\
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -6072,10 +6072,10 @@ Answer & Code in Dataset  \\
   National governments & 1 \\ 
   National governments along with regional organizations & 2 \\
   National governments along with the UN & 3 \\ 
-  DK & 4 \\ 
-  NO & 5
+  NK & 4 \\ 
+  NR & 5
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 Resposta para a questão: 
@@ -6094,7 +6094,7 @@ Resposta & Código na Base de Dados  \\
   NS & 4 \\ 
   NR & 5
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -6113,10 +6113,10 @@ Answer & Code in Dataset  \\
   National governments & 1 \\ 
   National governments along with regional organizations & 2 \\
   National governments along with the UN & 3 \\ 
-  DK & 4 \\ 
-  NO & 5 
+  NK & 4 \\ 
+  NR & 5 
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 Resposta para a questão: 
@@ -6135,7 +6135,7 @@ Resposta & Código na Base de Dados  \\
   NS & 4 \\ 
   NR & 5  
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -6154,10 +6154,10 @@ Answer & Code in Dataset  \\
   National governments & 1 \\ 
   National governments along with regional organizations & 2 \\
   National governments along with the UN & 3 \\ 
-  DK & 4 \\ 
-  NO & 5 
+  NK & 4 \\ 
+  NR & 5 
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 Resposta para a questão: 
@@ -6176,7 +6176,7 @@ Resposta & Código na Base de Dados  \\
   NS & 4 \\ 
   NR & 5 
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -6195,10 +6195,10 @@ Answer & Code in Dataset  \\
   National governments & 1 \\ 
   National governments along with regional organizations & 2 \\
   National governments along with the UN & 3 \\ 
-  DK & 4 \\ 
-  NO & 5 
+  NK & 4 \\ 
+  NR & 5 
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 Resposta para a questão: 
@@ -6217,7 +6217,7 @@ Resposta & Código na Base de Dados  \\
   NS & 4 \\ 
   NR & 5 
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -6236,10 +6236,10 @@ Answer & Code in Dataset  \\
   National governments & 1 \\ 
   National governments along with regional organizations & 2 \\
   National governments along with the UN & 3 \\ 
-  DK & 4 \\ 
-  NO & 5 
+  NK & 4 \\ 
+  NR & 5 
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 Resposta para a questão: 
@@ -6258,7 +6258,7 @@ Resposta & Código na Base de Dados  \\
   NS & 4 \\ 
   NR & 5 
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -6277,10 +6277,10 @@ Answer & Code in Dataset  \\
   National governments & 1 \\ 
   National governments along with regional organizations & 2 \\
   National governments along with the UN & 3 \\ 
-  DK & 4 \\ 
-  NO & 5 
+  NK & 4 \\ 
+  NR & 5 
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 Resposta para a questão: 
@@ -6300,7 +6300,7 @@ Resposta & Código na Base de Dados  \\
   NR & 5 
    
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -6319,11 +6319,11 @@ Answer & Code in Dataset  \\
   National governments & 1 \\ 
   National governments along with regional organizations & 2 \\
   National governments along with the UN & 3 \\ 
-  DK & 4 \\ 
-  NO & 5 
+  NK & 4 \\ 
+  NR & 5 
    
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 Resposta para a questão: 
@@ -6343,7 +6343,7 @@ Resposta & Código na Base de Dados  \\
   NR & 5 
    
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -6362,11 +6362,11 @@ Answer & Code in Dataset  \\
   National governments & 1 \\ 
   National governments along with regional organizations & 2 \\
   National governments along with the UN & 3 \\ 
-  DK & 4 \\ 
-  NO & 5 
+  NK & 4 \\ 
+  NR & 5 
    
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 Resposta para a questão: 
@@ -6386,7 +6386,7 @@ Resposta & Código na Base de Dados  \\
   NR & 5 
    
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -6405,11 +6405,11 @@ Answer & Code in Dataset  \\
   National governments & 1 \\ 
   National governments along with regional organizations & 2 \\
   National governments along with the UN & 3 \\ 
-  DK & 4 \\ 
-  NO & 5 
+  NK & 4 \\ 
+  NR & 5 
    
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 Resposta para a questão: 
@@ -6429,7 +6429,7 @@ Resposta & Código na Base de Dados  \\
   NR & 5 
   
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -6448,11 +6448,11 @@ Answer & Code in Dataset  \\
   National governments & 1 \\ 
   National governments along with regional organizations & 2 \\
   National governments along with the UN & 3 \\ 
-  DK & 4 \\ 
-  NO & 5 
+  NK & 4 \\ 
+  NR & 5 
    
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 Resposta para a questão: 
@@ -6472,7 +6472,7 @@ Resposta & Código na Base de Dados  \\
   NR & 5 
    
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -6491,11 +6491,11 @@ Answer & Code in Dataset  \\
   National governments & 1 \\ 
   National governments along with regional organizations & 2 \\
   National governments along with the UN & 3 \\ 
-  DK & 4 \\ 
-  NO & 5 
+  NK & 4 \\ 
+  NR & 5 
    
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 Resposta para a questão: 
@@ -6515,7 +6515,7 @@ Resposta & Código na Base de Dados  \\
   NR & 5 
    
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -6534,11 +6534,11 @@ Answer & Code in Dataset  \\
   National governments & 1 \\ 
   National governments along with regional organizations & 2 \\
   National governments along with the UN & 3 \\ 
-  DK & 4 \\ 
-  NO & 5 
+  NK & 4 \\ 
+  NR & 5 
    
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 Resposta para a questão: 
@@ -6558,7 +6558,7 @@ Resposta & Código na Base de Dados  \\
   NR & 5 
    
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -6575,13 +6575,13 @@ Answer to the question:
 Answer & Code in Dataset  \\ 
   \hline
   Yes & 1 \\ 
-  No & 2 \\
-  DK & 3 \\ 
-  NO & 4 \\ 
+  NR & 2 \\
+  NK & 3 \\ 
+  NR & 4 \\ 
   Indifferent & 5 
    
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -6602,7 +6602,7 @@ Resposta & Código na Base de Dados  \\
   Indiferente & 5 
    
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -6619,13 +6619,13 @@ Answer to the question:
 Answer & Code in Dataset  \\ 
   \hline
   Yes & 1 \\ 
-  No & 2 \\
-  DK & 3 \\ 
-  NO & 4 \\ 
+  NR & 2 \\
+  NK & 3 \\ 
+  NR & 4 \\ 
   Indifferent & 5 
    
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -6646,7 +6646,7 @@ Resposta & Código na Base de Dados  \\
   Indiferente & 5 
    
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}Resposta para a questão: 
 
 
@@ -6664,13 +6664,13 @@ Answer to the question:
 Answer & Code in Dataset  \\ 
   \hline
   Yes & 1 \\ 
-  No & 2 \\
-  DK & 3 \\ 
-  NO & 4 \\ 
+  NR & 2 \\
+  NK & 3 \\ 
+  NR & 4 \\ 
   Indifferent & 5 
    
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -6691,7 +6691,7 @@ Resposta & Código na Base de Dados  \\
   Indiferente & 5 
    
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -6708,13 +6708,13 @@ Answer to the question:
 Answer & Code in Dataset  \\ 
   \hline
   Yes & 1 \\ 
-  No & 2 \\
-  DK & 3 \\ 
-  NO & 4 \\ 
+  NR & 2 \\
+  NK & 3 \\ 
+  NR & 4 \\ 
   Indifferent & 5 
    
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -6735,7 +6735,7 @@ Resposta & Código na Base de Dados  \\
   Indiferente & 5 
    
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -6758,12 +6758,12 @@ Answer & Code in Dataset  \\
   The Middle East & 5 \\
   Africa & 6 \\
   Oceania & 7 \\
-  DK & 8 \\
-  NO & 9 \\
+  NK & 8 \\
+  NR & 9 \\
   None (SPONTANEOUS) & 10
    
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 Resposta para a questão: 
@@ -6788,7 +6788,7 @@ Resposta & Código na Base de Dados  \\
   Nenhum (ESPONTÂNEA) & 10 
    
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -6807,12 +6807,12 @@ Answer & Code in Dataset  \\
   \hline
   Good & 1 \\ 
   Bad & 2 \\
-  DK & 3 \\ 
-  NO & 4 \\ 
+  NK & 3 \\ 
+  NR & 4 \\ 
   Depends (SPONTANEOUS) & 5 
    
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -6833,7 +6833,7 @@ Resposta & Código na Base de Dados  \\
   Depende (ESPONTÂNEA) & 5 
    
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 ## T_Q37_2
@@ -6851,12 +6851,12 @@ Answer & Code in Dataset  \\
   \hline
   Good & 1 \\ 
   Bad & 2 \\
-  DK & 3 \\ 
-  NO & 4 \\ 
+  NK & 3 \\ 
+  NR & 4 \\ 
   Depends (SPONTANEOUS) & 5 
    
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -6877,7 +6877,7 @@ Resposta & Código na Base de Dados  \\
   Depende (ESPONTÂNEA) & 5 
    
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -6896,12 +6896,12 @@ Answer & Code in Dataset  \\
   \hline
   Good & 1 \\ 
   Bad & 2 \\
-  DK & 3 \\ 
-  NO & 4 \\ 
+  NK & 3 \\ 
+  NR & 4 \\ 
   Depends (SPONTANEOUS) & 5 
    
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -6922,7 +6922,7 @@ Resposta & Código na Base de Dados  \\
   Depende (ESPONTÂNEA) & 5 
    
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -6941,12 +6941,12 @@ Answer & Code in Dataset  \\
   \hline
   Good & 1 \\ 
   Bad & 2 \\
-  DK & 3 \\ 
-  NO & 4 \\ 
+  NK & 3 \\ 
+  NR & 4 \\ 
   Depends (SPONTANEOUS) & 5 
    
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -6967,7 +6967,7 @@ Resposta & Código na Base de Dados  \\
   Depende (ESPONTÂNEA) & 5 
    
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -6986,12 +6986,12 @@ Answer & Code in Dataset  \\
   \hline
   Good & 1 \\ 
   Bad & 2 \\
-  DK & 3 \\ 
-  NO & 4 \\ 
+  NK & 3 \\ 
+  NR & 4 \\ 
   Depends (SPONTANEOUS) & 5 
    
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -7012,7 +7012,7 @@ Resposta & Código na Base de Dados  \\
   Depende (ESPONTÂNEA) & 5 
    
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -7031,12 +7031,12 @@ Answer & Code in Dataset  \\
   \hline
   Good & 1 \\ 
   Bad & 2 \\
-  DK & 3 \\ 
-  NO & 4 \\ 
+  NK & 3 \\ 
+  NR & 4 \\ 
   Depends (SPONTANEOUS) & 5 
    
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -7057,7 +7057,7 @@ Resposta & Código na Base de Dados  \\
   Depende (ESPONTÂNEA) & 5 
    
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -7076,12 +7076,12 @@ Answer & Code in Dataset  \\
   \hline
   Good & 1 \\ 
   Bad & 2 \\
-  DK & 3 \\ 
-  NO & 4 \\ 
+  NK & 3 \\ 
+  NR & 4 \\ 
   Depends (SPONTANEOUS) & 5 
    
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -7102,7 +7102,7 @@ Resposta & Código na Base de Dados  \\
   Depende (ESPONTÂNEA) & 5 
    
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -7120,15 +7120,15 @@ Answer to the question:
 
 Answer & Code in Dataset  \\ 
   \hline
-  ArgentiNO & 1 \\ 
+  ArgentiNR & 1 \\ 
   Brazil & 2 \\
   Mexico & 3 \\ 
   Other. Which? & 4 \\ 
-  DK & 5 \\
-  NO & 6 
+  NK & 5 \\
+  NR & 6 
    
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -7142,7 +7142,7 @@ Resposta para a questão:
 
 Resposta & Código na Base de Dados  \\ 
   \hline
-  ArgentiNO & 1 \\ 
+  ArgentiNR & 1 \\ 
   Brasil  & 2 \\
   México & 3 \\ 
   Outro. Qual? & 4 \\ 
@@ -7150,7 +7150,7 @@ Resposta & Código na Base de Dados  \\
   NR & 6 
    
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -7176,16 +7176,16 @@ Answer to the question:
 
 Answer & Code in Dataset  \\ 
   \hline
-  ArgentiNO & 1 \\ 
+  ArgentiNR & 1 \\ 
   Brazil & 2 \\
   Mexico & 3 \\ 
   Other. Which? & 4 \\ 
-  DK & 5 \\
-  NO & 6 \\
+  NK & 5 \\
+  NR & 6 \\
   None (SPONTANEOUS) & 7 
    
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -7199,7 +7199,7 @@ Resposta para a questão:
 
 Resposta & Código na Base de Dados  \\ 
   \hline
-  ArgentiNO & 1 \\ 
+  ArgentiNR & 1 \\ 
   Brasil  & 2 \\
   México & 3 \\ 
   Outro. Qual? & 4 \\ 
@@ -7208,7 +7208,7 @@ Resposta & Código na Base de Dados  \\
   Nenhum (ESPONTÂNEA) & 7 
    
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -7235,16 +7235,16 @@ Answer to the question:
 
 Answer & Code in Dataset  \\ 
   \hline
-  ArgentiNO & 1 \\ 
+  ArgentiNR & 1 \\ 
   Brazil & 2 \\
   Mexico & 3 \\ 
   Other. Which? & 4 \\ 
-  DK & 5 \\
-  NO & 6 \\
+  NK & 5 \\
+  NR & 6 \\
   None (SPONTANEOUS) & 7 
    
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -7258,7 +7258,7 @@ Resposta para a questão:
 
 Resposta & Código na Base de Dados  \\ 
   \hline
-  ArgentiNO & 1 \\ 
+  ArgentiNR & 1 \\ 
   Brasil  & 2 \\
   México & 3 \\ 
   Outro. Qual? & 4 \\ 
@@ -7267,7 +7267,7 @@ Resposta & Código na Base de Dados  \\
   Nenhum (ESPONTÂNEA) & 7
    
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 ## T_Q39_2_Q39_S
@@ -7296,11 +7296,11 @@ Answer & Code in Dataset  \\
   Partly Agree & 2 \\
   Partly Disagree & 3 \\ 
   Fully Disagree  & 4 \\ 
-  DK & 5 \\ 
-  NO & 6 \\ 
+  NK & 5 \\ 
+  NR & 6 \\ 
   Do not agree nor disagree (SPONTANEOUS) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -7322,7 +7322,7 @@ Resposta & Código na Base de Dados  \\
   NR & 6 \\ 
   Nem concordo nem discordo (ESPONTÂNEA) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -7342,11 +7342,11 @@ Answer & Code in Dataset  \\
   Partly Agree & 2 \\
   Partly Disagree & 3 \\ 
   Fully Disagree  & 4 \\ 
-  DK & 5 \\ 
-  NO & 6 \\ 
+  NK & 5 \\ 
+  NR & 6 \\ 
   Do not agree nor disagree (SPONTANEOUS) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -7368,7 +7368,7 @@ Resposta & Código na Base de Dados  \\
   NR & 6 \\ 
   Nem concordo nem discordo (ESPONTÂNEA) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 ## T_Q40_3 
@@ -7387,11 +7387,11 @@ Answer & Code in Dataset  \\
   Partly Agree & 2 \\
   Partly Disagree & 3 \\ 
   Fully Disagree  & 4 \\ 
-  DK & 5 \\ 
-  NO & 6 \\ 
+  NK & 5 \\ 
+  NR & 6 \\ 
   Do not agree nor disagree (SPONTANEOUS) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -7413,7 +7413,7 @@ Resposta & Código na Base de Dados  \\
   NR & 6 \\ 
   Nem concordo nem discordo (ESPONTÂNEA) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -7433,11 +7433,11 @@ Answer & Code in Dataset  \\
   Partly Agree & 2 \\
   Partly Disagree & 3 \\ 
   Fully Disagree  & 4 \\ 
-  DK & 5 \\ 
-  NO & 6 \\ 
+  NK & 5 \\ 
+  NR & 6 \\ 
   Do not agree nor disagree (SPONTANEOUS) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -7459,7 +7459,7 @@ Resposta & Código na Base de Dados  \\
   NR & 6 \\ 
   Nem concordo nem discordo (ESPONTÂNEA) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -7479,11 +7479,11 @@ Answer & Code in Dataset  \\
   Partly Agree & 2 \\
   Partly Disagree & 3 \\ 
   Fully Disagree  & 4 \\ 
-  DK & 5 \\ 
-  NO & 6 \\ 
+  NK & 5 \\ 
+  NR & 6 \\ 
   Do not agree nor disagree (SPONTANEOUS) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -7505,7 +7505,7 @@ Resposta & Código na Base de Dados  \\
   NR & 6 \\ 
   Nem concordo nem discordo (ESPONTÂNEA) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -7525,11 +7525,11 @@ Answer & Code in Dataset  \\
   Partly Agree & 2 \\
   Partly Disagree & 3 \\ 
   Fully Disagree  & 4 \\ 
-  DK & 5 \\ 
-  NO & 6 \\ 
+  NK & 5 \\ 
+  NR & 6 \\ 
   Do not agree nor disagree (SPONTANEOUS) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -7551,7 +7551,7 @@ Resposta & Código na Base de Dados  \\
   NR & 6 \\ 
   Nem concordo nem discordo (ESPONTÂNEA) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -7571,11 +7571,11 @@ Answer & Code in Dataset  \\
   Partly Agree & 2 \\
   Partly Disagree & 3 \\ 
   Fully Disagree  & 4 \\ 
-  DK & 5 \\ 
-  NO & 6 \\ 
+  NK & 5 \\ 
+  NR & 6 \\ 
   Do not agree nor disagree (SPONTANEOUS) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -7597,7 +7597,7 @@ Resposta & Código na Base de Dados  \\
   NR & 6 \\ 
   Nem concordo nem discordo (ESPONTÂNEA) & 7
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -7614,7 +7614,7 @@ Answer to the question:
 Answer & Code in Dataset  \\ 
   \hline
   
-  ArgentiNO & 1 \\
+  ArgentiNR & 1 \\
 Brazil & 2 \\
 Chile & 3 \\
 Colombia & 4 \\
@@ -7625,11 +7625,11 @@ Peru & 8 \\
 Venezuela & 9 \\
 Other. Which? & 10 \\
 None (SPONTANEOUS) & 11 \\
-DK & 12 \\
-NO & 13 \\
+NK & 12 \\
+NR & 13 \\
 
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 Resposta para a questão: 
@@ -7643,7 +7643,7 @@ Resposta para a questão:
 Resposta & Código na Base de Dados  \\ 
   \hline
   
-  ArgentiNO & 1 \\
+  ArgentiNR & 1 \\
 Brasil & 2 \\
 Chile & 3 \\
 Colômbia & 4 \\
@@ -7658,7 +7658,7 @@ NS & 12 \\
 NR & 13 \\
 
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 ## T_Q41_1_Q41_S
@@ -7685,7 +7685,7 @@ Answer to the question:
 Answer & Code in Dataset  \\ 
   \hline
   
-  ArgentiNO & 1 \\
+  ArgentiNR & 1 \\
 Brazil & 2 \\
 Chile & 3 \\
 Colombia & 4 \\
@@ -7696,11 +7696,11 @@ Peru & 8 \\
 Venezuela & 9 \\
 Other. Which? & 10 \\
 None (SPONTANEOUS) & 11 \\
-DK & 12 \\
-NO & 13 \\
+NK & 12 \\
+NR & 13 \\
 
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 Resposta para a questão: 
@@ -7714,7 +7714,7 @@ Resposta para a questão:
 Resposta & Código na Base de Dados  \\ 
   \hline
   
-  ArgentiNO & 1 \\
+  ArgentiNR & 1 \\
 Brasil & 2 \\
 Chile & 3 \\
 Colômbia & 4 \\
@@ -7729,7 +7729,7 @@ NS & 12 \\
 NR & 13 \\
 
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -7756,7 +7756,7 @@ Answer to the question:
 Answer & Code in Dataset  \\ 
   \hline
   
-  ArgentiNO & 1 \\
+  ArgentiNR & 1 \\
 Brazil & 2 \\
 Chile & 3 \\
 Colombia & 4 \\
@@ -7767,11 +7767,11 @@ Peru & 8 \\
 Venezuela & 9 \\
 Other. Which? & 10 \\
 None (SPONTANEOUS) & 11 \\
-DK & 12 \\
-NO & 13 \\
+NK & 12 \\
+NR & 13 \\
 
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 Resposta para a questão: 
@@ -7785,7 +7785,7 @@ Resposta para a questão:
 Resposta & Código na Base de Dados  \\ 
   \hline
   
-  ArgentiNO & 1 \\
+  ArgentiNR & 1 \\
 Brasil & 2 \\
 Chile & 3 \\
 Colômbia & 4 \\
@@ -7800,7 +7800,7 @@ NS & 12 \\
 NR & 13 \\
 
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -7828,7 +7828,7 @@ Answer to the question:
 Answer & Code in Dataset  \\ 
   \hline
   
-  ArgentiNO & 1 \\
+  ArgentiNR & 1 \\
 Brazil & 2 \\
 Chile & 3 \\
 Colombia & 4 \\
@@ -7839,11 +7839,11 @@ Peru & 8 \\
 Venezuela & 9 \\
 Other. Which? & 10 \\
 None (SPONTANEOUS) & 11 \\
-DK & 12 \\
-NO & 13 \\
+NK & 12 \\
+NR & 13 \\
 
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 Resposta para a questão: 
@@ -7857,7 +7857,7 @@ Resposta para a questão:
 Resposta & Código na Base de Dados  \\ 
   \hline
   
-  ArgentiNO & 1 \\
+  ArgentiNR & 1 \\
 Brasil & 2 \\
 Chile & 3 \\
 Colômbia & 4 \\
@@ -7872,7 +7872,7 @@ NS & 12 \\
 NR & 13 \\
 
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -7901,12 +7901,12 @@ Answer & Code in Dataset  \\
   
 Good & 1 \\
 Bad & 2 \\
-DK & 3 \\
-NO & 4 \\
+NK & 3 \\
+NR & 4 \\
 Depends (SPONTANEOUS) & 5 \\
 
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 Resposta para a questão: 
@@ -7927,7 +7927,7 @@ NR & 4 \\
 Depende (ESPONTÂNEA) & 5 \\
 
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 ## T_Q43_2
@@ -7945,12 +7945,12 @@ Answer & Code in Dataset  \\
   
 Good & 1 \\
 Bad & 2 \\
-DK & 3 \\
-NO & 4 \\
+NK & 3 \\
+NR & 4 \\
 Depends (SPONTANEOUS) & 5 \\
 
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 Resposta para a questão: 
@@ -7971,7 +7971,7 @@ NR & 4 \\
 Depende (ESPONTÂNEA) & 5 \\
 
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -7996,7 +7996,7 @@ NS & 4 \\
 NR & 5 \\
 
   
-\\ NA & -1    \end{tabular}}
+   \end{tabular}}
 \end{table}
 
 
@@ -8019,7 +8019,7 @@ NS & 4 \\
 NR & 5
 
   
-\\ NA & -1    \end{tabular}}
+   \end{tabular}}
 \end{table}
 
 
@@ -8038,10 +8038,10 @@ Answer to the question:
 Answer & Code in Dataset  \\ 
   \hline
   Numeric Score & 0 to 100 \\ 
-  DK & -2 \\
-  NO & -3  
+  NK & -2 \\
+  NR & -3  
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 Resposta para a questão: 
@@ -8058,7 +8058,7 @@ Resposta & Código na Base de Dados  \\
   NS & -2 \\
   NR & -3
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -8075,10 +8075,10 @@ Answer to the question:
 Answer & Code in Dataset  \\ 
   \hline
   Numeric Score & 0 to 100 \\ 
-  DK & -2 \\
-  NO & -3  
+  NK & -2 \\
+  NR & -3  
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 Resposta para a questão: 
@@ -8095,7 +8095,7 @@ Resposta & Código na Base de Dados  \\
   NS & -2 \\
   NR & -3
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -8112,10 +8112,10 @@ Answer to the question:
 Answer & Code in Dataset  \\ 
   \hline
   Numeric Score & 0 to 100 \\ 
-  DK & -2 \\
-  NO & -3  
+  NK & -2 \\
+  NR & -3  
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 Resposta para a questão: 
@@ -8132,7 +8132,7 @@ Resposta & Código na Base de Dados  \\
   NS & -2 \\
   NR & -3
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -8149,10 +8149,10 @@ Answer to the question:
 Answer & Code in Dataset  \\ 
   \hline
   Numeric Score & 0 to 100 \\ 
-  DK & -2 \\
-  NO & -3  
+  NK & -2 \\
+  NR & -3  
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 Resposta para a questão: 
@@ -8169,7 +8169,7 @@ Resposta & Código na Base de Dados  \\
   NS & -2 \\
   NR & -3
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -8186,10 +8186,10 @@ Answer to the question:
 Answer & Code in Dataset  \\ 
   \hline
   Numeric Score & 0 to 100 \\ 
-  DK & -2 \\
-  NO & -3  
+  NK & -2 \\
+  NR & -3  
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 Resposta para a questão: 
@@ -8206,7 +8206,7 @@ Resposta & Código na Base de Dados  \\
   NS & -2 \\
   NR & -3
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -8223,10 +8223,10 @@ Answer to the question:
 Answer & Code in Dataset  \\ 
   \hline
   Numeric Score & 0 to 100 \\ 
-  DK & -2 \\
-  NO & -3  
+  NK & -2 \\
+  NR & -3  
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 Resposta para a questão: 
@@ -8243,7 +8243,7 @@ Resposta & Código na Base de Dados  \\
   NS & -2 \\
   NR & -3
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -8260,10 +8260,10 @@ Answer to the question:
 Answer & Code in Dataset  \\ 
   \hline
   Numeric Score & 0 to 100 \\ 
-  DK & -2 \\
-  NO & -3  
+  NK & -2 \\
+  NR & -3  
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 Resposta para a questão: 
@@ -8280,7 +8280,7 @@ Resposta & Código na Base de Dados  \\
   NS & -2 \\
   NR & -3
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -8297,10 +8297,10 @@ Answer to the question:
 Answer & Code in Dataset  \\ 
   \hline
   Numeric Score & 0 to 100 \\ 
-  DK & -2 \\
-  NO & -3  
+  NK & -2 \\
+  NR & -3  
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 Resposta para a questão: 
@@ -8317,7 +8317,7 @@ Resposta & Código na Base de Dados  \\
   NS & -2 \\
   NR & -3
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 
@@ -8334,10 +8334,10 @@ Answer to the question:
 Answer & Code in Dataset  \\ 
   \hline
   Numeric Score & 0 to 100 \\ 
-  DK & -2 \\
-  NO & -3  
+  NK & -2 \\
+  NR & -3  
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 Resposta para a questão: 
@@ -8354,7 +8354,7 @@ Resposta & Código na Base de Dados  \\
   NS & -2 \\
   NR & -3
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 \newpage
@@ -8383,10 +8383,10 @@ Answer & Code in Dataset  \\
   Partly Agree & 2 \\
   Partly Disagree & 3 \\ 
   Fully Disagree  & 4 \\ 
-  DK & 5 \\ 
+  NK & 5 \\ 
   Do not agree nor disagree (SPONTANEOUS) & 6 
   
-\\ NA & -1    \end{tabular}
+   \end{tabular}
 \end{table}
 
 \vspace{1cm}
@@ -8407,7 +8407,7 @@ Resposta & Código na Base de Dados  \\
   NS & 5 \\ 
   Nem concordo nem discordo (ESPONTÂNEA) & 6
   
-\\ NA & -1    \end{tabular}
+\end{tabular}
 \end{table}
 
 
@@ -8589,10 +8589,10 @@ Answer & Code in Dataset  \\
   Good & 2 \\
   Bad & 3 \\ 
   Very Bad & 4 \\ 
-  DK & 5 \\ 
+  NK & 5 \\ 
   Not Good nor Bad (SPONTANEOUS) & 6 
   
-\\ NA & -1    \end{tabular}
+ \end{tabular}
 \end{table}
 
 \vspace{1cm}
@@ -8613,7 +8613,7 @@ Resposta & Código na Base de Dados  \\
   NS & 5 \\ 
   Nem Bom nem Ruim (ESPONTÂNEA) & 6
   
-\\ NA & -1    \end{tabular}
+\end{tabular}
 \end{table}
 
 
@@ -8753,7 +8753,7 @@ Answer & Code in Dataset  \\
   Bothered by two statements  & 2 \\ 
   Bothered by three statements  & 3 \\
   Bothered by four statements & 4
-\\ NA & NA    \end{tabular}
+\\ NA & NA  \end{tabular}
 \end{table}
 
 
@@ -8777,7 +8777,7 @@ Resposta & Código na Base de Dados  \\
   Três frases & 3 \\ 
   Quatro frases & 4 \\
   NA & NA   
-  \end{tabular}
+\end{tabular}
 \end{table}
 
 
@@ -9119,10 +9119,10 @@ Answer & Code in Dataset  \\
   PSL & 5 \\ 
   Another Party? & 6 \\
   Does not support any parties (SPONTANEOUS) & 7 \\
-  DK & 8 \\
-  NO & 9
-  \\ NA & -1    
-  \end{tabular}
+  NK & 8 \\
+  NR & 9
+       
+\end{tabular}
 \end{table}
 
 
@@ -9143,8 +9143,8 @@ Resposta & Código na Base de Dados  \\
   Não se identifica com nenhum partido (ESPONTÂNEA) & 7 \\
   NS & 8 \\
   NR & 9
-  \\ NA & -1    
-  \end{tabular}
+       
+\end{tabular}
 \end{table}
 
 
@@ -9171,8 +9171,8 @@ Answer & Code in Dataset  \\
   Other. Whom? & 11 \\
   Did not get out to vote & 12 \\
   Blank/Protest & 13
-  \\ NA & -1    
-  \end{tabular}
+       
+\end{tabular}
 \end{table}
 
 
@@ -9197,8 +9197,8 @@ Resposta & Código na Base de Dados  \\
   Outro. Qual? & 11 \\
   Não compareceu & 12 \\
   Branco/Nulo & 13
-  \\ NA & -1    
-  \end{tabular}
+       
+\end{tabular}
 \end{table}
 
 
@@ -9215,10 +9215,10 @@ Answer to the question:
 Answer & Code in Dataset  \\ 
   \hline
   Numeric Score & 0 to 100 \\ 
-  DK & -2 \\
-  NO & -3  
+  NK & -2 \\
+  NR & -3  
   
-\\ NA & -1    \end{tabular}
+ \end{tabular}
 \end{table}
 
 Resposta para a questão: 
@@ -9235,7 +9235,7 @@ Resposta & Código na Base de Dados  \\
   NS & -2 \\
   NR & -3
   
-\\ NA & -1    \end{tabular}
+ \end{tabular}
 \end{table}
 
 
@@ -9256,10 +9256,10 @@ Answer & Code in Dataset  \\
   Christian & 3 \\ 
   None & 4 \\ 
   Other. Which? & 5 \\ 
-  DK & 6 \\
-  NO & 7 
-  \\ NA & -1    
-  \end{tabular}
+  NK & 6 \\
+  NR & 7 
+       
+\end{tabular}
 \end{table}
 
 Resposta para a questão:
@@ -9279,8 +9279,8 @@ Resposta & Código na Base de Dados  \\
   Outra. Qual? & 5 \\ 
   NS & 6 \\
   NR & 7
-  \\ NA & -1    
-  \end{tabular}
+       
+\end{tabular}
 \end{table}
 
 
@@ -9299,8 +9299,8 @@ Answer & Code in Dataset  \\
   Female & 1 \\ 
   Male & 2 \\
   Other & 3 
-  \\ NA & -1    
-  \end{tabular}
+       
+\end{tabular}
 \end{table}
 
 Resposta para a questão:
@@ -9314,10 +9314,10 @@ Resposta para a questão:
 Resposta & Código na Base de Dados  \\ 
   \hline
   Feminino & 1 \\ 
-  Masculino & 2 \\
+  MasculiNR & 2 \\
   Outros & 3 
-  \\ NA & -1    
-  \end{tabular}
+       
+\end{tabular}
 \end{table}
 
 
@@ -9347,10 +9347,9 @@ Answer & \multicolumn{9}{c}{Code in Dataset} \\
   Graduate School or Specialization & 30 & 31 & 32 & 33 & 35 & 35 & & & \\
   Graduate - Masters & 40 & 41 & 42 & 43 & 44 & 45 & & & \\
   Graduate - PhD & 50 & 51 & 52 & 53 & 54 & 55 & & & \\
-  DK & ?  & & & & & & & & \\ 
-  NO & ?  & & & & & & & & 
-  \\ NA & -1 & & & & & & & & 
-  \end{tabular}
+  NK & ?  & & & & & & & & \\ 
+  NR & ?  & & & & & & & & 
+\end{tabular}
 \end{table}
 
 
@@ -9373,8 +9372,7 @@ Resposta & \multicolumn{9}{c}{Código na Base de Dados} \\
   Pós: Doutorado & 50 & 51 & 52 & 53 & 54 & 55 & & & \\
   NS & ?  & & & & & & & & \\ 
   NR & ?  & & & & & & & & 
-  \\ NA & -1 & & & & & & & & 
-  \end{tabular}
+\end{tabular}
 \end{table}
 
 
@@ -9397,11 +9395,11 @@ Answer & Code in Dataset  \\
   Snapchat & 5 \\
   WhatsApp & 6 \\
   Other. Which? & 7 \\
-  NO & 8 \\
-  DK & 9 \\
+  NR & 8 \\
+  NK & 9 \\
  Does not take part in any social media & 10
-  \\ NA & -1    
-  \end{tabular}
+       
+\end{tabular}
 \end{table}
 
 Resposta para a questão:
@@ -9424,8 +9422,8 @@ Resposta & Código na Base de Dados  \\
   NR & 8 \\
   NS & 9 \\
   Não participa de nenhuma rede social (espontânea) & 10
-  \\ NA & -1    
-  \end{tabular}
+       
+\end{tabular}
 \end{table}
 
 
@@ -9449,10 +9447,10 @@ Answer & Code in Dataset  \\
   Mixed-race & 4 \\
   Native Brazilian & 5 \\
   Other (spontaneous) & 6 \\
-  DK & 7 \\
-  NO & 8 
-  \\ NA & -1    
-  \end{tabular}
+  NK & 7 \\
+  NR & 8 
+       
+\end{tabular}
 \end{table}
 
 
@@ -9472,8 +9470,8 @@ Resposta & Código na Base de Dados  \\
   Outra (espontânea) & 6 \\
   NS & 7 \\
   NR & 8 
-  \\ NA & -1    
-  \end{tabular}
+       
+\end{tabular}
 \end{table}
 
 
@@ -9498,8 +9496,8 @@ Answer & Code in Dataset  \\
   Retired & 5 \\
   Unemployed & 6 \\
   Permanently disabled & 7 
-  \\ NA & -1    
-  \end{tabular}}
+       
+\end{tabular}}
 \end{table}
 
 Resposta para a questão:
@@ -9521,8 +9519,8 @@ Estudante & 4 \\
 Aposentado ou pensionista & 5 \\
 Desempregado & 6 \\
 Está permanentemente incapacitado & 7
-  \\ NA & -1    
-  \end{tabular}}
+       
+\end{tabular}}
 \end{table}
 
 
@@ -9545,10 +9543,10 @@ Answer & Code in Dataset  \\
   Construction & 5 \\
   Education & 6 \\
   Services (except commerce) & 7 \\
-  DK & 8 \\
-  NO & 9
-  \\ NA & -1    
-  \end{tabular}
+  NK & 8 \\
+  NR & 9
+       
+\end{tabular}
 \end{table}
 
 Resposta para a questão:
@@ -9570,8 +9568,8 @@ Educação & 6 \\
 Serviços (exceto comércio) & 7 \\
 NS & 8 \\
 NR & 9 
-\\ NA & -1    
-  \end{tabular}
+     
+\end{tabular}
 \end{table}
 
 
