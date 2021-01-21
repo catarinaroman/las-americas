@@ -8,33 +8,48 @@ Brazil, the Americas, and the World is funded by The São Paulo Research Foundat
 
 # Research team:
 
-## [Maria Hermínia Tavares de Almeida](http://lattes.cnpq.br/4797882536342819), coordinator (Cebrap) 
+### [Maria Hermínia Tavares de Almeida](http://lattes.cnpq.br/4797882536342819), coordinator (Cebrap) 
 
 <img src="MH.png" alt="Maria Hermínia Tavares de Almeida">
 
-## [Ivan Lopes Fernandes](https://sites.google.com/site/ivanfilipefernandes/) (Federal University of ABC- UFABC)
+### [Ivan Lopes Fernandes](https://sites.google.com/site/ivanfilipefernandes/) (Federal University of ABC- UFABC)
 
 <img src="ivan.png" alt="Ivan Lopes Fernandes">
 
-## [Feliciano de Sá Guimarães](http://lattes.cnpq.br/7107955008495284) (University of São Paulo - USP)
+### [Feliciano de Sá Guimarães](http://lattes.cnpq.br/7107955008495284) (University of São Paulo - USP)
 
 <img src="feliciano.png" alt="Feliciano de Sá Guimarães">
 
-## [Flávio Leão Pinheiro](http://lattes.cnpq.br/1920255833804512) (Federal University of ABC- UFABC)
+### [Flávio Leão Pinheiro](http://lattes.cnpq.br/1920255833804512) (Federal University of ABC- UFABC)
 
 <img src="flavio.png" alt="Flávio Leão Pinheiro">
 
-## [Leandro Piquet Carneiro](http://lattes.cnpq.br/6121326952317794) (University of São Paulo - USP)
+### [Leandro Piquet Carneiro](http://lattes.cnpq.br/6121326952317794) (University of São Paulo - USP)
 
 <img src="piquet.png" alt="Leandro Piquet Carneiro">
 
-## [Umberto Mignozzetti](https://umbertomig.com/) (Emory University)
+### [Umberto Mignozzetti](https://umbertomig.com/) (Emory University)
 
 <img src="umberto.png" alt="Umberto Mignozzetti">
 
-## [Janina Onuki](http://lattes.cnpq.br/3708102324198107), associate researcher
+### [Janina Onuki](http://lattes.cnpq.br/3708102324198107), associate researcher
 
 <img src="janina.png" alt="Janina Onuki">
+
+## Research Assistants
+
+### Priscila Petris 
+### Paloma Morais
+### Fernando Favalle
+### [Catarina Roman](https://catarinaroman.github.io/)
+### Cicley Dias
+### Giovanna França
+
+## Collaborators
+
+### Anna Carolina Mello
+### Bruno Castro
+### Caique Terenzzo
 
 
 # The Project 
