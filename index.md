@@ -6,50 +6,54 @@ Here you find data from the research project Brazil, the Americas and the World,
 Las Americas and the World is the only encompassing study of elites’ and mass public’s opinions about international issues in Latin America.
 Brazil, the Americas, and the World is funded by The São Paulo Research Foundation (FAPESP) and hosted by the Brazilian Center of Analysis and Planning (Cebrap).
 
-# Research team:
+# Research Team
 
-### [Maria Hermínia Tavares de Almeida](http://lattes.cnpq.br/4797882536342819), coordinator (Cebrap) 
+<ul>
 
-<img src="MH.png" alt="Maria Hermínia Tavares de Almeida">
+<li> [Maria Hermínia Tavares de Almeida](http://lattes.cnpq.br/4797882536342819), coordinator (Cebrap) 
 
-### [Ivan Lopes Fernandes](https://sites.google.com/site/ivanfilipefernandes/) (Federal University of ABC- UFABC)
+<img src="MH.png" alt="Maria Hermínia Tavares de Almeida" width="100"></li>
 
-<img src="ivan.png" alt="Ivan Lopes Fernandes">
+<li> [Ivan Lopes Fernandes](https://sites.google.com/site/ivanfilipefernandes/) (Federal University of ABC- UFABC)
 
-### [Feliciano de Sá Guimarães](http://lattes.cnpq.br/7107955008495284) (University of São Paulo - USP)
+<img src="ivan.png" alt="Ivan Lopes Fernandes" width="100"></li>
 
-<img src="feliciano.png" alt="Feliciano de Sá Guimarães">
+<li> [Feliciano de Sá Guimarães](http://lattes.cnpq.br/7107955008495284) (University of São Paulo - USP)
 
-### [Flávio Leão Pinheiro](http://lattes.cnpq.br/1920255833804512) (Federal University of ABC- UFABC)
+<img src="feliciano.png" alt="Feliciano de Sá Guimarães" width="100"></li>
 
-<img src="flavio.png" alt="Flávio Leão Pinheiro">
+<li> [Flávio Leão Pinheiro](http://lattes.cnpq.br/1920255833804512) (Federal University of ABC- UFABC)
 
-### [Leandro Piquet Carneiro](http://lattes.cnpq.br/6121326952317794) (University of São Paulo - USP)
+<img src="flavio.png" alt="Flávio Leão Pinheiro" width="100"></li>
 
-<img src="piquet.png" alt="Leandro Piquet Carneiro">
+<li> [Leandro Piquet Carneiro](http://lattes.cnpq.br/6121326952317794) (University of São Paulo - USP)
 
-### [Umberto Mignozzetti](https://umbertomig.com/) (Emory University)
+<img src="piquet.png" alt="Leandro Piquet Carneiro" width="100"></li>
 
-<img src="umberto.png" alt="Umberto Mignozzetti">
+<li> [Umberto Mignozzetti](https://umbertomig.com/) (Emory University)
 
-### [Janina Onuki](http://lattes.cnpq.br/3708102324198107), associate researcher
+<img src="umberto.png" alt="Umberto Mignozzetti" width="100"></li>
 
-<img src="janina.png" alt="Janina Onuki">
+<li> [Janina Onuki](http://lattes.cnpq.br/3708102324198107), associate researcher
+
+<img src="janina.png" alt="Janina Onuki" width="100"></li>
+
+</ul>
 
 ## Research Assistants
 
-### Priscila Petris 
-### Paloma Morais
-### Fernando Favalle
-### [Catarina Roman](https://catarinaroman.github.io/)
-### Cicley Dias
-### Giovanna França
+<li> Priscila Petris </li>
+<li> Paloma Morais </li>
+<li> Fernando Favalle </li>
+<li> [Catarina Roman](https://catarinaroman.github.io/) </li>
+<li> Cicley Dias </li>
+<li> Giovanna França </li>
 
 ## Collaborators
 
-### Anna Carolina Mello
-### Bruno Castro
-### Caique Terenzzo
+<li> Anna Carolina Mello </li>
+<li> Bruno Castro </li>
+<li> Caique Terenzzo </li>
 
 
 # The Project 
