@@ -52,13 +52,14 @@ Brazil, the Americas, and the World is funded by The São Paulo Research Foundat
 <li> Cicley Dias </li>
 <li> Giovanna França </li>
 <li> Ingrid Meirelles </li>
+<li> Juliana Santos </li>
+<li> Caique Terenzzo </li>
 <br />
 
 ## Collaborators
 
 <li> Anna Carolina Mello </li>
 <li> Bruno Castro </li>
-<li> Caique Terenzzo </li>
 <br />
 <br />
 
