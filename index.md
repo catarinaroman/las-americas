@@ -4,6 +4,11 @@ Here you find data from the research project Brazil, the Americas and the World,
 Las Americas and the World is the only encompassing study of elites’ and mass public’s opinions about international issues in Latin America.
 Brazil, the Americas, and the World is funded by The São Paulo Research Foundation (FAPESP) and hosted by the Brazilian Center of Analysis and Planning (Cebrap).
 
+<br />
+<img src="las-americas.PNG" alt="Las Americas" width="400">
+<br />
+
+
 # Research Team
 
 <ul>
