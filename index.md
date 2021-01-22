@@ -32,7 +32,7 @@ Brazil, the Americas, and the World is funded by The São Paulo Research Foundat
 <br />
 <img src="umberto.png" alt="Umberto Mignozzetti" width="100"></li>
 <br />
-<li> <a href="http://lattes.cnpq.br/3708102324198107" target="_blank" rel="external"> Janina Onuki </a>, associate researcher
+<li> <a href="http://lattes.cnpq.br/3708102324198107" target="_blank" rel="external"> Janina Onuki </a>, associate researcher (University of São Paulo - USP)
 <br />
 <img src="janina.png" alt="Janina Onuki" width="100"></li>
 
