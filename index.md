@@ -10,42 +10,43 @@ Brazil, the Americas, and the World is funded by The São Paulo Research Foundat
 
 <ul>
 
-<li> [Maria Hermínia Tavares de Almeida](http://lattes.cnpq.br/4797882536342819), coordinator (Cebrap) 
+<li> <a href="http://lattes.cnpq.br/4797882536342819" target="_blank" rel="external"> Maria Hermínia Tavares de Almeida </a>, coordinator (Cebrap) 
 <br />
 <img src="MH.png" alt="Maria Hermínia Tavares de Almeida" width="100"></li>
 <br />
-<li> [Ivan Lopes Fernandes](https://sites.google.com/site/ivanfilipefernandes/) (Federal University of ABC- UFABC)
+<li> <a href="https://sites.google.com/site/ivanfilipefernandes/" target="_blank" rel="external"> Ivan Lopes Fernandes </a> (Federal University of ABC- UFABC)
 <br />
 <img src="ivan.png" alt="Ivan Lopes Fernandes" width="100"></li>
 <br />
-<li> [Feliciano de Sá Guimarães](http://lattes.cnpq.br/7107955008495284) (University of São Paulo - USP)
+<li> <a href="http://lattes.cnpq.br/7107955008495284" target="_blank" rel="external"> Feliciano de Sá Guimarães </a> (University of São Paulo - USP)
 <br />
 <img src="feliciano.png" alt="Feliciano de Sá Guimarães" width="100"></li>
 <br />
-<li> [Flávio Leão Pinheiro](http://lattes.cnpq.br/1920255833804512) (Federal University of ABC- UFABC)
+<li> <a href="http://lattes.cnpq.br/1920255833804512" target="_blank" rel="external"> Flávio Leão Pinheiro </a> (Federal University of ABC- UFABC)
 <br />
 <img src="flavio.png" alt="Flávio Leão Pinheiro" width="100"></li>
 <br />
-<li> [Leandro Piquet Carneiro](http://lattes.cnpq.br/6121326952317794) (University of São Paulo - USP)
+<li> <a href="http://lattes.cnpq.br/6121326952317794" target="_blank" rel="external"> Leandro Piquet Carneiro </a> (University of São Paulo - USP)
 <br />
-<img src="piquet.png" alt="Leandro Piquet Carneiro" width="100"></li>
+<img src="piquet.jpg" alt="Leandro Piquet Carneiro" width="100"></li>
 <br />
-<li> [Umberto Mignozzetti](https://umbertomig.com/) (Emory University)
+<li> <a href="https://umbertomig.com/" target="_blank" rel="external"> Umberto Mignozzetti </a> (Emory University)
 <br />
 <img src="umberto.png" alt="Umberto Mignozzetti" width="100"></li>
 <br />
-<li> [Janina Onuki](http://lattes.cnpq.br/3708102324198107), associate researcher
+<li> <a href="http://lattes.cnpq.br/3708102324198107" target="_blank" rel="external"> Janina Onuki </a>, associate researcher
 <br />
 <img src="janina.png" alt="Janina Onuki" width="100"></li>
 
 </ul>
+
 
 ## Research Assistants
 
 <li> Priscila Petris </li>
 <li> Paloma Morais </li>
 <li> Fernando Favalle </li>
-<li> [Catarina Roman](https://catarinaroman.github.io/) </li>
+<li> <a href="https://catarinaroman.github.io/" target="_blank" rel="external"> Catarina Roman </a> </li>
 <li> Cicley Dias </li>
 <li> Giovanna França </li>
 
