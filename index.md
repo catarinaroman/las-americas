@@ -1,6 +1,4 @@
-# Las Americas y el Mundo - The Americas and the World
-
-## Brazilian Branch: Brazil, the Americas, and the World
+# The Americas and the World | Brazilian Branch
 
 Here you find data from the research project Brazil, the Americas and the World, a branch of the international collaborative program _Las Americas y el Mundo_ (The Americas and the World) based on the _Centro de Investigaciones en Desarrollo Económico -- CIDE_ ( Center for Economic Development Research) at Mexico DF. 
 Las Americas and the World is the only encompassing study of elites’ and mass public’s opinions about international issues in Latin America.
@@ -28,7 +26,7 @@ Brazil, the Americas, and the World is funded by The São Paulo Research Foundat
 <br />
 <li> <a href="http://lattes.cnpq.br/6121326952317794" target="_blank" rel="external"> Leandro Piquet Carneiro </a> (University of São Paulo - USP)
 <br />
-<img src="piquet.jpg" alt="Leandro Piquet Carneiro" width="100"></li>
+<img src="piquet.png" alt="Leandro Piquet Carneiro" width="100"></li>
 <br />
 <li> <a href="https://umbertomig.com/" target="_blank" rel="external"> Umberto Mignozzetti </a> (Emory University)
 <br />
@@ -39,7 +37,7 @@ Brazil, the Americas, and the World is funded by The São Paulo Research Foundat
 <img src="janina.png" alt="Janina Onuki" width="100"></li>
 
 </ul>
-
+<br />
 
 ## Research Assistants
 
@@ -49,14 +47,15 @@ Brazil, the Americas, and the World is funded by The São Paulo Research Foundat
 <li> <a href="https://catarinaroman.github.io/" target="_blank" rel="external"> Catarina Roman </a> </li>
 <li> Cicley Dias </li>
 <li> Giovanna França </li>
-
+<br />
 
 ## Collaborators
 
 <li> Anna Carolina Mello </li>
 <li> Bruno Castro </li>
 <li> Caique Terenzzo </li>
-
+<br />
+<br />
 
 # The Project 
 
