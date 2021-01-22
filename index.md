@@ -1,4 +1,4 @@
-# The Americas and the World | Brazilian Branch
+# Brazil, the Americas and the World
 
 Here you find data from the research project Brazil, the Americas and the World, a branch of the international collaborative program _Las Americas y el Mundo_ (The Americas and the World) based on the _Centro de Investigaciones en Desarrollo Económico -- CIDE_ ( Center for Economic Development Research) at Mexico DF. 
 Las Americas and the World is the only encompassing study of elites’ and mass public’s opinions about international issues in Latin America.
