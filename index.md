@@ -47,6 +47,7 @@ Brazil, the Americas, and the World is funded by The São Paulo Research Foundat
 <li> <a href="https://catarinaroman.github.io/" target="_blank" rel="external"> Catarina Roman </a> </li>
 <li> Cicley Dias </li>
 <li> Giovanna França </li>
+<li> Ingrid Meirelles </li>
 <br />
 
 ## Collaborators
