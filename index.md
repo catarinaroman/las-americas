@@ -11,31 +11,31 @@ Brazil, the Americas, and the World is funded by The São Paulo Research Foundat
 <ul>
 
 <li> [Maria Hermínia Tavares de Almeida](http://lattes.cnpq.br/4797882536342819), coordinator (Cebrap) 
-
+<br />
 <img src="MH.png" alt="Maria Hermínia Tavares de Almeida" width="100"></li>
-
+<br />
 <li> [Ivan Lopes Fernandes](https://sites.google.com/site/ivanfilipefernandes/) (Federal University of ABC- UFABC)
-
+<br />
 <img src="ivan.png" alt="Ivan Lopes Fernandes" width="100"></li>
-
+<br />
 <li> [Feliciano de Sá Guimarães](http://lattes.cnpq.br/7107955008495284) (University of São Paulo - USP)
-
+<br />
 <img src="feliciano.png" alt="Feliciano de Sá Guimarães" width="100"></li>
-
+<br />
 <li> [Flávio Leão Pinheiro](http://lattes.cnpq.br/1920255833804512) (Federal University of ABC- UFABC)
-
+<br />
 <img src="flavio.png" alt="Flávio Leão Pinheiro" width="100"></li>
-
+<br />
 <li> [Leandro Piquet Carneiro](http://lattes.cnpq.br/6121326952317794) (University of São Paulo - USP)
-
+<br />
 <img src="piquet.png" alt="Leandro Piquet Carneiro" width="100"></li>
-
+<br />
 <li> [Umberto Mignozzetti](https://umbertomig.com/) (Emory University)
-
+<br />
 <img src="umberto.png" alt="Umberto Mignozzetti" width="100"></li>
-
+<br />
 <li> [Janina Onuki](http://lattes.cnpq.br/3708102324198107), associate researcher
-
+<br />
 <img src="janina.png" alt="Janina Onuki" width="100"></li>
 
 </ul>
@@ -48,6 +48,7 @@ Brazil, the Americas, and the World is funded by The São Paulo Research Foundat
 <li> [Catarina Roman](https://catarinaroman.github.io/) </li>
 <li> Cicley Dias </li>
 <li> Giovanna França </li>
+
 
 ## Collaborators
 
