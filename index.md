@@ -56,7 +56,7 @@ Brazil, the Americas, and the World is funded by The São Paulo Research Foundat
 <li> Caique Terenzzo </li>
 <br />
 
-## Collaborators
+## Research Associates
 
 <li> Anna Carolina Mello </li>
 <li> Bruno Castro </li>
