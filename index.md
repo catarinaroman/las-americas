@@ -108,3 +108,19 @@ If your browser does not support pdfs, you can download the 2010 codebook [here]
 
 
 The 2010 survey instrument (questionnaire) is available in [this link](https://github.com/catarinaroman/las-americas/blob/main/surveys/brazil-2010-survey.pdf).
+
+
+# The Foreign Policy at Press Observatory
+
+<img src="observatorio.jpg" alt="The Foreign Policy at Press Observatory" width="600">
+
+<li> What is the _Foreign Policy at Press Observatory_?
+<br />
+Durante décadas, a política externa brasileira não fez parte da agenda pública de debates. Ao contrário, formulada e executada pelo Ministério de Relações Exteriores, como maior ou menor protagonismo da Presidência da República ela foi, tipicamente, uma política produzida em situação de insulamento burocrático, possibilitado pela indiferença das lideranças políticas e sociais e da opinião pública, ou da parcela mais envolvida na discussão política nacional. Esta situação vem mudando, nas últimas duas décadas. Embora o Itamaraty continue ocupando o centro nervoso, que comanda a política externa brasileira, ela já não pode mais ser pensada como resultado de decisões tomadas por poucos, a portas fechadas. Assim, sua condição de política de estado começa a depender crescentemente, não só da disciplina e capacidade de uma elite burocrática treinada para pensar o país no mundo, mas, também dos consensos formados entre os participantes do que o cientista político Amaury de Souza denominou, anos atrás, “comunidade de política externa” e da capacidade desta de produzir visões sobre a ação externa do Brasil compartilhadas pelo público. A medida em que se alargou o círculo dos que acompanham e se interessam pela ação externa do país, as opiniões sobre ela se diversificaram e com frequência divergiram. Hoje, a imprensa escrita é, a um só tempo, arena e protagonista de um debate informado sobre a política exterior do país. Por esta razão, decidimos acompanhar o que pensam e dizem sobre o tema os principais órgãos da imprensa escrita, como protagonistas, em seus editoriais, e como meio, nos artigos assinados por seus colaboradores permanentes e eventuais. Nossa equipe de pesquisadores lê, cataloga e organiza de forma temática artigos assinados e editoriais publicados na imprensa diária de maior circulação. Acompanhamos, simultaneamente, os pronunciamentos de autoridades do primeiro escalão – Presidente, Vice-presidente, Ministro das Relações Exteriores — sobre a política externa brasileira. As informações mais importantes são publicadas aqui, a cada semestre. Este boletim e o levantamento que o alimenta são realizados pelo Grupo de Pesquisa Imprensa, Opinião Pública e Política Externa e faz parte do projeto O Brasil, as Américas e o Mundo, uma parceria entre Instituto de Relações Internacionais da Universidade de São Paulo e o CEBRAP, com apoio da Fundação de Amparo à Pesquisa do Estado de São Paulo.
+</li>
+
+<li> Methodology
+<br />
+Nossa equipe de pesquisadores lê, cataloga e organiza de forma temática, em um banco de dados, artigos assinados, entrevistas com especialistas e editoriais publicados na imprensa diária ou semanal de maior circulação: Folha de S. Paulo, O Globo, O Estado de S. Paulo e Valor Econômico. Recentemente adicionamos o jornal exclusivamente digital, Gazeta do Povo. Além de registrar a posição expressa em cada texto sobre a política externa brasileira, acompanhamos uma série de temas específicos relacionados às orientações e grandes linhas de atuação do governo no plano internacional. Classificamos como contrários à política externa os textos que a ela fazem críticas explicitas e favoráveis aqueles que explicitamente a elogiam. O termômetro CEBRAP, que visa medir o grau de apoio à política externa brasileira, toma em consideração apenas artigos, entrevistas e editoriais que são explicitamente favoráveis à ação internacional do governo.
+ </li>
+
