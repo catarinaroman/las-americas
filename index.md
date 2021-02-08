@@ -126,14 +126,14 @@ The 2010 survey instrument (questionnaire) is available in [this link](https://g
 
 <img src="observatorio.jpg" alt="The Foreign Policy at Press Observatory" width="600">
 
-<li> <B>What is the <i>Foreign Policy at Press Observatory</i>?<b/>
+<li> <B>What is the <i>Foreign Policy at Press Observatory</i>?</b>
 <br />
  For decades, Brazilian foreign policy was not part of the public debate agenda. In fact, as it is formulated and undertaken by the Ministry of Foreign Affairs, with higher or lower intake from the Presidency, it has been typically produced under bureaucratic isolation due to social-political leaderships' and the public opinion's indifference, as well as political segments' exclusive focus on domestic politics. This situation has been changing for the past two decades. Although the Ministry of Foreign Affairs still concentrates control over Brazilian foreign policy, it can no longer be considered the result of decisions made by few behind closed doors. Thus, foreign policy becomes crescently dependent not only on the discipline and capacity of a trained bureaucratic elite, but also on consensus between what political scientist Amaury de Souza calles the "foreign policy community", and its capacity to produce framings of the Brazilian foreign policy that are shared by the public. 
  
  As the foreign policy audience broadened, opinions became diversified and often divergent. Nowadays, written press is concurrently the arena and the protagonist of an informed debate about the country's foreign policy. Hence, we decided to follow what is thought and what is said about the main actors of the written press. The protagonists being translated through their editorials. Their medium, translated through their signed articles expressing opinions of permanent and invited collaborators. Our team of investigators reads, catalogues, and organizes thematically the signed articles and published editorials in the highest circulating printed press. We follow, simultaneously, the official statements of first-scale authorities -- President, Vice-President, Minister of Foreign Affairs -- about Brazilian Foreign Policy. The most important information is published on the [Observatory webpage](http://cebrap.org.br/projetos/observatorio/), every semester.
 </li>
 
-<li> <b>Methodology<b/>
+<li> <b>Methodology</b>
 <br />
  Our team of investigators reads, catalogues, and organizes thematically the signed articles and published editorials in the highest circulating daily or weekly printed press: Folha de S. Paulo, O Globo, O Estado de S. Paulo and Valor Econômico. Recently, we added the exclusively digital news outlet Gazeta do Povo. Aside from reporting the position expressed in each publication about Brazilian foreign policy, we follow a series of themes specifically related to the orientations and major contributions of government in the international arena. We classify as contrary to the foreign policy those articles that criticize it explicitly, and as aligned to foreign policy are those that explicitly approve of it. The CEBRAP thermometer, which aims to measure the degree of support to Brazilian foreign policy, takes into consideration onl articles, interviews, and editorials that are explicitly in favor of the administration's international activity.
  </li>
