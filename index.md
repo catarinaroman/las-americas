@@ -71,7 +71,7 @@ Brazil, the Americas, and the World is funded by The São Paulo Research Foundat
 2. The Foreign Policy at Press Observatory follows the debate on Brazilian foreign policy in major press outlets through collecting and cataloging editorials and op-ed columns;
 3. A survey experiment on how mass public preferences for foreign policies influence the opinions of the elites on these issues.
 
-All the data collected in the survey waves conducted by the international teams of the _Las Americas y el Mundo_ in Mexico, Peru, Chile, Colombia, and Argentina and data collected for the _Foreign Policy at Press Observatory_ are available online on this page. You may find the issues of _Foreign Policy at Press Observatory_ at [CEBRAP's webpage](http://cebrap.org.br/projetos/observatorio/).
+All the data collected in the survey waves conducted by the international teams of the _Las Americas y el Mundo_ in Mexico, Peru, Chile, Colombia, and Argentina and data collected for the _Foreign Policy at Press Observatory_ are available online on this page. You may find the issues of _Observatory of Brazilian Foreign Policy in the Press_ at [CEBRAP's webpage](http://cebrap.org.br/projetos/observatorio/).
 
 
 # Databases and Codebooks
@@ -97,6 +97,18 @@ If your browser does not support pdfs, you can download the 2014 codebook [here]
 
 The 2014 survey instrument (questionnaire) is available in [this link](https://github.com/catarinaroman/las-americas/blob/main/surveys/brazil-2014-survey.pdf).
 
+## 2011
+
+The dataset for the 2011 leadership survey can be dowloaded [here](https://github.com/catarinaroman/las-americas/tree/main/2011-files)
+The corresponding codebook follows below:
+
+If your browser does not support pdfs, you can download the 2011 codebook [here]().
+
+
+
+The 2010 survey instrument (questionnaire) is available in [this link](https://github.com/catarinaroman/las-americas/tree/main/2011-files).
+
+
 
 ## 2010
 
@@ -110,7 +122,7 @@ If your browser does not support pdfs, you can download the 2010 codebook [here]
 The 2010 survey instrument (questionnaire) is available in [this link](https://github.com/catarinaroman/las-americas/blob/main/surveys/brazil-2010-survey.pdf).
 
 
-# The Foreign Policy at Press Observatory
+# Observatory of Brazilian Foreign Policy in the Press
 
 <img src="observatorio.jpg" alt="The Foreign Policy at Press Observatory" width="600">
 
