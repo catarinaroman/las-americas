@@ -16,7 +16,7 @@ Brazil, the Americas, and the World is funded by The São Paulo Research Foundat
 <br />
 <img src="MH.png" alt="Maria Hermínia Tavares de Almeida" width="100"></li>
 <br />
-<li> <a href="https://sites.google.com/site/ivanfilipefernandes/" target="_blank" rel="external"> Ivan Lopes Fernandes </a> (Federal University of ABC- UFABC)
+<li> <a href="https://sites.google.com/site/ivanfilipefernandes/" target="_blank" rel="external"> Ivan Filipe Fernandes </a> (Federal University of ABC- UFABC)
 <br />
 <img src="ivan.png" alt="Ivan Lopes Fernandes" width="100"></li>
 <br />
@@ -31,10 +31,6 @@ Brazil, the Americas, and the World is funded by The São Paulo Research Foundat
 <li> <a href="http://lattes.cnpq.br/6121326952317794" target="_blank" rel="external"> Leandro Piquet Carneiro </a> (University of São Paulo - USP)
 <br />
 <img src="piquet.png" alt="Leandro Piquet Carneiro" width="100"></li>
-<br />
-<li> <a href="https://umbertomig.com/" target="_blank" rel="external"> Umberto Mignozzetti </a> (Emory University)
-<br />
-<img src="umberto.png" alt="Umberto Mignozzetti" width="100"></li>
 <br />
 <li> <a href="http://lattes.cnpq.br/3708102324198107" target="_blank" rel="external"> Janina Onuki </a>, associate researcher (University of São Paulo - USP)
 <br />
