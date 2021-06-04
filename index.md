@@ -50,12 +50,17 @@ Brazil, the Americas, and the World is funded by The São Paulo Research Foundat
 <li> Ingrid Meirelles </li>
 <li> Juliana Santos </li>
 <li> Caique Terenzzo </li>
+<li> Beatriz Almeida da Silva </li>
+<li> Gabriel Santos Carneiro </li>
 <br />
 
 ## Research Associates
 
 <li> Anna Carolina Mello </li>
 <li> Bruno Castro </li>
+<li> Luis Fernando Baracho </li>
+<li> Enrique Natalino </li>
+<li> Allegra Levandoski </li>
 <br />
 <br />
 
