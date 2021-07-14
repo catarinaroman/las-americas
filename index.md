@@ -75,6 +75,20 @@ Brazil, the Americas, and the World is funded by The São Paulo Research Foundat
 All the data collected in the survey waves conducted by the international teams of the _Las Americas y el Mundo_ in Mexico, Peru, Chile, Colombia, and Argentina and data collected for the _Foreign Policy at Press Observatory_ are available online on this page. You may find the issues of _Observatory of Brazilian Foreign Policy in the Press_ at [CEBRAP's webpage](http://cebrap.org.br/projetos/observatorio/).
 
 
+# The Reports
+
+The project team produces reports -- in Portuguese -- for each wave of the surveys. The report for the 2019 round is under construction. Below is the report for the 2014 results.
+
+<iframe src="https://drive.google.com/file/d/1XU-iezaawkZ__0-5wtsOxFdNo9_t0k2U/preview" width="640" height="480" allow="autoplay"></iframe>
+
+If your browser does not support pdfs, you can download the 2014 report [here](https://github.com/catarinaroman/las-americas/blob/main/reports/relatorio-2014.pdf).
+
+We also present the report for the 2010 survey wave.
+
+<iframe src="https://drive.google.com/file/d/17JvmmcezDLfwXlA50dZ7_Wg2zkNofvfU/preview" width="640" height="480" allow="autoplay"></iframe>
+
+If your browser does not support pdfs, you can download the 2010 report [here](https://github.com/catarinaroman/las-americas/blob/main/reports/relatorio-2010.pdf)
+
 # Databases and Codebooks
 
 ## 2019
@@ -121,6 +135,7 @@ If your browser does not support pdfs, you can download the 2010 codebook [here]
 
 
 The 2010 survey instrument (questionnaire) is available in [this link](https://github.com/catarinaroman/las-americas/blob/main/surveys/brazil-2010-survey.pdf).
+
 
 
 # Observatory of Brazilian Foreign Policy in the Press
