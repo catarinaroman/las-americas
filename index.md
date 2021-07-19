@@ -79,13 +79,13 @@ All the data collected in the survey waves conducted by the international teams 
 
 The project team produces reports -- in Portuguese -- for each wave of the surveys. The report for the 2019 round is under construction. Below is the report for the 2014 results.
 
-<iframe src="https://drive.google.com/file/d/1XU-iezaawkZ__0-5wtsOxFdNo9_t0k2U/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1XU-iezaawkZ__0-5wtsOxFdNo9_t0k2U/preview" width="600" height="480" allow="autoplay"></iframe>
 
 If your browser does not support pdfs, you can download the 2014 report [here](https://github.com/catarinaroman/las-americas/blob/main/reports/relatorio-2014.pdf).
 
 We also present the report for the 2010 survey wave.
 
-<iframe src="https://drive.google.com/file/d/17JvmmcezDLfwXlA50dZ7_Wg2zkNofvfU/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/17JvmmcezDLfwXlA50dZ7_Wg2zkNofvfU/preview" width="600" height="480" allow="autoplay"></iframe>
 
 If your browser does not support pdfs, you can download the 2010 report [here](https://github.com/catarinaroman/las-americas/blob/main/reports/relatorio-2010.pdf)
 
